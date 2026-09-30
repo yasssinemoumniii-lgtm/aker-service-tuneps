@@ -1,0 +1,166 @@
+2026-08-27 10:00:00,458 [INFO] [Pipeline] Interpréteur Python utilisé : C:\Users\user\AppData\Local\Programs\Python\Python311\python.exe
+2026-08-27 10:00:02,114 [INFO] [Pipeline] ########## Démarrage du pipeline Aker Service — 27/08/2026 10:00 ##########
+2026-08-27 10:00:02,114 [INFO] [Pipeline] === Agent 1 : Scraping ===
+2026-08-27 10:00:02,114 [INFO] [Pipeline] ====== WebDriver manager ======
+2026-08-27 10:00:03,653 [INFO] [Pipeline] Get LATEST chromedriver version for google-chrome
+2026-08-27 10:00:06,055 [INFO] [Pipeline] Get LATEST chromedriver version for google-chrome
+2026-08-27 10:00:07,629 [INFO] [Pipeline] WebDriver version 151.0.7922.138 selected
+2026-08-27 10:00:07,638 [INFO] [Pipeline] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/151.0.7922.138/win64/chromedriver-win64.zip
+2026-08-27 10:00:07,638 [INFO] [Pipeline] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/151.0.7922.138/win64/chromedriver-win64.zip
+2026-08-27 10:00:08,472 [INFO] [Pipeline] Driver downloading response is 200
+2026-08-27 10:01:33,415 [INFO] [Pipeline] Driver has been saved in cache [C:\Users\user\.wdm\drivers\chromedriver\win64\151.0.7922.138]
+2026-08-27 10:01:35,048 [INFO] [Pipeline] Ouverture : https://www.tuneps.tn/portail/offres
+2026-08-27 10:02:20,070 [WARNING] [Pipeline]   Timeout au chargement (tentative 1/3)...
+2026-08-27 10:02:43,806 [INFO] [Pipeline]   Taille de page augmentée à 100 lignes/page.
+2026-08-27 10:02:43,807 [INFO] [Pipeline]   Page 1...
+2026-08-27 10:02:46,400 [INFO] [Pipeline]     100 lignes.
+2026-08-27 10:02:46,402 [INFO] [Pipeline]     dont 100 encore actives.
+2026-08-27 10:02:59,513 [INFO] [Pipeline]   Page 2...
+2026-08-27 10:03:03,244 [INFO] [Pipeline]     100 lignes.
+2026-08-27 10:03:03,244 [INFO] [Pipeline]     dont 97 encore actives.
+2026-08-27 10:03:16,353 [INFO] [Pipeline]   Page 3...
+2026-08-27 10:03:18,973 [INFO] [Pipeline]     100 lignes.
+2026-08-27 10:03:18,973 [INFO] [Pipeline]     dont 96 encore actives.
+2026-08-27 10:03:32,872 [INFO] [Pipeline]   Page 4...
+2026-08-27 10:03:35,470 [INFO] [Pipeline]     100 lignes.
+2026-08-27 10:03:35,470 [INFO] [Pipeline]     dont 85 encore actives.
+2026-08-27 10:03:47,801 [INFO] [Pipeline]   Page 5...
+2026-08-27 10:03:50,402 [INFO] [Pipeline]     100 lignes.
+2026-08-27 10:03:50,402 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-27 10:04:10,429 [INFO] [Pipeline]   Page 6...
+2026-08-27 10:04:12,474 [INFO] [Pipeline]     73 lignes.
+2026-08-27 10:04:12,474 [INFO] [Pipeline]     dont 63 encore actives.
+2026-08-27 10:04:24,753 [INFO] [Pipeline]   Page 7...
+2026-08-27 10:04:27,422 [INFO] [Pipeline]     100 lignes.
+2026-08-27 10:04:27,423 [INFO] [Pipeline]     dont 6 encore actives.
+2026-08-27 10:04:43,168 [INFO] [Pipeline]   Page 8...
+2026-08-27 10:04:46,193 [INFO] [Pipeline]     100 lignes.
+2026-08-27 10:04:46,194 [INFO] [Pipeline]     dont 6 encore actives.
+2026-08-27 10:05:21,852 [INFO] [Pipeline]   Page 9...
+2026-08-27 10:05:30,321 [INFO] [Pipeline]     82 lignes.
+2026-08-27 10:05:30,321 [INFO] [Pipeline]     dont 0 encore actives.
+2026-08-27 10:05:53,958 [INFO] [Pipeline]   Page 10...
+2026-08-27 10:05:58,852 [INFO] [Pipeline]     100 lignes.
+2026-08-27 10:05:58,852 [INFO] [Pipeline]     dont 2 encore actives.
+2026-08-27 10:06:19,454 [INFO] [Pipeline]   Page 11...
+2026-08-27 10:06:23,820 [INFO] [Pipeline]     100 lignes.
+2026-08-27 10:06:23,822 [INFO] [Pipeline]     dont 6 encore actives.
+2026-08-27 10:06:46,221 [INFO] [Pipeline]   Page 12...
+2026-08-27 10:06:47,122 [INFO] [Pipeline]     0 lignes.
+2026-08-27 10:06:47,122 [INFO] [Pipeline]     dont 0 encore actives.
+2026-08-27 10:07:09,781 [INFO] [Pipeline]   Page 13...
+2026-08-27 10:07:10,244 [INFO] [Pipeline]     10 lignes.
+2026-08-27 10:07:10,244 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-27 10:07:18,829 [INFO] [Pipeline]   Page 14...
+2026-08-27 10:07:19,257 [INFO] [Pipeline]     10 lignes.
+2026-08-27 10:07:19,257 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-27 10:07:27,890 [INFO] [Pipeline]   Page 15...
+2026-08-27 10:07:28,337 [INFO] [Pipeline]     10 lignes.
+2026-08-27 10:07:28,337 [INFO] [Pipeline]     dont 9 encore actives.
+2026-08-27 10:07:37,813 [INFO] [Pipeline]   Page 16...
+2026-08-27 10:07:38,292 [INFO] [Pipeline]     10 lignes.
+2026-08-27 10:07:38,293 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-27 10:07:47,465 [INFO] [Pipeline]   Page 17...
+2026-08-27 10:07:48,101 [INFO] [Pipeline]     10 lignes.
+2026-08-27 10:07:48,101 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-27 10:07:56,447 [INFO] [Pipeline]   Page 18...
+2026-08-27 10:07:57,025 [INFO] [Pipeline]     10 lignes.
+2026-08-27 10:07:57,025 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-27 10:08:05,753 [INFO] [Pipeline]   Page 19...
+2026-08-27 10:08:06,311 [INFO] [Pipeline]     10 lignes.
+2026-08-27 10:08:06,311 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-27 10:08:14,599 [INFO] [Pipeline]   Page 20...
+2026-08-27 10:08:15,116 [INFO] [Pipeline]     10 lignes.
+2026-08-27 10:08:15,116 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-27 10:08:23,633 [INFO] [Pipeline]   Page 21...
+2026-08-27 10:08:24,116 [INFO] [Pipeline]     10 lignes.
+2026-08-27 10:08:24,116 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-27 10:08:33,102 [INFO] [Pipeline]   Page 22...
+2026-08-27 10:08:33,690 [INFO] [Pipeline]     10 lignes.
+2026-08-27 10:08:33,690 [INFO] [Pipeline]     dont 9 encore actives.
+2026-08-27 10:08:42,395 [INFO] [Pipeline]   Page 23...
+2026-08-27 10:08:42,994 [INFO] [Pipeline]     10 lignes.
+2026-08-27 10:08:42,994 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-27 10:08:51,572 [INFO] [Pipeline]   Page 24...
+2026-08-27 10:08:51,925 [INFO] [Pipeline]     10 lignes.
+2026-08-27 10:08:51,925 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-27 10:09:01,456 [INFO] [Pipeline]   Page 25...
+2026-08-27 10:09:01,895 [INFO] [Pipeline]     10 lignes.
+2026-08-27 10:09:01,895 [INFO] [Pipeline]     dont 9 encore actives.
+2026-08-27 10:09:11,443 [INFO] [Pipeline]   Page 26...
+2026-08-27 10:09:11,893 [INFO] [Pipeline]     10 lignes.
+2026-08-27 10:09:11,894 [INFO] [Pipeline]     dont 9 encore actives.
+2026-08-27 10:09:20,672 [INFO] [Pipeline]   Page 27...
+2026-08-27 10:09:21,205 [INFO] [Pipeline]     10 lignes.
+2026-08-27 10:09:21,205 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-27 10:09:29,743 [INFO] [Pipeline]   Page 28...
+2026-08-27 10:09:30,315 [INFO] [Pipeline]     10 lignes.
+2026-08-27 10:09:30,315 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-27 10:09:38,897 [INFO] [Pipeline]   Page 29...
+2026-08-27 10:09:39,458 [INFO] [Pipeline]     10 lignes.
+2026-08-27 10:09:39,458 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-27 10:09:48,075 [INFO] [Pipeline]   Page 30...
+2026-08-27 10:09:48,704 [INFO] [Pipeline]     10 lignes.
+2026-08-27 10:09:48,704 [INFO] [Pipeline]     dont 9 encore actives.
+2026-08-27 10:09:57,091 [INFO] [Pipeline]   Page 31...
+2026-08-27 10:09:57,644 [INFO] [Pipeline]     10 lignes.
+2026-08-27 10:09:57,644 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-27 10:10:06,541 [INFO] [Pipeline]   Page 32...
+2026-08-27 10:10:07,139 [INFO] [Pipeline]     10 lignes.
+2026-08-27 10:10:07,139 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-27 10:10:15,518 [INFO] [Pipeline]   Page 33...
+2026-08-27 10:10:15,985 [INFO] [Pipeline]     10 lignes.
+2026-08-27 10:10:15,985 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-27 10:10:24,528 [INFO] [Pipeline]   Page 34...
+2026-08-27 10:10:24,643 [INFO] [Pipeline]     0 lignes.
+2026-08-27 10:10:24,643 [INFO] [Pipeline]     dont 0 encore actives.
+2026-08-27 10:10:33,565 [INFO] [Pipeline]   Page 35...
+2026-08-27 10:10:34,005 [INFO] [Pipeline]     10 lignes.
+2026-08-27 10:10:34,005 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-27 10:10:43,185 [INFO] [Pipeline]   Page 36...
+2026-08-27 10:10:43,828 [INFO] [Pipeline]     10 lignes.
+2026-08-27 10:10:43,828 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-27 10:10:52,296 [INFO] [Pipeline]   Page 37...
+2026-08-27 10:10:52,742 [INFO] [Pipeline]     10 lignes.
+2026-08-27 10:10:52,742 [INFO] [Pipeline]     dont 8 encore actives.
+2026-08-27 10:11:01,322 [INFO] [Pipeline]   Page 38...
+2026-08-27 10:11:01,939 [INFO] [Pipeline]     10 lignes.
+2026-08-27 10:11:01,955 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-27 10:11:10,757 [INFO] [Pipeline]   Page 39...
+2026-08-27 10:11:11,021 [INFO] [Pipeline]     2 lignes.
+2026-08-27 10:11:11,021 [INFO] [Pipeline]     dont 0 encore actives.
+2026-08-27 10:11:18,985 [INFO] [Pipeline]   Page 40...
+2026-08-27 10:11:19,227 [INFO] [Pipeline]     1 lignes.
+2026-08-27 10:11:19,227 [INFO] [Pipeline]     dont 0 encore actives.
+2026-08-27 10:11:19,227 [INFO] [Pipeline]   Plus aucune offre active depuis 2 pages : arrêt anticipé (le reste est expiré).
+2026-08-27 10:11:19,276 [INFO] [Pipeline] Sauvegardé : C:\Users\user\Desktop\Aker Service\app\data\raw_avis_ao.json (714 lignes)
+2026-08-27 10:11:19,276 [INFO] [Pipeline] Ouverture : https://www.tuneps.tn/portail/consultations
+2026-08-27 10:11:31,796 [INFO] [Pipeline]   Taille de page augmentée à 100 lignes/page.
+2026-08-27 10:11:31,797 [INFO] [Pipeline]   Page 1...
+2026-08-27 10:11:37,244 [INFO] [Pipeline]     100 lignes.
+2026-08-27 10:11:37,244 [INFO] [Pipeline]     dont 100 encore actives.
+2026-08-27 10:12:00,222 [INFO] [Pipeline]   Page 2...
+2026-08-27 10:12:05,340 [INFO] [Pipeline]     85 lignes.
+2026-08-27 10:12:05,341 [INFO] [Pipeline]     dont 0 encore actives.
+2026-08-27 10:12:28,514 [INFO] [Pipeline]   Page 3...
+2026-08-27 10:12:29,700 [INFO] [Pipeline]     6 lignes.
+2026-08-27 10:12:29,700 [INFO] [Pipeline]     dont 0 encore actives.
+2026-08-27 10:12:29,700 [INFO] [Pipeline]   Plus aucune offre active depuis 2 pages : arrêt anticipé (le reste est expiré).
+2026-08-27 10:12:29,707 [INFO] [Pipeline] Sauvegardé : C:\Users\user\Desktop\Aker Service\app\data\raw_shopping_mall.json (100 lignes)
+2026-08-27 10:12:31,938 [INFO] [Pipeline] Agent1Scraper terminé.
+2026-08-27 10:12:31,954 [INFO] [Pipeline] Agent1 terminé : 714 Avis A.O actifs, 100 Shopping Mall actifs
+2026-08-27 10:12:31,954 [INFO] [Pipeline] === Agent 2 : Nettoyage ===
+2026-08-27 10:12:31,990 [INFO] [Pipeline] Chargé : C:\Users\user\Desktop\Aker Service\app\data\raw_avis_ao.json (714 lignes brutes)
+2026-08-27 10:12:32,263 [INFO] [Pipeline]   253 doublon(s) supprimé(s) sur la colonne 'numero_ao'.
+2026-08-27 10:12:32,263 [INFO] [Pipeline] Avis A.O nettoyé : 461 lignes.
+2026-08-27 10:12:32,294 [INFO] [Pipeline] Sauvegardé : C:\Users\user\Desktop\Aker Service\app\data\cleaned_avis_ao.json (461 lignes)
+2026-08-27 10:12:32,318 [INFO] [Pipeline] Sauvegardé : C:\Users\user\Desktop\Aker Service\app\data\cleaned_avis_ao.csv (461 lignes)
+2026-08-27 10:12:32,345 [INFO] [Pipeline] Chargé : C:\Users\user\Desktop\Aker Service\app\data\raw_shopping_mall.json (100 lignes brutes)
+2026-08-27 10:12:32,354 [INFO] [Pipeline] Shopping Mall nettoyé : 100 lignes.
+2026-08-27 10:12:32,358 [INFO] [Pipeline] Sauvegardé : C:\Users\user\Desktop\Aker Service\app\data\cleaned_shopping_mall.json (100 lignes)
+2026-08-27 10:12:32,359 [INFO] [Pipeline] Sauvegardé : C:\Users\user\Desktop\Aker Service\app\data\cleaned_shopping_mall.csv (100 lignes)
+2026-08-27 10:12:32,359 [INFO] [Pipeline] Agent2Cleaner terminé.
+2026-08-27 10:12:32,359 [INFO] [Pipeline] Agent2 terminé : 461 / 100 lignes nettoyées
+2026-08-27 10:12:32,359 [INFO] [Pipeline] === Agent 3 : Clustering (exécution du notebook) ===
+2026-08-27 10:12:49,033 [INFO] [Pipeline] Agent3 terminé.
+2026-08-27 10:12:49,033 [INFO] [Pipeline] ########## Pipeline terminé avec succès en 0:12:46.919244 ##########

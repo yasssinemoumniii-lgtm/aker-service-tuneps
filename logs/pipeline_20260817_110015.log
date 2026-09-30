@@ -1,0 +1,43 @@
+2026-08-17 11:00:15,782 [INFO] [Pipeline] Interpréteur Python utilisé : C:\Users\user\AppData\Local\Programs\Python\Python311\python.exe
+2026-08-17 11:00:17,394 [INFO] [Pipeline] ########## Démarrage du pipeline Aker Service — 17/08/2026 11:00 ##########
+2026-08-17 11:00:17,394 [INFO] [Pipeline] === Agent 1 : Scraping ===
+2026-08-17 11:00:17,394 [INFO] [Pipeline] ====== WebDriver manager ======
+2026-08-17 11:00:19,152 [INFO] [Pipeline] Get LATEST chromedriver version for google-chrome
+2026-08-17 11:00:19,889 [INFO] [Pipeline] There is no [win64] chromedriver "151.0.7922.138" for browser google-chrome "151.0.7922" in cache
+2026-08-17 11:00:20,671 [INFO] [Pipeline] There is no [win64] chromedriver "151.0.7922.138" for browser google-chrome "151.0.7922" in cache
+2026-08-17 11:00:20,671 [INFO] [Pipeline] Get LATEST chromedriver version for google-chrome
+2026-08-17 11:00:22,767 [INFO] [Pipeline] WebDriver version 151.0.7922.138 selected
+2026-08-17 11:00:22,787 [INFO] [Pipeline] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/151.0.7922.138/win64/chromedriver-win64.zip
+2026-08-17 11:00:22,787 [INFO] [Pipeline] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/151.0.7922.138/win64/chromedriver-win64.zip
+2026-08-17 11:00:24,315 [INFO] [Pipeline] Driver downloading response is 200
+2026-08-17 11:01:49,779 [INFO] [Pipeline] Driver has been saved in cache [C:\Users\user\.wdm\drivers\chromedriver\win64\151.0.7922.138]
+2026-08-17 11:01:51,989 [INFO] [Pipeline] Ouverture : https://www.tuneps.tn/portail/offres
+2026-08-17 11:02:19,299 [ERROR] [Pipeline] ########## Pipeline interrompu : Message: timeout: Timed out receiving message from renderer: 21.732
+  (Session info: chrome=151.0.7922.137)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff78698abb5+151b5]
+	chromedriver!GetHandleVerifier [0x7ff78698ac10+15210]
+	chromedriver!(No symbol) [0x7ff7864b5d6d]
+	chromedriver!(No symbol) [0x7ff7864a2c89]
+	chromedriver!(No symbol) [0x7ff7864a2971]
+	chromedriver!(No symbol) [0x7ff7864a0641]
+	chromedriver!(No symbol) [0x7ff7864a0f7f]
+	chromedriver!(No symbol) [0x7ff7864b057a]
+	chromedriver!(No symbol) [0x7ff7864c6e87]
+	chromedriver!(No symbol) [0x7ff7864cedea]
+	chromedriver!(No symbol) [0x7ff7864a1741]
+	chromedriver!(No symbol) [0x7ff7864c6bbc]
+	chromedriver!(No symbol) [0x7ff78655ef33]
+	chromedriver!(No symbol) [0x7ff7865037cc]
+	chromedriver!(No symbol) [0x7ff7865046f3]
+	chromedriver!GetHandleVerifier [0x7ff786fab79b+635d9b]
+	chromedriver!GetHandleVerifier [0x7ff786fa5ac6+6300c6]
+	chromedriver!GetHandleVerifier [0x7ff786fcbcee+6562ee]
+	chromedriver!GetHandleVerifier [0x7ff7869a8ffe+335fe]
+	chromedriver!GetHandleVerifier [0x7ff7869b147c+3ba7c]
+	chromedriver!GetHandleVerifier [0x7ff786994d64+1f364]
+	chromedriver!GetHandleVerifier [0x7ff786994ef4+1f4f4]
+	chromedriver!GetHandleVerifier [0x7ff786977d97+2397]
+	KERNEL32!BaseThreadInitThunk [0x7ff989b1e957+17]
+	ntdll!RtlUserThreadStart [0x7ff98b1e7c1c+2c]
+ ##########

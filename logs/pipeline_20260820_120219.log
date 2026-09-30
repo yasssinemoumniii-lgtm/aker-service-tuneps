@@ -1,0 +1,267 @@
+2026-08-20 12:02:19,619 [INFO] [Pipeline] Interpréteur Python utilisé : C:\Users\user\AppData\Local\Programs\Python\Python311\python.exe
+2026-08-20 12:02:26,711 [INFO] [Pipeline] ########## Démarrage du pipeline Aker Service — 20/08/2026 12:02 ##########
+2026-08-20 12:02:26,711 [INFO] [Pipeline] === Agent 1 : Scraping ===
+2026-08-20 12:02:26,711 [INFO] [Pipeline] ====== WebDriver manager ======
+2026-08-20 12:02:28,688 [INFO] [Pipeline] Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-20 12:02:30,371 [INFO] [Pipeline] Ouverture : https://www.tuneps.tn/portail/offres
+2026-08-20 12:03:15,730 [WARNING] [Pipeline]   Timeout au chargement (tentative 1/3)...
+2026-08-20 12:03:39,144 [WARNING] [Pipeline]   Le tableau ne semble pas s'être mis à jour après le changement de taille de page (toujours 10 lignes) — on continue quand même.
+2026-08-20 12:03:39,144 [INFO] [Pipeline]   Taille de page augmentée à 800 lignes/page.
+2026-08-20 12:03:39,144 [INFO] [Pipeline]   Page 1...
+2026-08-20 12:03:41,311 [INFO] [Pipeline]     0 lignes.
+2026-08-20 12:03:41,311 [INFO] [Pipeline]     dont 0 encore actives.
+2026-08-20 12:07:36,026 [INFO] [Pipeline]   Page 2...
+2026-08-20 12:07:41,602 [INFO] [Pipeline]     35 lignes.
+2026-08-20 12:07:41,602 [INFO] [Pipeline]     dont 35 encore actives.
+2026-08-20 12:10:48,059 [INFO] [Pipeline]   Page 3...
+2026-08-20 12:11:59,504 [INFO] [Pipeline]     800 lignes.
+2026-08-20 12:11:59,517 [INFO] [Pipeline]     dont 14 encore actives.
+2026-08-20 12:16:17,013 [INFO] [Pipeline]   Page 4...
+2026-08-20 12:16:30,133 [INFO] [Pipeline]     3 lignes.
+2026-08-20 12:16:30,133 [INFO] [Pipeline]     dont 3 encore actives.
+2026-08-20 12:19:58,156 [INFO] [Pipeline]   Page 5...
+2026-08-20 12:20:23,923 [INFO] [Pipeline]     800 lignes.
+2026-08-20 12:20:23,945 [INFO] [Pipeline]     dont 1 encore actives.
+2026-08-20 12:23:03,981 [INFO] [Pipeline]   Page 6...
+2026-08-20 12:23:04,916 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:23:04,916 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:23:20,476 [INFO] [Pipeline]   Page 7...
+2026-08-20 12:23:21,367 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:23:21,367 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:23:37,499 [INFO] [Pipeline]   Page 8...
+2026-08-20 12:23:38,392 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:23:38,392 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:23:53,651 [INFO] [Pipeline]   Page 9...
+2026-08-20 12:23:54,292 [INFO] [Pipeline]     3 lignes.
+2026-08-20 12:23:54,292 [INFO] [Pipeline]     dont 3 encore actives.
+2026-08-20 12:24:09,336 [INFO] [Pipeline]   Page 10...
+2026-08-20 12:24:10,261 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:24:10,262 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:24:32,986 [INFO] [Pipeline]   Page 11...
+2026-08-20 12:24:33,865 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:24:33,876 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:24:49,296 [INFO] [Pipeline]   Page 12...
+2026-08-20 12:24:50,204 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:24:50,204 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:25:05,541 [INFO] [Pipeline]   Page 13...
+2026-08-20 12:25:06,079 [INFO] [Pipeline]     1 lignes.
+2026-08-20 12:25:06,081 [INFO] [Pipeline]     dont 1 encore actives.
+2026-08-20 12:25:22,181 [INFO] [Pipeline]   Page 14...
+2026-08-20 12:25:23,045 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:25:23,045 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:25:38,543 [INFO] [Pipeline]   Page 15...
+2026-08-20 12:25:39,433 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:25:39,433 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:25:55,308 [INFO] [Pipeline]   Page 16...
+2026-08-20 12:25:56,144 [INFO] [Pipeline]     7 lignes.
+2026-08-20 12:25:56,144 [INFO] [Pipeline]     dont 7 encore actives.
+2026-08-20 12:26:11,979 [INFO] [Pipeline]   Page 17...
+2026-08-20 12:26:12,980 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:26:12,980 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:26:32,636 [INFO] [Pipeline]   Page 18...
+2026-08-20 12:26:33,603 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:26:33,603 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:26:49,820 [INFO] [Pipeline]   Page 19...
+2026-08-20 12:26:50,803 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:26:50,803 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:27:10,895 [WARNING] [Pipeline]   Élément devenu obsolète pendant le clic (page redessinée), nouvelle tentative...
+2026-08-20 12:27:10,895 [INFO] [Pipeline]   Clic sans effet, nouvelle recherche du bouton (tentative 1/2)...
+2026-08-20 12:27:27,902 [INFO] [Pipeline]   Page 20...
+2026-08-20 12:27:28,167 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:27:28,167 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:27:41,094 [INFO] [Pipeline]   Page 21...
+2026-08-20 12:27:42,113 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:27:42,113 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:27:59,159 [INFO] [Pipeline]   Page 22...
+2026-08-20 12:28:00,081 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:28:00,081 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:28:15,651 [INFO] [Pipeline]   Page 23...
+2026-08-20 12:28:16,660 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:28:16,660 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:28:34,298 [INFO] [Pipeline]   Page 24...
+2026-08-20 12:28:35,208 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:28:35,227 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:28:50,804 [INFO] [Pipeline]   Page 25...
+2026-08-20 12:28:51,766 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:28:51,766 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:29:07,246 [INFO] [Pipeline]   Page 26...
+2026-08-20 12:29:08,227 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:29:08,227 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:29:23,957 [INFO] [Pipeline]   Page 27...
+2026-08-20 12:29:24,898 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:29:24,898 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:29:42,047 [INFO] [Pipeline]   Page 28...
+2026-08-20 12:29:42,958 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:29:42,958 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:29:58,589 [INFO] [Pipeline]   Page 29...
+2026-08-20 12:29:59,492 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:29:59,492 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:30:15,097 [INFO] [Pipeline]   Page 30...
+2026-08-20 12:30:16,043 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:30:16,043 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:30:31,995 [INFO] [Pipeline]   Page 31...
+2026-08-20 12:30:32,832 [INFO] [Pipeline]     7 lignes.
+2026-08-20 12:30:32,832 [INFO] [Pipeline]     dont 7 encore actives.
+2026-08-20 12:30:48,623 [INFO] [Pipeline]   Page 32...
+2026-08-20 12:30:49,564 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:30:49,564 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:31:09,131 [INFO] [Pipeline]   Page 33...
+2026-08-20 12:31:10,001 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:31:10,001 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:31:25,454 [INFO] [Pipeline]   Page 34...
+2026-08-20 12:31:26,384 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:31:26,384 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:31:41,758 [INFO] [Pipeline]   Page 35...
+2026-08-20 12:31:42,633 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:31:42,633 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:31:57,902 [INFO] [Pipeline]   Page 36...
+2026-08-20 12:31:58,801 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:31:58,801 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:32:14,059 [INFO] [Pipeline]   Page 37...
+2026-08-20 12:32:14,888 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:32:14,888 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:32:30,245 [INFO] [Pipeline]   Page 38...
+2026-08-20 12:32:31,102 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:32:31,102 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:32:46,377 [INFO] [Pipeline]   Page 39...
+2026-08-20 12:32:47,262 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:32:47,262 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:33:02,589 [INFO] [Pipeline]   Page 40...
+2026-08-20 12:33:03,582 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:33:03,582 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:33:21,393 [INFO] [Pipeline]   Page 41...
+2026-08-20 12:33:22,284 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:33:22,284 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:33:37,595 [INFO] [Pipeline]   Page 42...
+2026-08-20 12:33:38,499 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:33:38,499 [INFO] [Pipeline]     dont 9 encore actives.
+2026-08-20 12:33:53,632 [INFO] [Pipeline]   Page 43...
+2026-08-20 12:33:54,523 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:33:54,523 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:34:10,304 [INFO] [Pipeline]   Page 44...
+2026-08-20 12:34:11,157 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:34:11,157 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:34:26,687 [INFO] [Pipeline]   Page 45...
+2026-08-20 12:34:27,591 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:34:27,591 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:34:42,550 [INFO] [Pipeline]   Page 46...
+2026-08-20 12:34:43,485 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:34:43,485 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:34:58,888 [INFO] [Pipeline]   Page 47...
+2026-08-20 12:34:59,761 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:34:59,761 [INFO] [Pipeline]     dont 9 encore actives.
+2026-08-20 12:35:15,195 [INFO] [Pipeline]   Page 48...
+2026-08-20 12:35:16,068 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:35:16,068 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:35:31,875 [INFO] [Pipeline]   Page 49...
+2026-08-20 12:35:32,789 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:35:32,789 [INFO] [Pipeline]     dont 9 encore actives.
+2026-08-20 12:35:47,948 [INFO] [Pipeline]   Page 50...
+2026-08-20 12:35:48,852 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:35:48,852 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:36:03,738 [INFO] [Pipeline]   Page 51...
+2026-08-20 12:36:04,624 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:36:04,624 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:36:19,710 [INFO] [Pipeline]   Page 52...
+2026-08-20 12:36:20,637 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:36:20,637 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:36:35,898 [INFO] [Pipeline]   Page 53...
+2026-08-20 12:36:36,905 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:36:36,905 [INFO] [Pipeline]     dont 9 encore actives.
+2026-08-20 12:36:51,799 [INFO] [Pipeline]   Page 54...
+2026-08-20 12:36:52,706 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:36:52,706 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:37:08,785 [INFO] [Pipeline]   Page 55...
+2026-08-20 12:37:09,655 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:37:09,655 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:37:25,538 [INFO] [Pipeline]   Page 56...
+2026-08-20 12:37:26,456 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:37:26,456 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:37:41,657 [INFO] [Pipeline]   Page 57...
+2026-08-20 12:37:42,548 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:37:42,548 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:37:57,906 [INFO] [Pipeline]   Page 58...
+2026-08-20 12:37:58,797 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:37:58,797 [INFO] [Pipeline]     dont 8 encore actives.
+2026-08-20 12:38:13,489 [INFO] [Pipeline]   Page 59...
+2026-08-20 12:38:14,372 [INFO] [Pipeline]     8 lignes.
+2026-08-20 12:38:14,374 [INFO] [Pipeline]     dont 7 encore actives.
+2026-08-20 12:38:30,035 [INFO] [Pipeline]   Page 60...
+2026-08-20 12:38:30,959 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:38:30,961 [INFO] [Pipeline]     dont 9 encore actives.
+2026-08-20 12:38:46,162 [INFO] [Pipeline]   Page 61...
+2026-08-20 12:38:47,021 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:38:47,021 [INFO] [Pipeline]     dont 9 encore actives.
+2026-08-20 12:39:02,193 [INFO] [Pipeline]   Page 62...
+2026-08-20 12:39:03,049 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:39:03,049 [INFO] [Pipeline]     dont 9 encore actives.
+2026-08-20 12:39:18,195 [INFO] [Pipeline]   Page 63...
+2026-08-20 12:39:19,079 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:39:19,079 [INFO] [Pipeline]     dont 8 encore actives.
+2026-08-20 12:39:34,615 [INFO] [Pipeline]   Page 64...
+2026-08-20 12:39:35,497 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:39:35,497 [INFO] [Pipeline]     dont 9 encore actives.
+2026-08-20 12:39:50,780 [INFO] [Pipeline]   Page 65...
+2026-08-20 12:39:51,643 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:39:51,643 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-20 12:40:07,219 [INFO] [Pipeline]   Page 66...
+2026-08-20 12:40:08,124 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:40:08,124 [INFO] [Pipeline]     dont 9 encore actives.
+2026-08-20 12:40:23,994 [INFO] [Pipeline]   Page 67...
+2026-08-20 12:40:25,044 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:40:25,044 [INFO] [Pipeline]     dont 9 encore actives.
+2026-08-20 12:40:41,007 [INFO] [Pipeline]   Page 68...
+2026-08-20 12:40:41,407 [INFO] [Pipeline]     1 lignes.
+2026-08-20 12:40:41,415 [INFO] [Pipeline]     dont 1 encore actives.
+2026-08-20 12:40:58,088 [INFO] [Pipeline]   Page 69...
+2026-08-20 12:40:59,230 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:40:59,230 [INFO] [Pipeline]     dont 9 encore actives.
+2026-08-20 12:41:15,064 [INFO] [Pipeline]   Page 70...
+2026-08-20 12:41:15,697 [INFO] [Pipeline]     3 lignes.
+2026-08-20 12:41:15,697 [INFO] [Pipeline]     dont 3 encore actives.
+2026-08-20 12:41:30,952 [INFO] [Pipeline]   Page 71...
+2026-08-20 12:41:31,237 [INFO] [Pipeline]     0 lignes.
+2026-08-20 12:41:31,245 [INFO] [Pipeline]     dont 0 encore actives.
+2026-08-20 12:41:46,477 [INFO] [Pipeline]   Page 72...
+2026-08-20 12:41:47,316 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:41:47,316 [INFO] [Pipeline]     dont 7 encore actives.
+2026-08-20 12:42:02,234 [INFO] [Pipeline]   Page 73...
+2026-08-20 12:42:03,130 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:42:03,130 [INFO] [Pipeline]     dont 9 encore actives.
+2026-08-20 12:42:18,414 [INFO] [Pipeline]   Page 74...
+2026-08-20 12:42:19,006 [INFO] [Pipeline]     4 lignes.
+2026-08-20 12:42:19,006 [INFO] [Pipeline]     dont 4 encore actives.
+2026-08-20 12:42:34,188 [INFO] [Pipeline]   Page 75...
+2026-08-20 12:42:35,208 [INFO] [Pipeline]     10 lignes.
+2026-08-20 12:42:35,208 [INFO] [Pipeline]     dont 8 encore actives.
+2026-08-20 12:44:58,921 [ERROR] [Pipeline] ########## Pipeline interrompu : Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=151.0.7922.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff63195abb5+151b5]
+	chromedriver!GetHandleVerifier [0x7ff63195ac10+15210]
+	chromedriver!(No symbol) [0x7ff631485d6d]
+	chromedriver!(No symbol) [0x7ff631472c89]
+	chromedriver!(No symbol) [0x7ff631472971]
+	chromedriver!(No symbol) [0x7ff631470641]
+	chromedriver!(No symbol) [0x7ff631470f7f]
+	chromedriver!(No symbol) [0x7ff63148d5b7]
+	chromedriver!(No symbol) [0x7ff631490c85]
+	chromedriver!(No symbol) [0x7ff631490d4f]
+	chromedriver!(No symbol) [0x7ff6314dc51c]
+	chromedriver!(No symbol) [0x7ff631509d0a]
+	chromedriver!(No symbol) [0x7ff6314d4f76]
+	chromedriver!(No symbol) [0x7ff63152ec0b]
+	chromedriver!(No symbol) [0x7ff6314d37cc]
+	chromedriver!(No symbol) [0x7ff6314d46f3]
+	chromedriver!GetHandleVerifier [0x7ff631f7b79b+635d9b]
+	chromedriver!GetHandleVerifier [0x7ff631f75ac6+6300c6]
+	chromedriver!GetHandleVerifier [0x7ff631f9bcee+6562ee]
+	chromedriver!GetHandleVerifier [0x7ff631978ffe+335fe]
+	chromedriver!GetHandleVerifier [0x7ff63198147c+3ba7c]
+	chromedriver!GetHandleVerifier [0x7ff631964d64+1f364]
+	chromedriver!GetHandleVerifier [0x7ff631964ef4+1f4f4]
+	chromedriver!GetHandleVerifier [0x7ff631947d97+2397]
+	KERNEL32!BaseThreadInitThunk [0x7ffee007e957+17]
+	ntdll!RtlUserThreadStart [0x7ffee0e2ad6c+2c]
+ ##########

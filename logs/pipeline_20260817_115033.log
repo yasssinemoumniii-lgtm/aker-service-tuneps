@@ -1,0 +1,56 @@
+2026-08-17 11:50:33,479 [INFO] [Pipeline] Interpréteur Python utilisé : C:\Users\user\AppData\Local\Programs\Python\Python311\python.exe
+2026-08-17 11:50:34,714 [INFO] [Pipeline] ########## Démarrage du pipeline Aker Service — 17/08/2026 11:50 ##########
+2026-08-17 11:50:34,714 [INFO] [Pipeline] === Agent 1 : Scraping ===
+2026-08-17 11:50:34,714 [INFO] [Pipeline] ====== WebDriver manager ======
+2026-08-17 11:50:35,410 [INFO] [Pipeline] Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-17 11:50:36,963 [INFO] [Pipeline] Ouverture : https://www.tuneps.tn/portail/offres
+2026-08-17 11:51:07,524 [INFO] [Pipeline]   Taille de page augmentée à 800 lignes/page.
+2026-08-17 11:51:07,531 [INFO] [Pipeline]   Page 1...
+2026-08-17 11:51:07,789 [INFO] [Pipeline]     10 lignes.
+2026-08-17 11:51:07,790 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-17 11:51:28,477 [INFO] [Pipeline]   Fin de la pagination (clic sans effet).
+2026-08-17 11:51:28,477 [INFO] [Pipeline] Sauvegardé : C:\Users\user\Desktop\Aker Service\app\data\raw_avis_ao.json (10 lignes)
+2026-08-17 11:51:28,477 [INFO] [Pipeline] Ouverture : https://www.tuneps.tn/portail/consultations
+2026-08-17 11:51:48,914 [INFO] [Pipeline]   Taille de page augmentée à 800 lignes/page.
+2026-08-17 11:51:48,928 [INFO] [Pipeline]   Page 1...
+2026-08-17 11:51:49,203 [INFO] [Pipeline]     10 lignes.
+2026-08-17 11:51:49,203 [INFO] [Pipeline]     dont 10 encore actives.
+2026-08-17 11:52:10,071 [INFO] [Pipeline]   Fin de la pagination (clic sans effet).
+2026-08-17 11:52:10,071 [INFO] [Pipeline] Sauvegardé : C:\Users\user\Desktop\Aker Service\app\data\raw_shopping_mall.json (10 lignes)
+2026-08-17 11:52:12,248 [INFO] [Pipeline] Agent1Scraper terminé.
+2026-08-17 11:52:12,248 [INFO] [Pipeline] Agent1 terminé : 10 Avis A.O actifs, 10 Shopping Mall actifs
+2026-08-17 11:52:12,248 [INFO] [Pipeline] === Agent 2 : Nettoyage ===
+2026-08-17 11:52:12,248 [INFO] [Pipeline] Chargé : C:\Users\user\Desktop\Aker Service\app\data\raw_avis_ao.json (10 lignes brutes)
+2026-08-17 11:52:12,311 [INFO] [Pipeline] Avis A.O nettoyé : 10 lignes.
+2026-08-17 11:52:12,343 [INFO] [Pipeline] Sauvegardé : C:\Users\user\Desktop\Aker Service\app\data\cleaned_avis_ao.json (10 lignes)
+2026-08-17 11:52:12,343 [INFO] [Pipeline] Sauvegardé : C:\Users\user\Desktop\Aker Service\app\data\cleaned_avis_ao.csv (10 lignes)
+2026-08-17 11:52:12,359 [INFO] [Pipeline] Chargé : C:\Users\user\Desktop\Aker Service\app\data\raw_shopping_mall.json (10 lignes brutes)
+2026-08-17 11:52:12,359 [INFO] [Pipeline] Shopping Mall nettoyé : 10 lignes.
+2026-08-17 11:52:12,359 [INFO] [Pipeline] Sauvegardé : C:\Users\user\Desktop\Aker Service\app\data\cleaned_shopping_mall.json (10 lignes)
+2026-08-17 11:52:12,359 [INFO] [Pipeline] Sauvegardé : C:\Users\user\Desktop\Aker Service\app\data\cleaned_shopping_mall.csv (10 lignes)
+2026-08-17 11:52:12,359 [INFO] [Pipeline] Agent2Cleaner terminé.
+2026-08-17 11:52:12,359 [INFO] [Pipeline] Agent2 terminé : 10 / 10 lignes nettoyées
+2026-08-17 11:52:12,359 [INFO] [Pipeline] === Agent 3 : Clustering (exécution du notebook) ===
+2026-08-17 11:52:33,695 [ERROR] [Pipeline] Agent3 (notebook) a échoué :
+, dtype=X.dtype)
+
+[36mFile [39m[32m~\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\cluster\_kmeans.py:1413[39m, in [36mKMeans._check_params_vs_input[39m[34m(self, X)[39m
+[32m   1412[39m [38;5;28;01mdef[39;00m[38;5;250m [39m[34m_check_params_vs_input[39m([38;5;28mself[39m, X):
+[32m-> [39m[32m1413[39m     [30;43msuper[39;49m[30;43m([39;49m[30;43m)[39;49m[30;43m.[39;49m[30;43m_check_params_vs_input[39;49m[30;43m([39;49m[30;43mX[39;49m[30;43m,[39;49m[30;43m [39;49m[30;43mdefault_n_init[39;49m[30;43m=[39;49m[30;43m10[39;49m[30;43m)[39;49m
+[32m   1415[39m     [38;5;28mself[39m._algorithm = [38;5;28mself[39m.algorithm
+[32m   1416[39m     [38;5;28;01mif[39;00m [38;5;28mself[39m._algorithm == [33m"[39m[33melkan[39m[33m"[39m [38;5;129;01mand[39;00m [38;5;28mself[39m.n_clusters == [32m1[39m:
+
+[36mFile [39m[32m~\AppData\Local\Programs\Python\Python311\Lib\site-packages\sklearn\cluster\_kmeans.py:877[39m, in [36m_BaseKMeans._check_params_vs_input[39m[34m(self, X, default_n_init)[39m
+[32m    874[39m [38;5;28;01mdef[39;00m[38;5;250m [39m[34m_check_params_vs_input[39m([38;5;28mself[39m, X, default_n_init=[38;5;28;01mNone[39;00m):
+[32m    875[39m     [38;5;66;03m# n_clusters[39;00m
+[32m    876[39m     [38;5;28;01mif[39;00m X.shape[[32m0[39m] < [38;5;28mself[39m.n_clusters:
+[32m--> [39m[32m877[39m         [38;5;28;01mraise[39;00m [38;5;167;01mValueError[39;00m(
+[32m    878[39m             [33mf[39m[33m"[39m[33mn_samples=[39m[38;5;132;01m{[39;00mX.shape[[32m0[39m][38;5;132;01m}[39;00m[33m should be >= n_clusters=[39m[38;5;132;01m{[39;00m[38;5;28mself[39m.n_clusters[38;5;132;01m}[39;00m[33m.[39m[33m"[39m
+[32m    879[39m         )
+[32m    881[39m     [38;5;66;03m# tol[39;00m
+[32m    882[39m     [38;5;28mself[39m._tol = _tolerance(X, [38;5;28mself[39m.tol)
+
+[31mValueError[39m: n_samples=10 should be >= n_clusters=11.
+
+
+2026-08-17 11:52:33,695 [ERROR] [Pipeline] ########## Pipeline interrompu : Échec de l'exécution du notebook Agent3 ##########
