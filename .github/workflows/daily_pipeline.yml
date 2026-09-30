@@ -1,0 +1,35 @@
+name: Mise a jour quotidienne Aker Service
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # 02:00 UTC chaque jour (~03:00 heure de Tunisie)
+  workflow_dispatch: {}    # permet aussi de le lancer manuellement depuis GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Recuperer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les dependances
+        run: pip install -r requirements.txt
+
+      - name: Lancer le pipeline (scraping + nettoyage + clustering)
+        run: python agents/run_pipeline.py
+
+      - name: Publier les nouvelles donnees
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add app/data/*.csv app/data/*.json
+          git diff --staged --quiet || git commit -m "Mise a jour automatique des donnees TUNEPS"
+          git push
