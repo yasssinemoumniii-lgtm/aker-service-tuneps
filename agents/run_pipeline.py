@@ -94,7 +94,7 @@ def run_agent2():
 def run_agent3():
     log.info("=== Agent 3 : Clustering (exécution du notebook) ===")
     cmd = [
-        sys.executable, "-m", "jupyter", "nbconvert",
+        sys.executable, "-m","nbconvert",
         "--to", "notebook", "--execute", "--inplace",
         "--ExecutePreprocessor.timeout=600",
         str(NOTEBOOK_PATH),
