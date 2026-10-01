@@ -1,4 +1,13 @@
 selenium
 webdriver-manager
 pandas
-openpyxl
+ftfy
+scikit-learn
+matplotlib
+kneed
+streamlit
+plotly
+sentence-transformers
+google-generativeai
+nbconvert
+ipykernel
