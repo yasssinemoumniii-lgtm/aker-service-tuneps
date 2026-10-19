@@ -1,12 +1,66 @@
 [
   {
+    "numero_consultation":"S20261007060",
+    "acheteur_public":"Commissariat régionale de la jeunesse des sports et de l'éducation physique de Beja",
+    "date_publication":"18\/10\/2026",
+    "objet_consultation":"Acquisition matériel informatique",
+    "dernier_delai":"29\/10\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":10
+  },
+  {
+    "numero_consultation":"S20261007059",
+    "acheteur_public":"Commune de Bir Lahmar",
+    "date_publication":"18\/10\/2026",
+    "objet_consultation":"acquisitions de matériels informatique",
+    "dernier_delai":"12\/11\/2026 14:30",
+    "categorie":"shopping_mall",
+    "jours_restants":24
+  },
+  {
+    "numero_consultation":"S20261007058",
+    "acheteur_public":"Institut Supérieur des Etudes Technologiques de Bizerte",
+    "date_publication":"18\/10\/2026",
+    "objet_consultation":"Achat Consommables pour Département Génie Electriques",
+    "dernier_delai":"26\/10\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":7
+  },
+  {
+    "numero_consultation":"S20261007056",
+    "acheteur_public":"Institut Supérieur des Etudes Technologiques de Bizerte",
+    "date_publication":"18\/10\/2026",
+    "objet_consultation":"Achats Matériels de Laboratoires et Produits Chimiques pour Département Génie des Procédés",
+    "dernier_delai":"26\/10\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":7
+  },
+  {
+    "numero_consultation":"S20261007057",
+    "acheteur_public":"Commissariat regional de la jeunesse et des sports de bizerte",
+    "date_publication":"18\/10\/2026",
+    "objet_consultation":"Acquisition de meubles au profit du Commissariat régional de la Jeunesse et des Sports de Bizerte",
+    "dernier_delai":"02\/11\/2026 10:30",
+    "categorie":"shopping_mall",
+    "jours_restants":14
+  },
+  {
+    "numero_consultation":"S20261007055",
+    "acheteur_public":"Commissariat regional de la jeunesse et des sports de bizerte",
+    "date_publication":"18\/10\/2026",
+    "objet_consultation":"Acquisition de matériels informatiques au profit du Commissariat Régional de la Jeunesse et des Sports de Bizerte",
+    "dernier_delai":"02\/11\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":14
+  },
+  {
     "numero_consultation":"S20261007054",
     "acheteur_public":"Agence Tunisienne de la Formation Professionnelle",
     "date_publication":"17\/10\/2026",
     "objet_consultation":"Acquisition matériel de formation appareil de diagnostic, kit test de refroidissement, appareil charge climatiseur et kit test de pression pour automobile",
     "dernier_delai":"02\/11\/2026 09:00",
     "categorie":"shopping_mall",
-    "jours_restants":15
+    "jours_restants":14
   },
   {
     "numero_consultation":"S20261007053",
@@ -15,7 +69,7 @@
     "objet_consultation":"112\/2026--القيام بالمسح الطوبوغرافي للأرض المخصصة لمشروع بناء مقر جديد لفرقة الإرشاد البحري بصفاقس",
     "dernier_delai":"23\/10\/2026 09:00",
     "categorie":"shopping_mall",
-    "jours_restants":5
+    "jours_restants":4
   },
   {
     "numero_consultation":"S20261007052",
@@ -24,7 +78,7 @@
     "objet_consultation":"111\/2026-القيام بالمسح الطوبوغرافي للأرض المخصصة لمشروع بناء مقر لمعتمدية صفاقس الغربية و المسكن الوظيفي التابع لها",
     "dernier_delai":"23\/10\/2026 09:01",
     "categorie":"shopping_mall",
-    "jours_restants":5
+    "jours_restants":4
   },
   {
     "numero_consultation":"S20261007051",
@@ -33,7 +87,7 @@
     "objet_consultation":"110\/2026--اقتناء مستلزمات مكتبية لفائدة التفقدية الجهوية لتراث بالساحل الجنوبي",
     "dernier_delai":"23\/10\/2026 09:00",
     "categorie":"shopping_mall",
-    "jours_restants":5
+    "jours_restants":4
   },
   {
     "numero_consultation":"S20261007050",
@@ -42,7 +96,7 @@
     "objet_consultation":"109\/2026-109\/2026--إجراء إختبار فني لبناية قاعة العروض بدار الثقافة الحنشة من ولاية صفاقس",
     "dernier_delai":"23\/10\/2026 09:00",
     "categorie":"shopping_mall",
-    "jours_restants":5
+    "jours_restants":4
   },
   {
     "numero_consultation":"S20261007049",
@@ -51,7 +105,7 @@
     "objet_consultation":"108\/2026--إجراء اختبار فني شامل لمركز التكوين المهني للصيد البحري بصفاقس",
     "dernier_delai":"29\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":11
+    "jours_restants":10
   },
   {
     "numero_consultation":"S20261007048",
@@ -60,7 +114,7 @@
     "objet_consultation":"107\/2026--إجراء إختبار فني شامل لبناية دار الثقافة المحرس من ولاية صفاقس",
     "dernier_delai":"29\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":11
+    "jours_restants":10
   },
   {
     "numero_consultation":"S20261007047",
@@ -69,7 +123,7 @@
     "objet_consultation":"Lot de cartouche filtrante pour transformateur suivant spécifications techniques en pièce jointe",
     "dernier_delai":"03\/11\/2026 14:50",
     "categorie":"shopping_mall",
-    "jours_restants":16
+    "jours_restants":15
   },
   {
     "numero_consultation":"S20261007046",
@@ -78,7 +132,7 @@
     "objet_consultation":"Lot de manilles suivant spécifications techniques en pièce jointe",
     "dernier_delai":"03\/11\/2026 14:45",
     "categorie":"shopping_mall",
-    "jours_restants":16
+    "jours_restants":15
   },
   {
     "numero_consultation":"S20261007045",
@@ -87,7 +141,7 @@
     "objet_consultation":"Lot de flexibles suivant spécifications techniques en pièce jointe",
     "dernier_delai":"03\/11\/2026 14:40",
     "categorie":"shopping_mall",
-    "jours_restants":16
+    "jours_restants":15
   },
   {
     "numero_consultation":"S20261007044",
@@ -96,7 +150,7 @@
     "objet_consultation":"Lot d'électrodes suivant spécifications techniques en pièce jointe",
     "dernier_delai":"03\/11\/2026 14:30",
     "categorie":"shopping_mall",
-    "jours_restants":16
+    "jours_restants":15
   },
   {
     "numero_consultation":"S20261007043",
@@ -105,7 +159,7 @@
     "objet_consultation":"Lot de contacteurs suivant spécifications techniques en pièce jointe",
     "dernier_delai":"03\/11\/2026 14:20",
     "categorie":"shopping_mall",
-    "jours_restants":16
+    "jours_restants":15
   },
   {
     "numero_consultation":"S20261007042",
@@ -114,7 +168,7 @@
     "objet_consultation":"HUILE MINERALE SIGMA FLUID POUR COMPRESSEUR KAESER SUIVANT SPECIFICATIONS TECHNIQUES EN PIECE JOINTE",
     "dernier_delai":"03\/11\/2026 14:00",
     "categorie":"shopping_mall",
-    "jours_restants":16
+    "jours_restants":15
   },
   {
     "numero_consultation":"S20261007041",
@@ -123,7 +177,7 @@
     "objet_consultation":"Consultation des Travaux d'entretiens des Installations du Chauffage Centrale à l'hôpital Régional de Moknine",
     "dernier_delai":"30\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":12
+    "jours_restants":11
   },
   {
     "numero_consultation":"S20261007040",
@@ -132,7 +186,7 @@
     "objet_consultation":"achat des despositifs medicaux",
     "dernier_delai":"24\/10\/2026 09:30",
     "categorie":"shopping_mall",
-    "jours_restants":6
+    "jours_restants":5
   },
   {
     "numero_consultation":"S20261007039",
@@ -141,7 +195,7 @@
     "objet_consultation":"Consultation de désignation de Bureau de Contrôle réglementaire de Sécurité des Installations Techniques à l'hôpital Régional de Moknine",
     "dernier_delai":"29\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":11
+    "jours_restants":10
   },
   {
     "numero_consultation":"S20261007038",
@@ -150,7 +204,7 @@
     "objet_consultation":"Consultation N°53\/2026 pièce de rechange",
     "dernier_delai":"21\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":3
+    "jours_restants":2
   },
   {
     "numero_consultation":"S20261007037",
@@ -159,7 +213,7 @@
     "objet_consultation":"consultation acquisition consommables phacoemulsification 2026",
     "dernier_delai":"22\/10\/2026 12:00",
     "categorie":"shopping_mall",
-    "jours_restants":4
+    "jours_restants":3
   },
   {
     "numero_consultation":"S20261007036",
@@ -168,7 +222,7 @@
     "objet_consultation":"Achat de consommable quincaillerie pour Hall de génie civil",
     "dernier_delai":"25\/10\/2026 09:00",
     "categorie":"shopping_mall",
-    "jours_restants":7
+    "jours_restants":6
   },
   {
     "numero_consultation":"S20261007034",
@@ -177,7 +231,7 @@
     "objet_consultation":"Achat Approvisionnement des Rideau pour Service d'Urgence",
     "dernier_delai":"20\/10\/2026 09:30",
     "categorie":"shopping_mall",
-    "jours_restants":2
+    "jours_restants":1
   },
   {
     "numero_consultation":"S20261007035",
@@ -186,7 +240,7 @@
     "objet_consultation":"CONTRAT DE MAINTENANCE ET DE MAINTIEN DE PERFORMANCE DES INSTALLATIONS DE CLIMATISATION ET DE TRAITEMENT D'AIR",
     "dernier_delai":"31\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":13
+    "jours_restants":12
   },
   {
     "numero_consultation":"S20261007033",
@@ -195,7 +249,7 @@
     "objet_consultation":"cassettes, plaques pour systeme numérisé FUJI, cache thyroide, tabliers plombés",
     "dernier_delai":"26\/10\/2026 11:00",
     "categorie":"shopping_mall",
-    "jours_restants":8
+    "jours_restants":7
   },
   {
     "numero_consultation":"S20261007032",
@@ -204,7 +258,7 @@
     "objet_consultation":"Achat des fournitures pour Laboratoire Béton et géotechnique",
     "dernier_delai":"24\/10\/2026 09:00",
     "categorie":"shopping_mall",
-    "jours_restants":6
+    "jours_restants":5
   },
   {
     "numero_consultation":"S20261007031",
@@ -213,7 +267,7 @@
     "objet_consultation":"fourniture et pose d'une lampe pour générateur de lumière de célioscopie de marque WOLF",
     "dernier_delai":"31\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":13
+    "jours_restants":12
   },
   {
     "numero_consultation":"S20261007030",
@@ -222,7 +276,7 @@
     "objet_consultation":"fourniture et pose d'un matelas pour table d'opération",
     "dernier_delai":"31\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":13
+    "jours_restants":12
   },
   {
     "numero_consultation":"S20261007029",
@@ -231,7 +285,7 @@
     "objet_consultation":"Acquisition de Produits Désinfectants des surfaces, des sols et immobiliers »",
     "dernier_delai":"23\/10\/2026 09:00",
     "categorie":"shopping_mall",
-    "jours_restants":5
+    "jours_restants":4
   },
   {
     "numero_consultation":"S20261007026",
@@ -240,7 +294,7 @@
     "objet_consultation":"صيانة و تركيب كاميرات مراقبة",
     "dernier_delai":"27\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":9
+    "jours_restants":8
   },
   {
     "numero_consultation":"S20261007028",
@@ -249,7 +303,7 @@
     "objet_consultation":"Pointeuse à reconnaissance faciale et empreinte",
     "dernier_delai":"20\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":2
+    "jours_restants":1
   },
   {
     "numero_consultation":"S20261007027",
@@ -258,7 +312,7 @@
     "objet_consultation":"اشغال صيانة السخانات المركزية بالمستشفى الجهوي محمد التلاتلي بنابل",
     "dernier_delai":"02\/11\/2026 08:00",
     "categorie":"shopping_mall",
-    "jours_restants":15
+    "jours_restants":14
   },
   {
     "numero_consultation":"S20261007020",
@@ -267,7 +321,7 @@
     "objet_consultation":"Acquisition et installation d'un para tonnerreبالمستشفى الجهوي بقبلي للمرة الرابعة",
     "dernier_delai":"24\/10\/2026 08:00",
     "categorie":"shopping_mall",
-    "jours_restants":6
+    "jours_restants":5
   },
   {
     "numero_consultation":"S20261007025",
@@ -276,7 +330,7 @@
     "objet_consultation":"acquisition d'un microscope à immunofluorescence avec caméra",
     "dernier_delai":"29\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":11
+    "jours_restants":10
   },
   {
     "numero_consultation":"S20261007024",
@@ -285,7 +339,7 @@
     "objet_consultation":"Réparation d'ambulances",
     "dernier_delai":"28\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":10
+    "jours_restants":9
   },
   {
     "numero_consultation":"S20261007023",
@@ -294,7 +348,7 @@
     "objet_consultation":"أشغال تهيئة دائرة المناطق السقوية التابعة للمندوبية الجهوية للتنمية الفلاحية بصفاقس",
     "dernier_delai":"30\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":12
+    "jours_restants":11
   },
   {
     "numero_consultation":"S20261007022",
@@ -303,7 +357,7 @@
     "objet_consultation":"Accessoire médicale",
     "dernier_delai":"30\/10\/2026 09:00",
     "categorie":"shopping_mall",
-    "jours_restants":12
+    "jours_restants":11
   },
   {
     "numero_consultation":"S20261007021",
@@ -312,7 +366,7 @@
     "objet_consultation":"ETUDE ET SUIVI D'INSTALLATIONS SOLAIRES PHOTOVOLTAÏQUES RACCORDÉES AU RÉSEAU ÉLECTRIQUE NATIONAL Dans la Commune de BIR ALI BEN KHALIFA",
     "dernier_delai":"02\/11\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":15
+    "jours_restants":14
   },
   {
     "numero_consultation":"S20261007019",
@@ -321,7 +375,7 @@
     "objet_consultation":"أشغال تنظيف فضاءات مختلفة بالمستشفى الجهوي بقبلي للمرة الثانية",
     "dernier_delai":"23\/10\/2026 09:00",
     "categorie":"shopping_mall",
-    "jours_restants":5
+    "jours_restants":4
   },
   {
     "numero_consultation":"S20261007018",
@@ -330,7 +384,7 @@
     "objet_consultation":"Consultation taille des arbres d'alignement",
     "dernier_delai":"30\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":12
+    "jours_restants":11
   },
   {
     "numero_consultation":"S20261007017",
@@ -339,7 +393,7 @@
     "objet_consultation":"اقتـــناء حاجيات المستشفى الجهوي بنفطة من معدات التجهيز الصحي لسنة 2026.",
     "dernier_delai":"02\/11\/2026 08:52",
     "categorie":"shopping_mall",
-    "jours_restants":15
+    "jours_restants":14
   },
   {
     "numero_consultation":"S20261007016",
@@ -348,7 +402,7 @@
     "objet_consultation":"Acquisition d'un réfrigérateur éléctrique",
     "dernier_delai":"27\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":9
+    "jours_restants":8
   },
   {
     "numero_consultation":"S20261007015",
@@ -357,7 +411,7 @@
     "objet_consultation":"EXECUTION DE FAUX PLAFOND ET DE PEINTURE DECORATIVE DU PALAIS MUNICIPAL DE KALAAT SENAN",
     "dernier_delai":"02\/11\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":15
+    "jours_restants":14
   },
   {
     "numero_consultation":"S20261007014",
@@ -366,7 +420,7 @@
     "objet_consultation":"accesoires pharmacie",
     "dernier_delai":"23\/10\/2026 09:00",
     "categorie":"shopping_mall",
-    "jours_restants":5
+    "jours_restants":4
   },
   {
     "numero_consultation":"S20261007013",
@@ -375,7 +429,7 @@
     "objet_consultation":"Installation des corbeilles a papier",
     "dernier_delai":"22\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":4
+    "jours_restants":3
   },
   {
     "numero_consultation":"S20261007012",
@@ -384,7 +438,7 @@
     "objet_consultation":"Réservation d'un hôtel pour l'organisation de la journée scientifique de l'hôpital Sahloul de Sousse CONS en ligne et hors ligne",
     "dernier_delai":"21\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":3
+    "jours_restants":2
   },
   {
     "numero_consultation":"S20261007011",
@@ -393,7 +447,7 @@
     "objet_consultation":"Achat des dispositifs médicaux CCVT",
     "dernier_delai":"20\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":2
+    "jours_restants":1
   },
   {
     "numero_consultation":"S20261007010",
@@ -402,7 +456,7 @@
     "objet_consultation":"ACQUISITION DE CONSOMMABLES POUR LA TECHNIQUE STANDARD ET L'IMMUNOHISTOCHIMIE",
     "dernier_delai":"21\/10\/2026 09:00",
     "categorie":"shopping_mall",
-    "jours_restants":3
+    "jours_restants":2
   },
   {
     "numero_consultation":"S20261007009",
@@ -411,7 +465,7 @@
     "objet_consultation":"FOURNITURE ET POSE PROLONGATEUR SPO2 (POUR SCOPE MODULAIRE MINDRAY T6)",
     "dernier_delai":"20\/10\/2026 09:00",
     "categorie":"shopping_mall",
-    "jours_restants":2
+    "jours_restants":1
   },
   {
     "numero_consultation":"S20261007007",
@@ -420,7 +474,7 @@
     "objet_consultation":"خدمات توريد وتركيب وتشغيل نظام يدوي مستقل لإدارة طوابير الانتظار",
     "dernier_delai":"31\/10\/2026 08:00",
     "categorie":"shopping_mall",
-    "jours_restants":13
+    "jours_restants":12
   },
   {
     "numero_consultation":"S20261007008",
@@ -429,7 +483,7 @@
     "objet_consultation":"ACHAT DES CABLES ARTERE SORTUE CARREE POUR SCOPE MODULAIRE MINDRAY T6",
     "dernier_delai":"20\/10\/2026 09:50",
     "categorie":"shopping_mall",
-    "jours_restants":2
+    "jours_restants":1
   },
   {
     "numero_consultation":"S20261007006",
@@ -438,7 +492,7 @@
     "objet_consultation":"etude d'installation des dispositifs Photovoltaiques",
     "dernier_delai":"15\/12\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":58
+    "jours_restants":57
   },
   {
     "numero_consultation":"S20261007005",
@@ -447,7 +501,7 @@
     "objet_consultation":"Consultation pour la fourniture et la pose d'un kit moteur complet pour l'automatisation du portail coulissant existant de l'Hôpital HC FAHS",
     "dernier_delai":"31\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":13
+    "jours_restants":12
   },
   {
     "numero_consultation":"S20261007004",
@@ -456,7 +510,7 @@
     "objet_consultation":"Achat des pièces de rechange pour la voiture administrative de la DGBC n° 13-137460 au ministère de l'équipment et de l'habitat",
     "dernier_delai":"20\/10\/2026 14:00",
     "categorie":"shopping_mall",
-    "jours_restants":2
+    "jours_restants":1
   },
   {
     "numero_consultation":"S20261007003",
@@ -465,7 +519,7 @@
     "objet_consultation":"Acquisition de chariot de bureau pour le compte du Ministère de la Santé.",
     "dernier_delai":"26\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":8
+    "jours_restants":7
   },
   {
     "numero_consultation":"S20261006842",
@@ -474,7 +528,7 @@
     "objet_consultation":"تعيين مكتب دراسات مهندس مستشار كهرباء لدراسة وتركز أجهزة فولتو فولتاييك",
     "dernier_delai":"05\/11\/2026 10:30",
     "categorie":"shopping_mall",
-    "jours_restants":18
+    "jours_restants":17
   },
   {
     "numero_consultation":"S20261007002",
@@ -483,7 +537,7 @@
     "objet_consultation":"استشارة صيانة خفيفة ابتدائية المقرن 44-2026",
     "dernier_delai":"30\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":12
+    "jours_restants":11
   },
   {
     "numero_consultation":"S20261007001",
@@ -492,7 +546,7 @@
     "objet_consultation":"دراسة في تركيب أنظمة الطاقة الشمسية الكهرو ضوئية",
     "dernier_delai":"17\/11\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":30
+    "jours_restants":29
   },
   {
     "numero_consultation":"S20261006935",
@@ -501,7 +555,7 @@
     "objet_consultation":"إقتناء أثاث مكاتب لفائدة مركز التميّز الإفريقي للأسواق الشاملة.",
     "dernier_delai":"30\/10\/2026 11:00",
     "categorie":"shopping_mall",
-    "jours_restants":12
+    "jours_restants":11
   },
   {
     "numero_consultation":"S20261007000",
@@ -510,7 +564,7 @@
     "objet_consultation":"اقتناء آلات ناسخة",
     "dernier_delai":"26\/10\/2026 13:00",
     "categorie":"shopping_mall",
-    "jours_restants":8
+    "jours_restants":7
   },
   {
     "numero_consultation":"S20261006999",
@@ -519,7 +573,7 @@
     "objet_consultation":"إقتناء ميــــــــزان",
     "dernier_delai":"23\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":5
+    "jours_restants":4
   },
   {
     "numero_consultation":"S20261006998",
@@ -528,7 +582,7 @@
     "objet_consultation":"كنس وتنظيف الشواطئ والمسالك المؤدية لها وإزالة الأعشاب الطفيلية بالمسالك السياحية بمدينة نابل",
     "dernier_delai":"09\/11\/2026 10:30",
     "categorie":"shopping_mall",
-    "jours_restants":22
+    "jours_restants":21
   },
   {
     "numero_consultation":"S20261006993",
@@ -537,7 +591,7 @@
     "objet_consultation":"Acquisition et installation des climatiseurs au sein de la DREH à Sfax 2026",
     "dernier_delai":"02\/11\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":15
+    "jours_restants":14
   },
   {
     "numero_consultation":"S20261006995",
@@ -546,7 +600,7 @@
     "objet_consultation":"استشارة كنس الانهج و الشوارع و بالساحات العمومية بمدينة التضامن",
     "dernier_delai":"26\/10\/2026 09:00",
     "categorie":"shopping_mall",
-    "jours_restants":8
+    "jours_restants":7
   },
   {
     "numero_consultation":"S20261006989",
@@ -555,7 +609,7 @@
     "objet_consultation":"تركيب كاميرات مراقبة للمؤسسات التربوية بولاية زغوان",
     "dernier_delai":"26\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":8
+    "jours_restants":7
   },
   {
     "numero_consultation":"S20261006988",
@@ -564,7 +618,7 @@
     "objet_consultation":"Fourniture d'équipements de bureau au profit de la municipalité de Tajerouine",
     "dernier_delai":"05\/11\/2026 10:30",
     "categorie":"shopping_mall",
-    "jours_restants":18
+    "jours_restants":17
   },
   {
     "numero_consultation":"S20261006986",
@@ -573,7 +627,7 @@
     "objet_consultation":"Sélection d'un ingénieur-conseil ou d'un bureau d'études pour l'élaboration du cahier des charges",
     "dernier_delai":"23\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":5
+    "jours_restants":4
   },
   {
     "numero_consultation":"S20261006987",
@@ -582,7 +636,7 @@
     "objet_consultation":"انشاء بعض الخزائن الحائطية بمقر فوج التدخل للحرس الوطني بالقيروان",
     "dernier_delai":"05\/11\/2026 09:30",
     "categorie":"shopping_mall",
-    "jours_restants":18
+    "jours_restants":17
   },
   {
     "numero_consultation":"S20261006985",
@@ -591,7 +645,7 @@
     "objet_consultation":"Acquisition PR INTER SRTKEF",
     "dernier_delai":"20\/10\/2026 12:00",
     "categorie":"shopping_mall",
-    "jours_restants":2
+    "jours_restants":1
   },
   {
     "numero_consultation":"S20261006984",
@@ -600,7 +654,7 @@
     "objet_consultation":"استشارة لاقتناء أواني الأكل و معدات الطبخ لفائدة فوج التدخل للحرس الوطني بالقيروان",
     "dernier_delai":"05\/11\/2026 09:30",
     "categorie":"shopping_mall",
-    "jours_restants":18
+    "jours_restants":17
   },
   {
     "numero_consultation":"S20261006983",
@@ -609,7 +663,7 @@
     "objet_consultation":"Tvx de nettoyage des voiries à la zone portuaire de Rades.",
     "dernier_delai":"23\/10\/2026 15:00",
     "categorie":"shopping_mall",
-    "jours_restants":5
+    "jours_restants":4
   },
   {
     "numero_consultation":"S20261006980",
@@ -618,7 +672,7 @@
     "objet_consultation":"Mise à disposition d'un minibus pour 09 personnes avec chauffeur du 09 au 13 novembre 2026 Tunis-Tozeur-Douz-Djerba- Tunis",
     "dernier_delai":"26\/10\/2026 17:30",
     "categorie":"shopping_mall",
-    "jours_restants":8
+    "jours_restants":7
   },
   {
     "numero_consultation":"S20261006981",
@@ -627,7 +681,7 @@
     "objet_consultation":"استشارة لاقتناء معدات و تجهيزات صحية و كهربائية لفوج التدخل للحرس الوطني بالقيروان",
     "dernier_delai":"05\/11\/2026 09:30",
     "categorie":"shopping_mall",
-    "jours_restants":18
+    "jours_restants":17
   },
   {
     "numero_consultation":"S20261006982",
@@ -636,7 +690,7 @@
     "objet_consultation":"support de rangement des rouleaux de tissus + Casiers Mobiles sous Plan de Travail",
     "dernier_delai":"26\/10\/2026 17:00",
     "categorie":"shopping_mall",
-    "jours_restants":8
+    "jours_restants":7
   },
   {
     "numero_consultation":"S20261006979",
@@ -645,7 +699,7 @@
     "objet_consultation":"حول أشغال صيانة الهيكل الخارجي لخزان ماء بوادي الليل",
     "dernier_delai":"30\/10\/2026 09:00",
     "categorie":"shopping_mall",
-    "jours_restants":12
+    "jours_restants":11
   },
   {
     "numero_consultation":"S20261006978",
@@ -654,7 +708,7 @@
     "objet_consultation":"responsabilité décennale relative au projet de construction de la 2 éme tranche du complexe résidentiel et commercial (R+Mez +4) Blocs A, renfermant 41 appartements, 5 locaux de commerces, sis à la cité Gremda El Jadida à – SFAX,",
     "dernier_delai":"06\/11\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":19
+    "jours_restants":18
   },
   {
     "numero_consultation":"S20261006977",
@@ -663,7 +717,7 @@
     "objet_consultation":"Consultation pour l'achat et l'installation de mobilier de bureau pour la 2ème fois",
     "dernier_delai":"22\/10\/2026 09:00",
     "categorie":"shopping_mall",
-    "jours_restants":4
+    "jours_restants":3
   },
   {
     "numero_consultation":"S20261006976",
@@ -672,7 +726,7 @@
     "objet_consultation":"حول صيانة شبكة الإنارة الخارجية بثكنة مجاز الباب",
     "dernier_delai":"30\/10\/2026 09:00",
     "categorie":"shopping_mall",
-    "jours_restants":12
+    "jours_restants":11
   },
   {
     "numero_consultation":"S20261006975",
@@ -681,7 +735,7 @@
     "objet_consultation":"organisation seminaire de sensibilisation au profit des agents de l'etat civil le 12 novembre à Djerba",
     "dernier_delai":"26\/10\/2026 17:30",
     "categorie":"shopping_mall",
-    "jours_restants":8
+    "jours_restants":7
   },
   {
     "numero_consultation":"S20261006974",
@@ -690,7 +744,7 @@
     "objet_consultation":"Acquisition FILTRES POUR BUS",
     "dernier_delai":"20\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":2
+    "jours_restants":1
   },
   {
     "numero_consultation":"S20261006964",
@@ -699,7 +753,7 @@
     "objet_consultation":"Consultation pour l'achat et l'installation de mobilier de bureau",
     "dernier_delai":"22\/10\/2026 09:00",
     "categorie":"shopping_mall",
-    "jours_restants":4
+    "jours_restants":3
   },
   {
     "numero_consultation":"S20261006972",
@@ -708,7 +762,7 @@
     "objet_consultation":"Acquisition d'équipements de protection.",
     "dernier_delai":"30\/10\/2026 09:30",
     "categorie":"shopping_mall",
-    "jours_restants":12
+    "jours_restants":11
   },
   {
     "numero_consultation":"S20261006973",
@@ -717,7 +771,7 @@
     "objet_consultation":"Acquisition PR OC500",
     "dernier_delai":"20\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":2
+    "jours_restants":1
   },
   {
     "numero_consultation":"S20261006970",
@@ -726,7 +780,7 @@
     "objet_consultation":"organisation d'un séminaire de sensibilisation au profit des agents de l'etat civil le 11 novembre 2026 à Douz",
     "dernier_delai":"26\/10\/2026 17:30",
     "categorie":"shopping_mall",
-    "jours_restants":8
+    "jours_restants":7
   },
   {
     "numero_consultation":"S20261006971",
@@ -735,7 +789,7 @@
     "objet_consultation":"Tvx d'entretien des espaces verts du port de Rades.",
     "dernier_delai":"26\/10\/2026 09:00",
     "categorie":"shopping_mall",
-    "jours_restants":8
+    "jours_restants":7
   },
   {
     "numero_consultation":"S20261006969",
@@ -744,7 +798,7 @@
     "objet_consultation":"Travaux d'entretien et de rénovation du réseau d'éclairage public",
     "dernier_delai":"26\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":8
+    "jours_restants":7
   },
   {
     "numero_consultation":"S20261006968",
@@ -753,7 +807,7 @@
     "objet_consultation":"Acquisition de chaussures de travail pour le personnel de la S.N.R",
     "dernier_delai":"30\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":12
+    "jours_restants":11
   },
   {
     "numero_consultation":"S20261006967",
@@ -762,7 +816,7 @@
     "objet_consultation":"organisation d'un seminaire de sensibilisation au profit des agents de l'état civil le 10 novembre à Tozeur",
     "dernier_delai":"25\/10\/2026 17:30",
     "categorie":"shopping_mall",
-    "jours_restants":7
+    "jours_restants":6
   },
   {
     "numero_consultation":"S20261006966",
@@ -771,7 +825,7 @@
     "objet_consultation":"Achat cartouche et encre",
     "dernier_delai":"23\/10\/2026 10:30",
     "categorie":"shopping_mall",
-    "jours_restants":5
+    "jours_restants":4
   },
   {
     "numero_consultation":"S20261006965",
@@ -780,7 +834,7 @@
     "objet_consultation":"etude géotechnique de réalisation d'un point de vente des produits de la mer",
     "dernier_delai":"29\/10\/2026 11:00",
     "categorie":"shopping_mall",
-    "jours_restants":11
+    "jours_restants":10
   },
   {
     "numero_consultation":"S20261006963",
@@ -789,7 +843,7 @@
     "objet_consultation":"اقتناء مواد صحية",
     "dernier_delai":"26\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":8
+    "jours_restants":7
   },
   {
     "numero_consultation":"S20261006962",
@@ -798,7 +852,7 @@
     "objet_consultation":"consommables pour laboratoire métrologie",
     "dernier_delai":"26\/10\/2026 17:30",
     "categorie":"shopping_mall",
-    "jours_restants":8
+    "jours_restants":7
   },
   {
     "numero_consultation":"S20261006961",
@@ -807,7 +861,7 @@
     "objet_consultation":"حول أشغال دهن مقر وكالة الدفوعات ببنزرت",
     "dernier_delai":"30\/10\/2026 09:00",
     "categorie":"shopping_mall",
-    "jours_restants":12
+    "jours_restants":11
   },
   {
     "numero_consultation":"S20261006960",
@@ -816,7 +870,7 @@
     "objet_consultation":"Choix d'une Agence Evènementielle Pour l'organisation d'un atelier à Tunis",
     "dernier_delai":"21\/10\/2026 12:00",
     "categorie":"shopping_mall",
-    "jours_restants":3
+    "jours_restants":2
   },
   {
     "numero_consultation":"S20261006959",
@@ -825,7 +879,7 @@
     "objet_consultation":"Rénovation et Création des Réseaux d'Infrastructure Electrique et Numérique",
     "dernier_delai":"05\/11\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":18
+    "jours_restants":17
   },
   {
     "numero_consultation":"S20261006958",
@@ -834,7 +888,7 @@
     "objet_consultation":"Contrôle technique du projet de rénovation de l'installation électrique, acquisition et installation d'un groupe électrogène à la circonscription de sante Agareb",
     "dernier_delai":"29\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":11
+    "jours_restants":10
   },
   {
     "numero_consultation":"S20261006955",
@@ -843,60 +897,6 @@
     "objet_consultation":"acquisition instrumentation chirurgicale",
     "dernier_delai":"23\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":5
-  },
-  {
-    "numero_consultation":"S20261006957",
-    "acheteur_public":"Mairie de Tunis",
-    "date_publication":"16\/10\/2026",
-    "objet_consultation":"Acquisition de petit matériel.",
-    "dernier_delai":"30\/10\/2026 09:45",
-    "categorie":"shopping_mall",
-    "jours_restants":12
-  },
-  {
-    "numero_consultation":"S20261006956",
-    "acheteur_public":"Agence Tunisienne de la Formation Professionnelle",
-    "date_publication":"16\/10\/2026",
-    "objet_consultation":"Choix d'un hôtel 3 étoiles au minimum à Tunis centre-ville ou une entreprise événementielle pour l'hébergement de 8 personnes de l'ATFP",
-    "dernier_delai":"21\/10\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":3
-  },
-  {
-    "numero_consultation":"S20261006954",
-    "acheteur_public":"Prison Gafsa",
-    "date_publication":"16\/10\/2026",
-    "objet_consultation":"إستشارة قصد إقتناء معدات و مواد فلاحية لفائدة سجن قفصة لسنة 2026",
-    "dernier_delai":"23\/10\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":5
-  },
-  {
-    "numero_consultation":"S20261006953",
-    "acheteur_public":"Société Régionale de Transport de Siliana",
-    "date_publication":"16\/10\/2026",
-    "objet_consultation":"expertise technique d'un bus OTOKAR",
-    "dernier_delai":"22\/10\/2026 10:00",
-    "categorie":"shopping_mall",
     "jours_restants":4
-  },
-  {
-    "numero_consultation":"S20261006952",
-    "acheteur_public":"Trésorie Régionale des finances sfax 1",
-    "date_publication":"16\/10\/2026",
-    "objet_consultation":"consultation travaux d'entretien et aménagement local recette municipale et logement de fonction de Djebeniana",
-    "dernier_delai":"26\/10\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":8
-  },
-  {
-    "numero_consultation":"S20261006951",
-    "acheteur_public":"Commune Tina",
-    "date_publication":"16\/10\/2026",
-    "objet_consultation":"Services d'acquisition de systèmes et de réalisation de l'opération de recensement",
-    "dernier_delai":"23\/10\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":5
   }
 ]
