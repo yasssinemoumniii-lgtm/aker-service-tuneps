@@ -1,893 +1,884 @@
 [
   {
-    "numero_consultation":"S20261009697",
-    "acheteur_public":"Commune El Amra",
-    "date_publication":"27\/10\/2026",
-    "objet_consultation":"استشارة دراسة إعداد مثال التهيئة العمرانية لمنطقة السعادي وبليانة من بلدية العامرة",
-    "dernier_delai":"26\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":30
-  },
-  {
-    "numero_consultation":"S20261009696",
-    "acheteur_public":"Société des Transports de Tunis",
-    "date_publication":"27\/10\/2026",
-    "objet_consultation":"DIVERS BARRES.",
-    "dernier_delai":"03\/11\/2026 09:15",
+    "numero_consultation":"S20261009947",
+    "acheteur_public":"Centre de Traumatologie et des Grands Brûles",
+    "date_publication":"28\/10\/2026",
+    "objet_consultation":"Acquisition des Réactifs de Groupage Sanguin",
+    "dernier_delai":"04\/11\/2026 10:00",
     "categorie":"shopping_mall",
     "jours_restants":7
   },
   {
-    "numero_consultation":"S20261009695",
-    "acheteur_public":"Société des Transports de Tunis",
-    "date_publication":"27\/10\/2026",
-    "objet_consultation":"ETALONNAGE DE DISTRIBUTEUR DE GASOIL EXISTANT AU DEPOT ZAHROUNI DE LA TRANSTU.",
-    "dernier_delai":"02\/11\/2026 09:00",
+    "numero_consultation":"S20261009946",
+    "acheteur_public":"Groupement de santé de base EL Kef",
+    "date_publication":"28\/10\/2026",
+    "objet_consultation":"matériel consommable pour laboratoire de prothèse dentaire",
+    "dernier_delai":"12\/11\/2026 08:00",
     "categorie":"shopping_mall",
-    "jours_restants":6
+    "jours_restants":14
   },
   {
-    "numero_consultation":"S20261009694",
-    "acheteur_public":"Hôpital régional housine bouzeine Gafsa",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"تأثيث المصالح الخصوصية بالمستشفى الجهوي الحسين بوزيان بقفصة خــلال سنة 2026",
-    "dernier_delai":"12\/11\/2026 10:00",
+    "numero_consultation":"S20261009945",
+    "acheteur_public":"سجن سليانة",
+    "date_publication":"28\/10\/2026",
+    "objet_consultation":"شراء هاتف قار",
+    "dernier_delai":"09\/11\/2026 08:00",
+    "categorie":"shopping_mall",
+    "jours_restants":11
+  },
+  {
+    "numero_consultation":"S20261009943",
+    "acheteur_public":"Direction régionale de la justice Médenine",
+    "date_publication":"28\/10\/2026",
+    "objet_consultation":"إستشارة عدد2026\/58 لإقتناء زرابي لفائدة المحاكم الراجعة بالنظر للإدارة الجهوية للعدل بمدنين (للمرة الثانية)",
+    "dernier_delai":"05\/11\/2026 10:30",
+    "categorie":"shopping_mall",
+    "jours_restants":8
+  },
+  {
+    "numero_consultation":"S20261009942",
+    "acheteur_public":"Société des Services Nationaux et des Résidences",
+    "date_publication":"28\/10\/2026",
+    "objet_consultation":"La fourniture de produits d'entretien et buanderie",
+    "dernier_delai":"04\/11\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":7
+  },
+  {
+    "numero_consultation":"S20261009941",
+    "acheteur_public":"Caisse Nationale de l'Assurance Maladie",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"HERBERGEMENT ET FORMATION AU PROFIT DE LA CNAM",
+    "dernier_delai":"10\/11\/2026 12:30",
+    "categorie":"shopping_mall",
+    "jours_restants":13
+  },
+  {
+    "numero_consultation":"S20261009940",
+    "acheteur_public":"Institut Préparatoire aux Etudes d'Ingénieurs de Sfax",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Acquisition de fournitures et de produits de nettoyage pour l'institut",
+    "dernier_delai":"09\/11\/2026 09:30",
+    "categorie":"shopping_mall",
+    "jours_restants":12
+  },
+  {
+    "numero_consultation":"S20261009939",
+    "acheteur_public":"Institut Préparatoire aux Etudes d'Ingénieurs de Sfax",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Tenues de protection au profit des agents de l'Institut préparatoire aux études d'ingénieurs de Sfax",
+    "dernier_delai":"09\/11\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":12
+  },
+  {
+    "numero_consultation":"S20261009938",
+    "acheteur_public":"Commissariat régional de l'éducation de Zaghouan",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"construction d'une salle de classe a l'ecole primaire eljomhourya ennadhour consultation 46-2026",
+    "dernier_delai":"13\/11\/2026 10:00",
     "categorie":"shopping_mall",
     "jours_restants":16
   },
   {
-    "numero_consultation":"S20261009693",
-    "acheteur_public":"Ecole Supérieure des Communications de Tunis",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Acquisition du matériel informatique au profit de l'Ecole Superieur des communications de Tunis",
-    "dernier_delai":"10\/11\/2026 13:00",
+    "numero_consultation":"S20261009937",
+    "acheteur_public":"Commissariat régional de l'éducation de Zaghouan",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"بناء قاعة عادية بالمدرسة الإعدادية عقبة ابن نافع صواف استشارة عدد 452026",
+    "dernier_delai":"10\/11\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":14
+    "jours_restants":13
   },
   {
-    "numero_consultation":"S20261009692",
-    "acheteur_public":"Institut Supérieur des Etudes Technologiques de Béja",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Consultation n° 16\/DD\/2026 relative à l'acquisition de fournitures de protection et de sécurité au travail au profit des techniciens supérieurs de l'Institut Supérieur des Études Technologiques de Béja.",
-    "dernier_delai":"05\/11\/2026 17:00",
+    "numero_consultation":"S20261009936",
+    "acheteur_public":"Gouvernorat Kasserine",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"المراقبة الفنية لمشروع تهيئة دار الثقافة بسبيطلة",
+    "dernier_delai":"10\/11\/2026 09:30",
     "categorie":"shopping_mall",
-    "jours_restants":9
+    "jours_restants":13
   },
   {
-    "numero_consultation":"S20261009691",
-    "acheteur_public":"Institut Supérieur des Etudes Technologiques de Béja",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Consultation pour l'acquisition de produits d'entretien des bâtiments au profit de l'Institut Supérieur des Études Technologiques de Béja.",
-    "dernier_delai":"05\/11\/2026 17:00",
-    "categorie":"shopping_mall",
-    "jours_restants":9
-  },
-  {
-    "numero_consultation":"S20261009690",
-    "acheteur_public":"Ecole Supérieure des Communications de Tunis",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Sélection d'un(e) consultant(e) externe pour l'assistance à la gestion administrative et financière du projet pour SUP'COM (PP2), sur l'ensemble de ses activités et groupes de tâches, dans le cadre du projet : « Réseau de transfert des résultats de la recherche pour la transition vers des MPME dans la culture et la mouture des olives qui adoptent l'innovation et les technologies avancées » PROMESERVAGRI 4.0 — Réf. A1-1.3-228",
-    "dernier_delai":"26\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":30
-  },
-  {
-    "numero_consultation":"S20261009689",
-    "acheteur_public":"Ecole Supérieure des Communications de Tunis",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Sélection d'un(e) consultant(e) externe pour l'appui à la production et au suivi des livrables de la stratégie de diffusion, de plaidoyer et de capitalisation des résultats des actions pilotes du projet — Groupe de Tâches 4 (GT4), coordonné par SUP'COM (PP2), dans le cadre du projet : « Réseau de transfert des résultats de la recherche pour la transition vers des MPME dans la culture et la mouture des olives qui adoptent l'innovation et les technologies avancées » PROMESERVAGRI 4.0 — Réf. A1-1.3-228",
-    "dernier_delai":"26\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":30
-  },
-  {
-    "numero_consultation":"S20261009688",
-    "acheteur_public":"Ministère de l'Equipement, l'habitat et l'aménagement du territoire",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Achat des pièces de rechange pour la voiture administrative de la DGBC n° 13-151591 au ministère de l'équipment et de l'habitat",
-    "dernier_delai":"29\/10\/2026 08:30",
+    "numero_consultation":"S20261009935",
+    "acheteur_public":"Commissariat régional de l'éducation de l'Ariana",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"DEMONTAGE, MANUTENSION, TRANSPORT, REPARATION ET MISE EN PLACE DE DEUX SALLES DE CLASSE PREFABRIQUEE",
+    "dernier_delai":"30\/10\/2026 09:30",
     "categorie":"shopping_mall",
     "jours_restants":2
   },
   {
-    "numero_consultation":"S20261009687",
-    "acheteur_public":"Hôpital de Circonscription de Thala",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Remise en etat installation du chauffage centrale PMI Thala",
-    "dernier_delai":"11\/11\/2026 12:00",
-    "categorie":"shopping_mall",
-    "jours_restants":15
-  },
-  {
-    "numero_consultation":"S20261009686",
-    "acheteur_public":"Agence de Promotion des Investissements Agricoles",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Acquisition 20 licences Veem backup et restauration 12",
-    "dernier_delai":"13\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":17
-  },
-  {
-    "numero_consultation":"S20261009685",
-    "acheteur_public":"Commune de Dar Chaabane El Fehri",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Acquisition de fournitures entretien de voirie",
-    "dernier_delai":"09\/11\/2026 09:30",
+    "numero_consultation":"S20261009788",
+    "acheteur_public":"Commissariat régional de l'éducation de Médnine",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"أشغال غلق بئر بمعهد ابن رشد ميدون وتهيئة ملعب رياضي بالمدرسة الإعدادية آركو ميدون.",
+    "dernier_delai":"10\/11\/2026 09:00",
     "categorie":"shopping_mall",
     "jours_restants":13
   },
   {
-    "numero_consultation":"S20260800954",
-    "acheteur_public":"Commune d'Oum Laraies",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"اقتناء مواد كهربائية لفائدة بلدية ام العرائس 2026",
-    "dernier_delai":"16\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":20
-  },
-  {
-    "numero_consultation":"S20261009684",
-    "acheteur_public":"Commune Zouiet Kontoch",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"إقتناء زي الشغل بعنوان سنة 2026",
-    "dernier_delai":"03\/11\/2026 10:00",
+    "numero_consultation":"S20261009934",
+    "acheteur_public":"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Sfax",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Réparation de la voiture 13-151320",
+    "dernier_delai":"04\/11\/2026 10:00",
     "categorie":"shopping_mall",
     "jours_restants":7
   },
   {
-    "numero_consultation":"S20261009632",
-    "acheteur_public":"Commune de Gremda",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"consultation de prix pour la fourniture et la plantation des arbres et arbustes d'ornement",
-    "dernier_delai":"02\/11\/2026 10:00",
+    "numero_consultation":"S20261009933",
+    "acheteur_public":"Commune de Chenini Nahal",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"ETUDE ET SUIVI DES PROJETS D'INSTALLATION D'UN SYSTEME PHOTOVOLTAÏQUE 2026",
+    "dernier_delai":"09\/11\/2026 14:00",
     "categorie":"shopping_mall",
-    "jours_restants":6
+    "jours_restants":12
   },
   {
-    "numero_consultation":"S20261009683",
-    "acheteur_public":"Ministère de l'Education",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Acquisition de Micro-Casque",
-    "dernier_delai":"30\/10\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":3
-  },
-  {
-    "numero_consultation":"S20261009682",
-    "acheteur_public":"Commissariat Régional au Développement Agricole de Kairouan",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"اقتناء مواد اعلامية وخراطيش للآلات الطابعة و الناسخة لسنة 2026",
-    "dernier_delai":"10\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":14
-  },
-  {
-    "numero_consultation":"S20261009680",
-    "acheteur_public":"Commissariat régional de l'éducation de Médnine",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"أشغال بناء سياج بالمدرسة الابتدائية الورسنية بنقردان.",
+    "numero_consultation":"S20261009932",
+    "acheteur_public":"Commissariat Régional au Développement Agricole de Tozeur",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Acquisition Des Équipements Informatiques et Bureautiques et d'outils de maintenance",
     "dernier_delai":"05\/11\/2026 09:00",
-    "categorie":"shopping_mall",
-    "jours_restants":9
-  },
-  {
-    "numero_consultation":"S20261009681",
-    "acheteur_public":"Hôpital de circonscription de Békalta",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Acquisition de fichiers pour dossiers médicaux",
-    "dernier_delai":"31\/10\/2026 18:00",
-    "categorie":"shopping_mall",
-    "jours_restants":4
-  },
-  {
-    "numero_consultation":"S20261009679",
-    "acheteur_public":"Commune Sidi Zid-Ouled Moulahem",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"اقتناء مواد كهربائية للتنوير العمومي لسنة 2026",
-    "dernier_delai":"06\/11\/2026 09:00",
-    "categorie":"shopping_mall",
-    "jours_restants":10
-  },
-  {
-    "numero_consultation":"S20261009678",
-    "acheteur_public":"Ministère de la Défense Nationale",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"ACQUISITION MACHINE DE MARQUAGE LASER COULEUR",
-    "dernier_delai":"10\/11\/2026 09:00",
-    "categorie":"shopping_mall",
-    "jours_restants":14
-  },
-  {
-    "numero_consultation":"S20261009675",
-    "acheteur_public":"Commissariat régional de l'éducation de Médnine",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"أشغال بناء سياج بمعهد بنقردان.",
-    "dernier_delai":"04\/11\/2026 09:00",
     "categorie":"shopping_mall",
     "jours_restants":8
   },
   {
-    "numero_consultation":"S20261009677",
-    "acheteur_public":"Commune de Sidi Bou Said",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"استشارة لاقتناء لوازم ميكانيكية لفائدة البلدية بعنوان سنة 2026",
-    "dernier_delai":"09\/11\/2026 09:30",
+    "numero_consultation":"S20261009931",
+    "acheteur_public":"Commune de sakiet eddaier",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"تعبيد بعض الانهج بمدينة ساقية الدائر",
+    "dernier_delai":"16\/11\/2026 09:00",
     "categorie":"shopping_mall",
-    "jours_restants":13
+    "jours_restants":19
   },
   {
-    "numero_consultation":"S20261009676",
-    "acheteur_public":"Ministère de la Défense Nationale",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Contrôle technique des Travaux (chateaux d'eau) à Remada",
+    "numero_consultation":"S20261009930",
+    "acheteur_public":"Commune de Teboulba",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Acquisition des équipements sanitaires pour l'abattoir municipal de téboulba",
+    "dernier_delai":"06\/11\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":9
+  },
+  {
+    "numero_consultation":"S20261009929",
+    "acheteur_public":"Office de la Marine Marchande et des Ports",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Achat vacci-grippe pour la direction de port de Rades",
+    "dernier_delai":"31\/10\/2026 14:00",
+    "categorie":"shopping_mall",
+    "jours_restants":3
+  },
+  {
+    "numero_consultation":"S20261009928",
+    "acheteur_public":"Commune de sakiet eddaier",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"aménagement des voies dans le territoir de sakiet eddaier",
+    "dernier_delai":"13\/11\/2026 09:00",
+    "categorie":"shopping_mall",
+    "jours_restants":16
+  },
+  {
+    "numero_consultation":"S20261009923",
+    "acheteur_public":"Commissariat Régional des affaires culturelles de Tozeur",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"acquisition d'equipement musicaux au profit des maisons de culture du gouvernorat de tozeur",
+    "dernier_delai":"04\/11\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":7
+  },
+  {
+    "numero_consultation":"S20261009921",
+    "acheteur_public":"Centre Technique de l'Industrie du Bois et de l'Ameublement",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Renouvellement Licence Firewall Fortinet 60F",
     "dernier_delai":"09\/11\/2026 10:00",
     "categorie":"shopping_mall",
+    "jours_restants":12
+  },
+  {
+    "numero_consultation":"S20261009917",
+    "acheteur_public":"Conseil régional de Gabès",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"أشغال تهيئة وصيانة بالمكتبة العمومية بقابس",
+    "dernier_delai":"06\/11\/2026 08:30",
+    "categorie":"shopping_mall",
+    "jours_restants":9
+  },
+  {
+    "numero_consultation":"S20261009919",
+    "acheteur_public":"Ministère de la Défense Nationale",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Contacteur Tetra polaire حول إقتناء",
+    "dernier_delai":"10\/11\/2026 09:00",
+    "categorie":"shopping_mall",
     "jours_restants":13
   },
   {
-    "numero_consultation":"S20261009046",
-    "acheteur_public":"Université de Gabès",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"ACQUISITION DES PRODUITS CHIMIQUES DANS LE CADRE DU PROJET STREAMING",
-    "dernier_delai":"01\/11\/2026 16:00",
+    "numero_consultation":"S20261009918",
+    "acheteur_public":"Télévision Tunisienne",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Acquisition Peinture Acrylique pour Beaux-arts",
+    "dernier_delai":"30\/10\/2026 11:30",
+    "categorie":"shopping_mall",
+    "jours_restants":2
+  },
+  {
+    "numero_consultation":"S20261009916",
+    "acheteur_public":"Conseil Régional De Bizerte",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Achat des matériels informatique pour l'année 2026 -gouvernorat de bizerte",
+    "dernier_delai":"03\/11\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":6
+  },
+  {
+    "numero_consultation":"S20261009915",
+    "acheteur_public":"Ministère de l'Enseignement Supérieur et de la Recherche Scientifique",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Acquisition de matériel de visioconférence pour les six (06) espaces de recherche, transfert de technologie et innovation des Instituts Supérieurs des Etudes Technologiques (ISET)",
+    "dernier_delai":"10\/11\/2026 12:00",
+    "categorie":"shopping_mall",
+    "jours_restants":13
+  },
+  {
+    "numero_consultation":"S20261009914",
+    "acheteur_public":"Hôpital Mongi Slim à la Marsa",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"JEUX D'ESSUIE GLACE",
+    "dernier_delai":"29\/10\/2026 11:00",
+    "categorie":"shopping_mall",
+    "jours_restants":1
+  },
+  {
+    "numero_consultation":"S20261009913",
+    "acheteur_public":"Direction Générale des Prisons et de la Rééducation",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"expertise technique complet du réseau de lutte contre les incendies 3éme fois",
+    "dernier_delai":"03\/11\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":6
+  },
+  {
+    "numero_consultation":"S20261009912",
+    "acheteur_public":"Hôpital Mongi Slim à la Marsa",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"ACQUISITION DES PIECES DE RECHANGE POUR LE PARC AUTO DE L'HOPITAL",
+    "dernier_delai":"04\/11\/2026 11:00",
+    "categorie":"shopping_mall",
+    "jours_restants":7
+  },
+  {
+    "numero_consultation":"S20261009911",
+    "acheteur_public":"Gouvernorat de Jendouba",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"اقتناء أواني طبح وأكل لفائدة وحدات الأمن الداخلي بجندوبة خلال السنة المالية 2026",
+    "dernier_delai":"10\/11\/2026 11:00",
+    "categorie":"shopping_mall",
+    "jours_restants":13
+  },
+  {
+    "numero_consultation":"S20261009909",
+    "acheteur_public":"Commune de Kalaa Kébira",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"اقتناء عربات مخصصة للكنس اليدوي",
+    "dernier_delai":"05\/11\/2026 09:00",
+    "categorie":"shopping_mall",
+    "jours_restants":8
+  },
+  {
+    "numero_consultation":"S20261009910",
+    "acheteur_public":"Ministère de l'Education",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"DEPOSE ET AQUISITION ET INSTALLATION D'UN CHAUFFE A EAU ELECTRIQUE 30L",
+    "dernier_delai":"02\/11\/2026 10:00",
     "categorie":"shopping_mall",
     "jours_restants":5
   },
   {
-    "numero_consultation":"S20261009674",
-    "acheteur_public":"Ministère de la Défense Nationale",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Contrôle technique des Travaux à Remada",
-    "dernier_delai":"09\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":13
-  },
-  {
-    "numero_consultation":"S20261009673",
-    "acheteur_public":"Commune d'Ariana",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Acquisition de 02 certificats SSL (3 eme fois)",
-    "dernier_delai":"09\/11\/2026 17:00",
-    "categorie":"shopping_mall",
-    "jours_restants":13
-  },
-  {
-    "numero_consultation":"S20261009667",
-    "acheteur_public":"Commune de Sfax",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Acquisition des consommables informatiques",
-    "dernier_delai":"03\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":7
-  },
-  {
-    "numero_consultation":"S20261009672",
-    "acheteur_public":"Commune de Sakiet Sidi Youssef",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"consultation de pilotage travaux d'aménagement du marché aux bestiaux à Sakiet Sidi Youssef",
+    "numero_consultation":"S20261009908",
+    "acheteur_public":"Centre National des sciences et Technologies nucléaires",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Acquisition de produits biologique",
     "dernier_delai":"30\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":3
+    "jours_restants":2
   },
   {
-    "numero_consultation":"S20261009671",
-    "acheteur_public":"Ecole Technique de l'armée de terre",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"achat trançonneuse",
-    "dernier_delai":"04\/11\/2026 08:00",
+    "numero_consultation":"S20261009907",
+    "acheteur_public":"Prison rabta",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Cable téléphonique طلب اقتناء",
+    "dernier_delai":"03\/11\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":6
+  },
+  {
+    "numero_consultation":"S20261009905",
+    "acheteur_public":"Institut Supérieur du Transport et de la Logistique de Sousse",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Achat de matériel de jardinage",
+    "dernier_delai":"07\/11\/2026 09:00",
+    "categorie":"shopping_mall",
+    "jours_restants":10
+  },
+  {
+    "numero_consultation":"S20261009906",
+    "acheteur_public":"Centre National de la Cartographie et de laTélédétection",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"في إطار تنظيم ملتقى يوم 04 نوفمبر 2026 بمقر وزارة الفلاحة والموارد المائية والصيد البحري التفضل بمدنا بأفضل الأثمان بخصوص المعطيات المنصوص عليها بالبطاقة المصاحبة",
+    "dernier_delai":"30\/10\/2026 08:58",
+    "categorie":"shopping_mall",
+    "jours_restants":2
+  },
+  {
+    "numero_consultation":"S20261009904",
+    "acheteur_public":"Gouvernorat de Kairouan",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"اختبار فني لمركز الصحة الأساسية الحجام",
+    "dernier_delai":"16\/11\/2026 09:30",
+    "categorie":"shopping_mall",
+    "jours_restants":19
+  },
+  {
+    "numero_consultation":"S20261009902",
+    "acheteur_public":"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Béja",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"اقتناء دهانات للعناية ببناءات الإدارة الجهوية للتجهيز بباجة لسنة 2026.",
+    "dernier_delai":"03\/11\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":6
+  },
+  {
+    "numero_consultation":"S20261009901",
+    "acheteur_public":"Gouvernorat de Kairouan",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"إختبار فني للهيكل الحامل لمشروع تهيئة و صيانة دار الثقافة بنصر الله",
+    "dernier_delai":"16\/11\/2026 09:30",
+    "categorie":"shopping_mall",
+    "jours_restants":19
+  },
+  {
+    "numero_consultation":"S20261009900",
+    "acheteur_public":"Centre Technique des Industries Mécaniques et Electriques",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Mission d'assistance technique, de développement des compétences et d'inter-comparaison dans le domaine des harmoniques et du flicker",
+    "dernier_delai":"24\/11\/2026 12:00",
+    "categorie":"shopping_mall",
+    "jours_restants":27
+  },
+  {
+    "numero_consultation":"S20261009899",
+    "acheteur_public":"Conseil régional de Gabès",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"أشغال صيانة نادي الإعلامية موجهة للطفل بقابس المدينة",
+    "dernier_delai":"05\/11\/2026 08:30",
     "categorie":"shopping_mall",
     "jours_restants":8
   },
   {
-    "numero_consultation":"S20261009670",
-    "acheteur_public":"Commune En-Nacer",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Acquisition et installation de 04 pneus pour le camion Iveco",
-    "dernier_delai":"16\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":20
-  },
-  {
-    "numero_consultation":"S20261009669",
-    "acheteur_public":"Société de Transport Des Hydrocarbures Par Pipelines de Tunis",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Acquisition des produits de références CRM",
-    "dernier_delai":"13\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":17
-  },
-  {
-    "numero_consultation":"S20261009668",
-    "acheteur_public":"Commune de Sahline Emoatmar",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"إقتناء مواد كهربائية للاعتناء بشبكة التنوير العمومي بعنوان سنة 2026",
-    "dernier_delai":"16\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":20
-  },
-  {
-    "numero_consultation":"S20261009666",
-    "acheteur_public":"Commune d'Ariana",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"réparation afficheur LED outdoor pitch 4 place sala (2 éme fois)",
-    "dernier_delai":"09\/11\/2026 17:00",
-    "categorie":"shopping_mall",
-    "jours_restants":13
-  },
-  {
-    "numero_consultation":"S20261009665",
-    "acheteur_public":"Institut Pasteur de Tunis",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"ACQUISITION DES FILTRES ET PAPIERS SPECIAUX POUR LE BESOIN DE L'INSTITUT PASTEUR DE TUNIS",
-    "dernier_delai":"30\/10\/2026 11:00",
-    "categorie":"shopping_mall",
-    "jours_restants":3
-  },
-  {
-    "numero_consultation":"S20261009664",
-    "acheteur_public":"Société de Transport Des Hydrocarbures Par Pipelines de Tunis",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Etalonnage de deux explosiomètres",
-    "dernier_delai":"11\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":15
-  },
-  {
-    "numero_consultation":"S20261009663",
-    "acheteur_public":"Commissariat Régional au Développement Agricole de Gabès",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Travaux de d'entretien de réseaux informatique",
-    "dernier_delai":"02\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":6
-  },
-  {
-    "numero_consultation":"S20261009662",
-    "acheteur_public":"Commune Bir Mcherga",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Consultation pour l'acquisition de matériaux de quincaillerie et de plomberie sanitaire.",
-    "dernier_delai":"05\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":9
-  },
-  {
-    "numero_consultation":"S20261009661",
-    "acheteur_public":"Institut Pasteur de Tunis",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"ACQUISITION DES REACTIFS ET MILIEUX DE CULTURE POUR LE BESOIN DE L'INSTITUT PASTEUR DE TUNIS",
-    "dernier_delai":"02\/11\/2026 11:00",
-    "categorie":"shopping_mall",
-    "jours_restants":6
-  },
-  {
-    "numero_consultation":"S20261009660",
-    "acheteur_public":"Commune Bir Mcherga",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Consultation pour l'acquisition de matériel électrique.",
-    "dernier_delai":"05\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":9
-  },
-  {
-    "numero_consultation":"S20261009659",
-    "acheteur_public":"Office des Logements du Personnel du Ministère de l'Education",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"أشغال هدم وبناء سياج قطعة أرض الديوان بتقسيم \" الياسمين\" بالمنيهلة من ولاية أريانة",
-    "dernier_delai":"09\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":13
-  },
-  {
-    "numero_consultation":"S20261009658",
-    "acheteur_public":"Commune Bir Mcherga",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Consultation pour l'acquisition de drapeaux décoratifs.",
-    "dernier_delai":"05\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":9
-  },
-  {
-    "numero_consultation":"S20261009657",
-    "acheteur_public":"Centre d'Hydrographie et d'Oceanographie de la Marine Nationale",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Mise en place : révetement de sol",
-    "dernier_delai":"05\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":9
-  },
-  {
-    "numero_consultation":"S20261009654",
-    "acheteur_public":"Commune Rafraf",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"اقتناء أشجار",
-    "dernier_delai":"30\/10\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":3
-  },
-  {
-    "numero_consultation":"S20261009655",
-    "acheteur_public":"Prison Civile De Sfax",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"رفع النفايات الطبية",
-    "dernier_delai":"03\/11\/2026 10:00",
+    "numero_consultation":"S20261009897",
+    "acheteur_public":"Office National de la Famille et de la Population",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Acquisition des articles divers pour l'Imprimerie de l'ONFP",
+    "dernier_delai":"04\/11\/2026 10:00",
     "categorie":"shopping_mall",
     "jours_restants":7
   },
   {
-    "numero_consultation":"S20261009652",
-    "acheteur_public":"Commune Mhamdia",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Travaux de serrurerie sur le terrain de quartier gazonné, dans le quartier Al-Naseem.",
+    "numero_consultation":"S20261009898",
+    "acheteur_public":"Commissariat Régional au Développement Agricole de Kébili",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"اقتنــاء مــواد معقمة لفائدة دائرة الإنتاج الحيواني بالمندوبية الجهوية للتنمية الفلاحية بقبلي",
+    "dernier_delai":"11\/11\/2026 17:30",
+    "categorie":"shopping_mall",
+    "jours_restants":14
+  },
+  {
+    "numero_consultation":"S20261009895",
+    "acheteur_public":"Commune d'Ezzahra",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Élaboration d'une étude pour le renouvellement des projecteurs du terrain de foot-ball d'EZ-Zahra",
+    "dernier_delai":"10\/11\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":13
+  },
+  {
+    "numero_consultation":"S20261009896",
+    "acheteur_public":"Hôpital Mongi Slim à la Marsa",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"القيام بمختلف خدمات صيانة و إصلاح أسطول وسائل النقل التابعة للمستشفى الجامعي منجي سليم بالمرسى",
+    "dernier_delai":"03\/11\/2026 11:00",
+    "categorie":"shopping_mall",
+    "jours_restants":6
+  },
+  {
+    "numero_consultation":"S20261009894",
+    "acheteur_public":"Ecole des Officiers Mariniers (EOM)",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"machine thermorelieur",
+    "dernier_delai":"04\/11\/2026 09:00",
+    "categorie":"shopping_mall",
+    "jours_restants":7
+  },
+  {
+    "numero_consultation":"S20261009892",
+    "acheteur_public":"Ministère de l'Education",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"اقتناء مواد مكتبية وإعلامية ومستهلكات حبر لفائدة الإدارة المركزية لوزارة التربية",
+    "dernier_delai":"05\/11\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":8
+  },
+  {
+    "numero_consultation":"S20261009893",
+    "acheteur_public":"Hôpital Régional de Msaken",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Acquisition accessoires pour médecine dentaires",
+    "dernier_delai":"04\/11\/2026 11:00",
+    "categorie":"shopping_mall",
+    "jours_restants":7
+  },
+  {
+    "numero_consultation":"S20261009891",
+    "acheteur_public":"Institut Pasteur de Tunis",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"ACQUISITION DES CONSOMMABLES DE LABORATOIRE POUR LE BESOIN DE L'INSTITUT PASTEUR DE TUNIS",
+    "dernier_delai":"02\/11\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":5
+  },
+  {
+    "numero_consultation":"S20261009889",
+    "acheteur_public":"Centre Technique des Industries Mécaniques et Electriques",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Acquisition d'une source de référence portable pour la vérification périodique des bancs d'essais d'harmoniques, d'interharmoniques et de flicker",
+    "dernier_delai":"13\/11\/2026 12:00",
+    "categorie":"shopping_mall",
+    "jours_restants":16
+  },
+  {
+    "numero_consultation":"S20261009890",
+    "acheteur_public":"Prison sers",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"entretien poste transfos",
+    "dernier_delai":"02\/11\/2026 09:00",
+    "categorie":"shopping_mall",
+    "jours_restants":5
+  },
+  {
+    "numero_consultation":"S20261009888",
+    "acheteur_public":"Commissariat Régional au Développement Agricole de Sousse",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"انجاز تجارب الضخ لاربعة (04) ابار عميقة للماء الصالح للشراب بولاية سوسة",
+    "dernier_delai":"17\/11\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":20
+  },
+  {
+    "numero_consultation":"S20261009885",
+    "acheteur_public":"Commune de hergla",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"إقتناء مضخة ماء",
+    "dernier_delai":"06\/11\/2026 09:00",
+    "categorie":"shopping_mall",
+    "jours_restants":9
+  },
+  {
+    "numero_consultation":"S20261009887",
+    "acheteur_public":"Société Régionale de Transport Gouvernorat de Médenine",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"PIECES DE RECHANGES",
+    "dernier_delai":"05\/11\/2026 09:00",
+    "categorie":"shopping_mall",
+    "jours_restants":8
+  },
+  {
+    "numero_consultation":"S20261009886",
+    "acheteur_public":"Société Régionale de Transport Gouvernorat de Médenine",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"PIECES DE RECHANGES",
+    "dernier_delai":"05\/11\/2026 09:00",
+    "categorie":"shopping_mall",
+    "jours_restants":8
+  },
+  {
+    "numero_consultation":"S20261009883",
+    "acheteur_public":"Centre de Biotechnologie de Sfax",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Travaux de réparation, de remise en état et de mise en service du groupe frigorifique d'une chambre froide positive devant maintenir une température de consigne de +4°C.",
+    "dernier_delai":"04\/11\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":7
+  },
+  {
+    "numero_consultation":"S20261009865",
+    "acheteur_public":"Conseil régional de siliana",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"أشغال ربط مقر ولاية سليانة بشبكة مياه الأمطار",
+    "dernier_delai":"09\/11\/2026 09:00",
+    "categorie":"shopping_mall",
+    "jours_restants":12
+  },
+  {
+    "numero_consultation":"S20261009884",
+    "acheteur_public":"Société Régionale de Transport Gouvernorat de Médenine",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"PIECES DE RECHANGES",
+    "dernier_delai":"05\/11\/2026 09:00",
+    "categorie":"shopping_mall",
+    "jours_restants":8
+  },
+  {
+    "numero_consultation":"S20261009880",
+    "acheteur_public":"Ministère de la Culture",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Achat Pièces Détachés pour voiture de type Fiat Doblo - Fiat Punto - Hyundai Tucson - Stock Magasin",
+    "dernier_delai":"02\/11\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":5
+  },
+  {
+    "numero_consultation":"S20261009882",
+    "acheteur_public":"Commune de hergla",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"إقتناء شاحنة خفيفة",
+    "dernier_delai":"11\/11\/2026 09:00",
+    "categorie":"shopping_mall",
+    "jours_restants":14
+  },
+  {
+    "numero_consultation":"S20261009881",
+    "acheteur_public":"Société Régionale de Transport Gouvernorat de Médenine",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"PIECES DE RECHANGES",
+    "dernier_delai":"05\/11\/2026 09:00",
+    "categorie":"shopping_mall",
+    "jours_restants":8
+  },
+  {
+    "numero_consultation":"S20261009879",
+    "acheteur_public":"Prison Civile De Sfax",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"بشأن اقتناء معدات طبية للقيام بعدسة",
     "dernier_delai":"06\/11\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":10
+    "jours_restants":9
   },
   {
-    "numero_consultation":"S20261009653",
-    "acheteur_public":"Ministère de la Culture",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Achat pièces détachés pour Bus de Type Hyundai County (29 Places) (2014)",
+    "numero_consultation":"S20261009877",
+    "acheteur_public":"Société Régionale de Transport Gouvernorat de Médenine",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"PIECES DE RECHANGES",
+    "dernier_delai":"05\/11\/2026 09:00",
+    "categorie":"shopping_mall",
+    "jours_restants":8
+  },
+  {
+    "numero_consultation":"S20261009875",
+    "acheteur_public":"Commune Sidi Aïch",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"étude et suivi du projet d'installation d'un système photovoltaïque dans la commune de sidi aich",
+    "dernier_delai":"27\/11\/2026 11:00",
+    "categorie":"shopping_mall",
+    "jours_restants":30
+  },
+  {
+    "numero_consultation":"S20261009876",
+    "acheteur_public":"Hôpital Régional de Msaken",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Acquisition meuble",
+    "dernier_delai":"09\/11\/2026 11:00",
+    "categorie":"shopping_mall",
+    "jours_restants":12
+  },
+  {
+    "numero_consultation":"S20261009874",
+    "acheteur_public":"Prison Civile De Sfax",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"بشأن اقتناء معدات طبية",
+    "dernier_delai":"06\/11\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":9
+  },
+  {
+    "numero_consultation":"S20261009873",
+    "acheteur_public":"Hôpital Mahmoud El Matri de l'Ariana",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"ACQUISITION DE FLACON D'HEMOCULTURE",
+    "dernier_delai":"03\/11\/2026 09:30",
+    "categorie":"shopping_mall",
+    "jours_restants":6
+  },
+  {
+    "numero_consultation":"S20261009872",
+    "acheteur_public":"Hôpital Charles Nicolle de Tunis",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"imprimés divers",
+    "dernier_delai":"30\/10\/2026 09:00",
+    "categorie":"shopping_mall",
+    "jours_restants":2
+  },
+  {
+    "numero_consultation":"S20261009871",
+    "acheteur_public":"Commune de Bouarada",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"إستشارة عــــدد 12\/2026 إقتناء معدات إعلامية لفائدة بلدية بوعــــــرادة فــــي إطار برنامج FICOL2 للمــــــــرة الثالثـــــة",
+    "dernier_delai":"10\/11\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":13
+  },
+  {
+    "numero_consultation":"S20261009771",
+    "acheteur_public":"Agence Nationale pour l'Emploi et le Travail Indépendant",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Choix d'une entreprise de bâtiment pour la réalisation des travaux d'aménagement du bureau d'emploi et du travail indépendant pole El Ghazala.",
+    "dernier_delai":"06\/11\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":9
+  },
+  {
+    "numero_consultation":"S20261009870",
+    "acheteur_public":"Commune de Sidi Bouali",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"etude plan aménagement",
+    "dernier_delai":"27\/11\/2026 14:00",
+    "categorie":"shopping_mall",
+    "jours_restants":30
+  },
+  {
+    "numero_consultation":"S20261009869",
+    "acheteur_public":"Compagnie des Phosphates de Gafsa",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"بالمغسلة عدد 04 T907 تاهيل القواعد الاسمنتية لناقل الفسفاط العقيم",
+    "dernier_delai":"28\/11\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":31
+  },
+  {
+    "numero_consultation":"S20261009868",
+    "acheteur_public":"المستشفى الجهوي بمنزل تميم",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"اقتناء معدات مختلفة",
+    "dernier_delai":"02\/11\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":5
+  },
+  {
+    "numero_consultation":"S20261009867",
+    "acheteur_public":"Direction Régionale de la Justice de Nabeul",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"ACHAT DE FOURNITURES BUREAUTIQUES",
+    "dernier_delai":"11\/11\/2026 11:00",
+    "categorie":"shopping_mall",
+    "jours_restants":14
+  },
+  {
+    "numero_consultation":"S20261009866",
+    "acheteur_public":"Hôpital La Rabta de Tunis",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Achat des poches de stomie pour les services de chirurgie générale et réactifs et accessoires de laboratoire pour le service laboratoire immunologie et chirurgie cardio vasculaire",
     "dernier_delai":"30\/10\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":3
+    "jours_restants":2
   },
   {
-    "numero_consultation":"S20261009651",
-    "acheteur_public":"Commune de Chenini Nahal",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"أشغال النظافة بالمسالك السياحية بشنني",
-    "dernier_delai":"06\/11\/2026 14:00",
+    "numero_consultation":"S20261009863",
+    "acheteur_public":"Commune de Gremda",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"location d'un camion citerne équipé d'un systéme d'aspiration pour la vidange des fosses de l'abattoir municipal de gremda",
+    "dernier_delai":"06\/11\/2026 10:00",
     "categorie":"shopping_mall",
-    "jours_restants":10
+    "jours_restants":9
   },
   {
-    "numero_consultation":"S20261009650",
-    "acheteur_public":"Conseil régional de Mahdia",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"إعداد دراسة جدوى ومتابعة فنية لتركيز الطاقة الفوطوضوئية بعدد 08 مقرات بمعتمديات المهدية، قصور الساف، الجم، سيدي علوان، بومرداس وشربان",
-    "dernier_delai":"17\/11\/2026 10:00",
+    "numero_consultation":"S20261009864",
+    "acheteur_public":"Gouvernorat de Kébili",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"أشغال هدم وإعادة بناء سياج المسكن الوظيفي للسيد والي قبلي",
+    "dernier_delai":"10\/11\/2026 23:59",
+    "categorie":"shopping_mall",
+    "jours_restants":13
+  },
+  {
+    "numero_consultation":"S20261009862",
+    "acheteur_public":"Hôpital Régional de Siliana",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Cumulus + Attrape mouche",
+    "dernier_delai":"04\/11\/2026 09:00",
+    "categorie":"shopping_mall",
+    "jours_restants":7
+  },
+  {
+    "numero_consultation":"S20261009861",
+    "acheteur_public":"Société Régionale de Transport Gouvernorat de Bizerte",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"ACQUISITION PIECES RECHANGES MERCEDES OC 500",
+    "dernier_delai":"03\/11\/2026 08:30",
+    "categorie":"shopping_mall",
+    "jours_restants":6
+  },
+  {
+    "numero_consultation":"S20261009858",
+    "acheteur_public":"Ecole Supérieure de Commerce de Sfax",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"اقتناء لوازم المكاتب و التدريس لسنة 2026 لفائد المدرسة العليا للتجارة بصفاقس",
+    "dernier_delai":"02\/11\/2026 09:00",
+    "categorie":"shopping_mall",
+    "jours_restants":5
+  },
+  {
+    "numero_consultation":"S20261009857",
+    "acheteur_public":"Société Régionale de Transport Gouvernorat de Kairouan",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"إستشارة متعلقة باقتناء لفافات ورق حراري-56\/2026",
+    "dernier_delai":"05\/11\/2026 11:00",
+    "categorie":"shopping_mall",
+    "jours_restants":8
+  },
+  {
+    "numero_consultation":"S20261009856",
+    "acheteur_public":"Société Régionale de Transport Gouvernorat de Bizerte",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"ACQUISITION PIECES DE RECHANGES INTERNATIONAL\/IVECO CITELIS",
+    "dernier_delai":"03\/11\/2026 08:30",
+    "categorie":"shopping_mall",
+    "jours_restants":6
+  },
+  {
+    "numero_consultation":"S20261009855",
+    "acheteur_public":"Office national du tourisme tunisien",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"l'acquisition d'équipements réseaux informatiques",
+    "dernier_delai":"09\/11\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":12
+  },
+  {
+    "numero_consultation":"S20261009854",
+    "acheteur_public":"Ministère de la Défense Nationale",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Étude relative à l'élaboration des éléments de référence pour les études complémentaires de la nouvelle base navale de Sfax",
+    "dernier_delai":"09\/11\/2026 09:00",
+    "categorie":"shopping_mall",
+    "jours_restants":12
+  },
+  {
+    "numero_consultation":"S20261009853",
+    "acheteur_public":"Hopital Régional de Moknine",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Consultation de Réparation de Centrifugeuse Marque: HETTICH ROTOFIX 32A",
+    "dernier_delai":"03\/11\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":6
+  },
+  {
+    "numero_consultation":"S20261009850",
+    "acheteur_public":"Faculté de Médecine de Sousse",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"أشغال صيانة وتعهد لفضاءات مختلفة بكلية الطب بسوسة",
+    "dernier_delai":"05\/11\/2026 10:00",
+    "categorie":"shopping_mall",
+    "jours_restants":8
+  },
+  {
+    "numero_consultation":"S20261009852",
+    "acheteur_public":"Ecole Supérieure d'Agriculture de Mateur",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"اقتناء traitement pesticides",
+    "dernier_delai":"03\/11\/2026 09:00",
+    "categorie":"shopping_mall",
+    "jours_restants":6
+  },
+  {
+    "numero_consultation":"S20261009851",
+    "acheteur_public":"Complexe Sanitaire du Jebel El Oust",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"بيع معدات زال الانتفاع بها",
+    "dernier_delai":"18\/11\/2026 10:00",
     "categorie":"shopping_mall",
     "jours_restants":21
   },
   {
-    "numero_consultation":"S20261009649",
-    "acheteur_public":"Centre d'Hydrographie et d'Oceanographie de la Marine Nationale",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Acquisition et pose pergola autoportante",
-    "dernier_delai":"05\/11\/2026 10:00",
+    "numero_consultation":"S20261009849",
+    "acheteur_public":"Société Régionale de Transport Gouvernorat de Bizerte",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"ACQUISITION PIECES DE RECHANGES VOLVO",
+    "dernier_delai":"03\/11\/2026 08:30",
     "categorie":"shopping_mall",
-    "jours_restants":9
+    "jours_restants":6
   },
   {
-    "numero_consultation":"S20261009646",
-    "acheteur_public":"Ecole Nationale de Médecine Vétérinaire de Sidi Thabet",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"إقتناء لوازم أشغال تطبيقية",
-    "dernier_delai":"05\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":9
-  },
-  {
-    "numero_consultation":"S20261009647",
-    "acheteur_public":"Commissariat Régional au Développement Agricole de Gabès",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Acquisition d'un dispositif de localisation (GPS) pour l'année 2026",
-    "dernier_delai":"09\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":13
-  },
-  {
-    "numero_consultation":"S20261009648",
-    "acheteur_public":"Commune de Hammam Sousse",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"كراء آلة رافعة صغيرة الحجم سعة 0،5 م3",
-    "dernier_delai":"30\/10\/2026 10:00",
+    "numero_consultation":"S20261009848",
+    "acheteur_public":"Ecole des sous-officiers",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"matériels informatiques",
+    "dernier_delai":"31\/10\/2026 08:05",
     "categorie":"shopping_mall",
     "jours_restants":3
   },
   {
-    "numero_consultation":"S20261009645",
-    "acheteur_public":"Centre d'Hydrographie et d'Oceanographie de la Marine Nationale",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Acquistion time zero \/ convertisseur",
-    "dernier_delai":"30\/10\/2026 10:00",
+    "numero_consultation":"S20261009847",
+    "acheteur_public":"Ministère de la Défense Nationale",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Travaux d'aménagement d'un bâtiment au sein du 51e Régiment de fusiliers marins",
+    "dernier_delai":"09\/11\/2026 09:00",
     "categorie":"shopping_mall",
-    "jours_restants":3
+    "jours_restants":12
   },
   {
-    "numero_consultation":"S20261009644",
-    "acheteur_public":"Commune d'Enfidha",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"استشارة اختيار مكتب مراقبة صنف أ للقيام باختبار هندسي لبناية مدنية",
-    "dernier_delai":"10\/11\/2026 10:00",
+    "numero_consultation":"S20261009845",
+    "acheteur_public":"Ministère de la Défense Nationale",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Travaux d'aménagement des ateliers d'entretien du matériel roulant et de carburant à la base navale principale de Bizerte",
+    "dernier_delai":"09\/11\/2026 09:00",
     "categorie":"shopping_mall",
-    "jours_restants":14
+    "jours_restants":12
   },
   {
-    "numero_consultation":"S20261009642",
-    "acheteur_public":"Ecole Nationale de Médecine Vétérinaire de Sidi Thabet",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"إقتناء لوازم للمصحة",
-    "dernier_delai":"05\/11\/2026 10:00",
+    "numero_consultation":"S20261009844",
+    "acheteur_public":"Société Régionale de Transport Gouvernorat de Bizerte",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"ACQUISITION PIECES DE RECHANGES MERCEDES",
+    "dernier_delai":"03\/11\/2026 08:30",
     "categorie":"shopping_mall",
-    "jours_restants":9
+    "jours_restants":6
   },
   {
-    "numero_consultation":"S20261009643",
-    "acheteur_public":"Conseil Régional du Gouvernorat de Nabeul",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"بالمراقبة الفنيّة لمشروع إنجاز » أشغال إصلاح التصدعات و الشقوق لأروقة الداخلية لساحة المعهد العالي للفنون الجميلة بنابل «",
-    "dernier_delai":"10\/11\/2026 10:30",
+    "numero_consultation":"S20261009843",
+    "acheteur_public":"Hôpital Régional de Msaken",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Travaux d'aménagement",
+    "dernier_delai":"03\/11\/2026 11:00",
     "categorie":"shopping_mall",
-    "jours_restants":14
+    "jours_restants":6
   },
   {
-    "numero_consultation":"S20261009641",
-    "acheteur_public":"مجمع الصحة الاساسية بتونس الجنوبية",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"ACQUISITION DE PIECES DE RECHANGES POUR VOITURE DE SERVICE FIAT 20165020",
-    "dernier_delai":"31\/10\/2026 09:00",
+    "numero_consultation":"S20261009842",
+    "acheteur_public":"Hôpital Régional de Menzel Bourguiba",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"Instruments pour Service Gastrologie",
+    "dernier_delai":"07\/11\/2026 09:00",
     "categorie":"shopping_mall",
-    "jours_restants":4
+    "jours_restants":10
   },
   {
-    "numero_consultation":"S20261009640",
-    "acheteur_public":"Ecole Nationale de Médecine Vétérinaire de Sidi Thabet",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"إقتناء poste à souder",
-    "dernier_delai":"05\/11\/2026 10:00",
+    "numero_consultation":"S20261009841",
+    "acheteur_public":"Société Régionale de Transport Gouvernorat de Bizerte",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"ACQUISITION PIECES DE RECHANGES MAN",
+    "dernier_delai":"03\/11\/2026 08:30",
     "categorie":"shopping_mall",
-    "jours_restants":9
+    "jours_restants":6
   },
   {
-    "numero_consultation":"S20261009639",
-    "acheteur_public":"Direction régionale de santé sousse",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"ACQUISITION D'UN ENREGISTREUR VIDIO RESEAU NVR",
-    "dernier_delai":"04\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":8
-  },
-  {
-    "numero_consultation":"S20261009637",
-    "acheteur_public":"Institut Supérieur des Etudes Technologiques en Communications de Tunis",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Consultation pour l'acquisition du drapeau national de la République tunisienne",
-    "dernier_delai":"09\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":13
-  },
-  {
-    "numero_consultation":"S20261009638",
-    "acheteur_public":"Société Tunisienne des Indsutries de Raffinage",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Acquisition des Disques pour les (03) BAIES de Stockage Des Serveurs DATACENTER BIZERTE",
-    "dernier_delai":"09\/11\/2026 11:00",
-    "categorie":"shopping_mall",
-    "jours_restants":13
-  },
-  {
-    "numero_consultation":"S20261009636",
-    "acheteur_public":"Commune El Djem",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Travaux de construction d'une cabine de poste de transformation électrique à la salle des sports collectifs d'ELJEM",
-    "dernier_delai":"12\/11\/2026 11:00",
+    "numero_consultation":"S20261009840",
+    "acheteur_public":"Groupement santé de base jendouba",
+    "date_publication":"27\/10\/2026",
+    "objet_consultation":"تهيئة مراكز صحة أساسية بمعتمدية جندوبة و جندوبة الشمالية",
+    "dernier_delai":"13\/11\/2026 10:00",
     "categorie":"shopping_mall",
     "jours_restants":16
-  },
-  {
-    "numero_consultation":"S20261009633",
-    "acheteur_public":"Prison sers",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"مشتلة و امونيتر",
-    "dernier_delai":"30\/10\/2026 09:00",
-    "categorie":"shopping_mall",
-    "jours_restants":3
-  },
-  {
-    "numero_consultation":"S20261009634",
-    "acheteur_public":"Cité universitaire el Ghazali sousse",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"أشغال صيانة شاملة لنظام مكافحة الحرائق :",
-    "dernier_delai":"31\/10\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":4
-  },
-  {
-    "numero_consultation":"S20261009631",
-    "acheteur_public":"Cité universitaire el Ghazali sousse",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"صيانة المسالك الخارجية الأرضية للماء الصالح للشراب بالحي الجامعي الغزالي بسوسة",
-    "dernier_delai":"31\/10\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":4
-  },
-  {
-    "numero_consultation":"S20261009630",
-    "acheteur_public":"Société Tunisienne des Indsutries de Raffinage",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Etude de démantèlement",
-    "dernier_delai":"09\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":13
-  },
-  {
-    "numero_consultation":"S20261009628",
-    "acheteur_public":"Commissariat Régional au Développement Agricole de Zaghouan",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Acquisition de fournitures pour la pépinière forestière",
-    "dernier_delai":"05\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":9
-  },
-  {
-    "numero_consultation":"S20261009627",
-    "acheteur_public":"Office national du tourisme tunisien",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Conception, Acquisition et Installation d'enseignes lumineuses et plaques signalétiques aux Commissariats Régionaux au tourisme de : BIZERTE MONASTIR SFAX GABES SBEITLA SELIANA",
-    "dernier_delai":"03\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":7
-  },
-  {
-    "numero_consultation":"S20261009626",
-    "acheteur_public":"Ministère de la Santé",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"acquisition de fourniture de laboratoire",
-    "dernier_delai":"11\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":15
-  },
-  {
-    "numero_consultation":"S20261009625",
-    "acheteur_public":"Ministère de la Défense Nationale",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"إقتناء ونقل وتسليم جبس لفائدة الإدارة العامة للأشغال بقابس – باب بحر",
-    "dernier_delai":"03\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":7
-  },
-  {
-    "numero_consultation":"S20261009562",
-    "acheteur_public":"Ministère des Affaires Religieuses",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Acquisition et installation d'une sirène d'alarme pour le véhicule de Monsieur le Ministre",
-    "dernier_delai":"13\/11\/2026 12:00",
-    "categorie":"shopping_mall",
-    "jours_restants":17
-  },
-  {
-    "numero_consultation":"S20261009623",
-    "acheteur_public":"Commune De guech",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"استشارة الإنجاز اشغال تغطية سوق التمور بدقاش",
-    "dernier_delai":"16\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":20
-  },
-  {
-    "numero_consultation":"S20261009622",
-    "acheteur_public":"Ministère de la Défense Nationale",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"توفير وتسليم قطع أليمنيوم لفائدة الإدارة العامة للأشغال بالعوينة",
-    "dernier_delai":"03\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":7
-  },
-  {
-    "numero_consultation":"S20261009614",
-    "acheteur_public":"Institut Supérieur des Etudes Technologiques en Communications de Tunis",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Consultation pour l'acquisition de matériel de gestion administrative",
-    "dernier_delai":"09\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":13
-  },
-  {
-    "numero_consultation":"S20261009621",
-    "acheteur_public":"Commissariat Régional au Développement Agricole de Zaghouan",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Acquisition des machines à découper le bois",
-    "dernier_delai":"05\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":9
-  },
-  {
-    "numero_consultation":"S20261009620",
-    "acheteur_public":"السجن المدني ببنزرت",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"تزويد سجن بنزرت بمواد مكتبية",
-    "dernier_delai":"04\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":8
-  },
-  {
-    "numero_consultation":"S20261009619",
-    "acheteur_public":"Ministère de la Défense Nationale",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"إقتناء \" Ensemble de salon à sept places revêtues en similicuir \" لفائدة الإدارة العامة للأشغال بالعوينة",
-    "dernier_delai":"03\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":7
-  },
-  {
-    "numero_consultation":"S20261009617",
-    "acheteur_public":"Hôpital de circonscription d'ennadhour",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"consultation batiments 2026",
-    "dernier_delai":"11\/11\/2026 23:50",
-    "categorie":"shopping_mall",
-    "jours_restants":15
-  },
-  {
-    "numero_consultation":"S20261009616",
-    "acheteur_public":"Ministère de la Défense Nationale",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"توفير وتسليم تجهيزات للإعتناء بالبناءات لفائدة الإدارة العامة للأشغال بالعوينة",
-    "dernier_delai":"04\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":8
-  },
-  {
-    "numero_consultation":"S20261009615",
-    "acheteur_public":"Prison Eddir",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"مواد حديدية",
-    "dernier_delai":"01\/11\/2026 09:00",
-    "categorie":"shopping_mall",
-    "jours_restants":5
-  },
-  {
-    "numero_consultation":"S20261009613",
-    "acheteur_public":"Ministère de la Défense Nationale",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"إقتناء معدات تصرف إداري لفائدة الإدارة العامة للأشغال بالعوينة",
-    "dernier_delai":"04\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":8
-  },
-  {
-    "numero_consultation":"S20261009612",
-    "acheteur_public":"Prison de Belli",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"acquisition des projecteurs led pour prison BELLI",
-    "dernier_delai":"02\/11\/2026 11:00",
-    "categorie":"shopping_mall",
-    "jours_restants":6
-  },
-  {
-    "numero_consultation":"S20261009611",
-    "acheteur_public":"Ministère de la Défense Nationale",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"أشغال توفير وتركيز منظومة الإنذار الألي للحرائق بمقر الإدارة العامة للأشغال",
-    "dernier_delai":"02\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":6
-  },
-  {
-    "numero_consultation":"S20261009610",
-    "acheteur_public":"DIRECTION REGIONALE DE LA SANTE DE L'ARIANA",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Rame papier إقتناء",
-    "dernier_delai":"02\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":6
-  },
-  {
-    "numero_consultation":"S20261009608",
-    "acheteur_public":"Prison Gafsa",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"إستشارة قصد إقتناء معدات لورشة المرطبات لفائدة سجن قفصة",
-    "dernier_delai":"04\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":8
-  },
-  {
-    "numero_consultation":"S20261009607",
-    "acheteur_public":"Centre Régional de Contrôle des Impôts de Sousse",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"شراء الآلات الناسخة",
-    "dernier_delai":"09\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":13
-  },
-  {
-    "numero_consultation":"S20261009600",
-    "acheteur_public":"Prison de Belli",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Acquisition des articles de diffusion pour prison BELLI",
-    "dernier_delai":"02\/11\/2026 11:00",
-    "categorie":"shopping_mall",
-    "jours_restants":6
-  },
-  {
-    "numero_consultation":"S20261009579",
-    "acheteur_public":"Commune El Djem",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Acquisition des plantes ornementales",
-    "dernier_delai":"03\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":7
-  },
-  {
-    "numero_consultation":"S20261009597",
-    "acheteur_public":"Commune de Menzel Elhayet",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"استشارة لاقتناء مواد للاعتناء بالطرقات للمرة الثانية",
-    "dernier_delai":"09\/11\/2026 11:00",
-    "categorie":"shopping_mall",
-    "jours_restants":13
-  },
-  {
-    "numero_consultation":"S20261009578",
-    "acheteur_public":"Institut National du Patrimoine",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"طباعة 1000 حاملات اوراق و1000 حاملات هدايا",
-    "dernier_delai":"05\/11\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":9
-  },
-  {
-    "numero_consultation":"S20261009587",
-    "acheteur_public":"Commune kerknnah",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"installation d'un système photovoltaïque pour quatre batiments municipaux",
-    "dernier_delai":"07\/12\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":41
-  },
-  {
-    "numero_consultation":"S20261009406",
-    "acheteur_public":"Centre de Maternité et de Néonatalogie",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Acquisition d'un congélateur .",
-    "dernier_delai":"29\/10\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":2
-  },
-  {
-    "numero_consultation":"S20261009584",
-    "acheteur_public":"Ministère de la Défense Nationale",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Conclusion d'un contrat de maintenance pour les systèmes de climatisation centrale à bord des diverses unités navales",
-    "dernier_delai":"09\/11\/2026 09:00",
-    "categorie":"shopping_mall",
-    "jours_restants":13
-  },
-  {
-    "numero_consultation":"S20261009564",
-    "acheteur_public":"Ministère de la Défense Nationale",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"تهيئة ورشة صيانة (محطة غسل وتشحيم) بالقاعدة البحرية بمنزل بورقيبة",
-    "dernier_delai":"09\/11\/2026 09:00",
-    "categorie":"shopping_mall",
-    "jours_restants":13
-  },
-  {
-    "numero_consultation":"S20261009563",
-    "acheteur_public":"Hôpital Militaire Principal d'Instruction de Tunis",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"PACE MAKER DOUBLE CHAMBRE IRM COMPATIBLE",
-    "dernier_delai":"31\/10\/2026 08:00",
-    "categorie":"shopping_mall",
-    "jours_restants":4
-  },
-  {
-    "numero_consultation":"S20261009561",
-    "acheteur_public":"Hôpital Charles Nicolle de Tunis",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Acquisition des Films Radiologiques",
-    "dernier_delai":"31\/10\/2026 09:00",
-    "categorie":"shopping_mall",
-    "jours_restants":4
-  },
-  {
-    "numero_consultation":"S20261009540",
-    "acheteur_public":"Hôpital La Rabta de Tunis",
-    "date_publication":"26\/10\/2026",
-    "objet_consultation":"Achat des ciseaux monopolaires à usage unique pour l'activité de coelio pour le service de chirurgie générale A",
-    "dernier_delai":"28\/10\/2026 10:00",
-    "categorie":"shopping_mall",
-    "jours_restants":1
   }
 ]
