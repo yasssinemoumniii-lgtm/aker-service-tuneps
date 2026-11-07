@@ -1,100 +1,101 @@
 ﻿numero_consultation,acheteur_public,date_publication,objet_consultation,dernier_delai,categorie,jours_restants
-S20261101120,Centre National de l'Informatique,06/11/2026,fourniture de produits d'entretien,26/11/2026 10:00,shopping_mall,20
-S20261101142,Hôpital Militaire Principal d'Instruction de Tunis,06/11/2026,FOURNITURE SONDE D'ENDODIATHERMIE 25 G,13/11/2026 08:00,shopping_mall,6
-S20261101143,Centre de rééducation des enfants mineurs El mourouj,06/11/2026,التابعة لمركز اصلاح الاطفال الجانحين بالمروجRéparation marmite 250 litre طلب اثمان عدد 52/206 الخاص بطلب صيانة,13/11/2026 10:00,shopping_mall,7
-S20261101141,Hôpital Régional Sadok Mkaddem de Djerba,06/11/2026,Tenu de personnels médicaux et paramédicaux 2026,19/11/2026 11:00,shopping_mall,13
-S20261101140,Hôpital Militaire Principal d'Instruction de Tunis,06/11/2026,FOURNITURE DETECTION DES INFECTIONS RESPIRATOIRES ASSOCIEES AUX SOINS PAR DES BACTERIES,13/11/2026 08:00,shopping_mall,6
-S20261101139,Centre de rééducation des enfants mineurs El mourouj,06/11/2026,لفائدة مركز اصلاح الاطفال الجانحين بالمروجPoste R.I.A incendie طلب اثمان عدد 51/2026 الخاص باقتناء,16/11/2026 10:00,shopping_mall,10
-S20261101138,Institut Pasteur de Tunis,06/11/2026,Désignation d'un courtier d'assurance pour les besoins de I 'Institut pasteur de Tunis,16/11/2026 12:00,shopping_mall,10
-S20261101136,Commissariat Régional au Développement Agricole de Gabès,06/11/2026,Achat des agenda et bloc éphémérides 2027,13/11/2026 10:00,shopping_mall,7
-S20261101135,المستشفى الجامعي الحببب بورقيبة بمدنين,06/11/2026,Aménagement et réhabilitation de la zone de l'escalier d'accès des visiteurs pour la 2éme fois,16/11/2026 10:00,shopping_mall,10
-S20261101134,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,06/11/2026,bac a fleur,16/11/2026 10:00,shopping_mall,10
-S20261101132,Ministère de la Défense Nationale,06/11/2026,القيام بأشغال إنجاز هيكل وسقف مسبق الصنع خاص بمركز تدريب المدفعية ثكنة مدنين,16/11/2026 10:00,shopping_mall,10
-S20261101133,Commissariat regional de la jeunesse et des sports de Tataouine,06/11/2026,équipements pour les maison de jeunes et les clubs rurals de tataouine,20/11/2026 10:00,shopping_mall,14
-S20261101131,Ecole Supérieure des Sciences et des Technologies de Hammam Sousse,06/11/2026,Consultation pour acquisition de matériels scientifiques,16/11/2026 08:00,shopping_mall,9
-S20261101105,Commune d'Ezzahra,06/11/2026,Location de matériel de nettoyage et de travaux pour l'année 2026,12/11/2026 10:00,shopping_mall,6
-S20261101130,المستشفى الجامعي الحببب بورقيبة بمدنين,06/11/2026,Réaménagement des abords de l'entrée de la morgue de l'hôpital pour la 2éme fois,16/11/2026 10:00,shopping_mall,10
-S20261101128,Ministère de la Défense Nationale,06/11/2026,القيام بأشغال تهيئة مطعم متربصين بمركز تدريب المدفعية مدنين .,16/11/2026 10:00,shopping_mall,10
-S20261101129,Ministère de l'Enseignement Supérieur et de la Recherche Scientifique,06/11/2026,Agendas 2027,19/11/2026 10:00,shopping_mall,13
-S20261101127,Centre d'Etudes et de Recherche des Télécommunications,06/11/2026,Fourniture et mise en place de plaques signalétiques lumineuses et non lumineuses,24/11/2026 09:00,shopping_mall,17
-S20261101126,Groupement de santé de base sfax,06/11/2026,agenda 2027,12/11/2026 09:00,shopping_mall,5
-S20261101125,Commune Khmouda,06/11/2026,مشروع توسعة شبكة التنوير العمومي ببلدية خمودة للمرة الثالثة,27/11/2026 10:00,shopping_mall,21
-S20261101124,Institut Pasteur de Tunis,06/11/2026,ACQUISITION DE LAVES YEUX POUR LE BESOIN DE L'IPT,10/11/2026 09:00,shopping_mall,3
-S20261101123,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,06/11/2026,مواد غذائية سمك,16/11/2026 10:00,shopping_mall,10
-S20261101122,Commune d'Enfidha,06/11/2026,استشارة اقتناء معدات حدائق,16/11/2026 10:00,shopping_mall,10
-S20261101121,Centre National de Transfusion Sanguine,06/11/2026,Acquisition d'équipements électroménagers pour le CNTS et les cinq Centres Régionaux,13/11/2026 10:00,shopping_mall,7
-S20261101119,Centre d'Etudes et de Recherche des Télécommunications,06/11/2026,"Maintenance et entretien : Enceinte climatique, chambre à talc, station de système de traitement d'eau, au sein du CERTlabs",23/11/2026 09:00,shopping_mall,16
-S20261101118,Commissariat régional de l'éducation de Zaghouan,06/11/2026,هدم و إعادة بناء سياج بالمدرسة الابتدائية عين الصفصاف استشارة عدد 50/2026,16/11/2026 10:00,shopping_mall,10
-S20261101111,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,06/11/2026,إقتناء مستلزمات ومعدات طبخ,16/11/2026 10:00,shopping_mall,10
-S20261101103,Présidence de la République,06/11/2026,Acquisition câble HDMI et accessoires,20/11/2026 09:00,shopping_mall,13
-S20261101104,Commune fouchena,06/11/2026,Achat de fournitures d'éclairage pour la municipalité de Fouchana,13/11/2026 10:00,shopping_mall,7
-S20261101102,Commune de Mornag,06/11/2026,تأمين البنايات الإدارية والمستودع والمسلخ البلدي لبلدية مرناق,18/11/2026 10:00,shopping_mall,12
-S20261101100,Ecole Nationale d'Ingénieurs de Monastir,06/11/2026,Acquisition des Matériels Scientifique,23/11/2026 09:00,shopping_mall,16
-S20261101101,Ecole Nationale d'Ingénieurs de Sousse,06/11/2026,TRAVAUX D'ENTRETIEN ET INSTALLATIONS ELECTRIQUES ET RÉSEAU POUR DEUX SALLES LABOS,13/11/2026 09:30,shopping_mall,7
-S20261101099,PRISON CIVIL MAHDIA,06/11/2026,اقتناء معدات خاصة بوسائل النقل,16/11/2026 08:30,shopping_mall,9
-S20261101098,Commissariat régional de l'éducation de l'Ariana,06/11/2026,Travaux de démolition et de reconstruction d'une tranche du mur de clôture de l'école primaire 18 janvier 1952 cité Ettadhamen,16/11/2026 09:30,shopping_mall,10
-S20261101097,Conseil Régional du Gouvernorat de Nabeul,06/11/2026,استشارة اقتناء قطع غيار للآلات الناسخة لفائدة الولاية,09/11/2026 11:00,shopping_mall,3
-S20261101096,Commune de Goubellat,05/11/2026,الاستشارة الخاصة باقتناءاشجارالتصفيف واشجار الزينة افائدة بلدية قبلاط,12/11/2026 10:00,shopping_mall,6
-S20261101095,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Tunis",05/11/2026,Rénovation d'éclairage De deux passages souterrains pour piétons : Passage Ibn Kholdoun (station 14 Janvier) Passage Rass Tabya-Campus (station Romena),20/11/2026 10:00,shopping_mall,14
-S20261101091,Commune de Goubellat,05/11/2026,"Consultation relative à l'acquisition d'arbres paysagers et ornementaux, au profit de la municipalité de Goubellat",12/11/2026 10:00,shopping_mall,6
-S20261100847,Ministère de la Santé,05/11/2026,"Fourniture des pieces de rechange(sans main d'œuvre) pour imprimantes, pour le compte du ministère de la santé",16/11/2026 10:00,shopping_mall,10
-S20261101090,Institut Supérieur des Etudes Technologiques de Radès,05/11/2026,MISE A NIVEAU SECURITE ADMINISTRATION ET LOCAUX,23/11/2026 12:00,shopping_mall,17
-S20261101089,Commissariat régional de l'éducation de Kairouan,05/11/2026,ENTRETIEN CUISINE A L'ECOLE PREPARATOIRE IBEN ABI THEEF EL HAJEB,16/11/2026 10:00,shopping_mall,10
-S20261101088,Ministère des Domaines de l'Etat et des Affaires Foncières,05/11/2026,عقد صيانة وإصلاح الآلات الناسخة,20/11/2026 10:00,shopping_mall,14
-S20261101087,Musée National d'art Moderne et Contemporain,05/11/2026,FOURNITURE ET POSE DU MEUBLE DU CENTRE DES RECHERCHES ET DE DOCUMENTATION,20/11/2026 10:00,shopping_mall,14
-S20261101086,Société Régionale de Transport Gouvernorat du Kef,05/11/2026,ACQUISITION PR OC500,09/11/2026 10:00,shopping_mall,3
-S20261101085,Ecole national de la formation des inspecteurs de police de sousse,05/11/2026,إقتناء ملابس العملة,16/11/2026 10:00,shopping_mall,10
-S20261101083,Prison Beja,05/11/2026,pompe immergée طلب اقتناء,13/11/2026 10:00,shopping_mall,7
-S20261101084,Commune d'Akouda,05/11/2026,إقتناء معدات لمقاومة سوسة النخيل,17/11/2026 15:00,shopping_mall,11
-S20261101082,Ecole national de la formation des inspecteurs de police de sousse,05/11/2026,مستلزمات الوقاية والسلامة المهنية,16/11/2026 10:00,shopping_mall,10
-S20261101081,Ecole des sous-officiers,05/11/2026,radiateur à bain d'huile plus climatiseur,10/11/2026 08:00,shopping_mall,3
-S20261101078,Commissariat régional de l'éducation de Tozeur,05/11/2026,Expertise relative sur l'état de bureau de directeur à l'école préparatoire Ibn Khouldoun Bouhlel,13/11/2026 10:00,shopping_mall,7
-S20261101080,Ministère de la Défense Nationale,05/11/2026,Acquisition machine de rivetage des anneaux en D,19/11/2026 09:00,shopping_mall,12
-S20261101077,Ecole Technique de l'armée de terre,05/11/2026,table de bureau en 6 places,12/11/2026 08:45,shopping_mall,5
-S20261101076,Commissariat régional de l'éducation de Bizerte,05/11/2026,réalisation d'une expertise du college pilote avec internat y compris les deux logements de fonctios farhat hached,12/11/2026 10:00,shopping_mall,6
-S20261101075,Société Nationale de Distribution de Pétrole,05/11/2026,ACQUISITION MATERIELS DE PROTECTION INDIVIDUELLE 2026,18/11/2026 10:00,shopping_mall,12
-S20261101074,Société Tunisienne des Indsutries de Raffinage,05/11/2026,Achat de Pièces de rechange pour appareils AGILENT ALCOR et PAC,10/11/2026 10:00,shopping_mall,4
-S20261101073,Ecole Technique de l'armée de terre,05/11/2026,piece de rechange auto,12/11/2026 08:35,shopping_mall,5
-S20261101040,Ministère de la Défense Nationale,05/11/2026,Acquisition fourniture de bureau,16/11/2026 08:12,shopping_mall,9
-S20261101072,Commune de Raoued,05/11/2026,اصلاح السيارة الادارية من نوع dacia MCV LOGAN 02-218539 للمرة الثانية,12/11/2026 12:00,shopping_mall,6
-S20261101069,Ministère des Affaires Religieuses,05/11/2026,Acquisition de cinq (5) routeurs Internet 5G Box au profit du Cabinet de Monsieur le Ministre et des salles de réunion.,20/11/2026 13:00,shopping_mall,14
-S20261101070,Commune d'Ariana,05/11/2026,acquisition des pieces de rechange pour la réparation des vehicules administrative,16/11/2026 17:00,shopping_mall,10
-S20261101067,Ecole Technique de l'armée de terre,05/11/2026,fenetre aluminium,12/11/2026 08:10,shopping_mall,5
-S20261101071,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Tataouine",05/11/2026,استشارة مطالة ودهن وإصلاح الأعطاب الميكانيكية والكهربائية للسيارة رقم 13-119168 الراجعة بالنظر للإدارة الجهوية للتجهيز والإسكان بتطاوين- برنامج 2026,12/11/2026 10:00,shopping_mall,6
-S20261101068,Trésorie Régionale des finances sfax 1,05/11/2026,consultation pour achat toner photocopie année 2026,11/11/2026 10:00,shopping_mall,5
-S20261101066,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Tataouine",05/11/2026,استشارة لاقتناء اطارات مطاطية للشاحنات و المعدات الثقيلة الراجعة بالنظر للإدارة الجهوية للتجهيز والإسكان بتطاوين برنامج 2026 قسط عدد 02,12/11/2026 10:00,shopping_mall,6
-S20261101065,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Tataouine",05/11/2026,التزود بإطارات مطاطية مختلفة الحجم والمقاييس للسيارات الراجعة بالنظر للإدارة الجهوية والتجهيز والإسكان بتطاوين لسنة 2026 قسط عدد02,12/11/2026 10:00,shopping_mall,6
-S20261101064,Commune Sidi Ameur,05/11/2026,إقتناء لباس الوقاية الصحية لعملة بلدية يدي عامر مسجد عيسى,19/11/2026 10:00,shopping_mall,13
-S20261101063,Commissariat régional de l'éducation de Kairouan,05/11/2026,DEMOLUTION ET CONSTRUCTION CLOTURE ECOLE PRIMAIRE - RHIMA-HAJEB LAAYOUN,16/11/2026 10:00,shopping_mall,10
-S20261101061,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Tataouine",05/11/2026,استشارة التعهد وصيانة وسائل النقل الراجعة بالنظر للإدارة الجهوية للتجهيز والإسكان بتطاوين برنامج 2026 قسط عدد 02,12/11/2026 10:00,shopping_mall,6
-S20261101062,Commune d'Ariana,05/11/2026,entretien des espaces verts municipalité ariana,16/11/2026 17:00,shopping_mall,10
-S20261101059,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Tataouine",05/11/2026,استشارة لتعهد وصيانة المعدات الخصوصية الراجعة بالنظر للإدارة الجهوية للتجهيز والإسكان بتطاوين برنامج 2026 قسط عدد 02.,12/11/2026 10:00,shopping_mall,6
-S20261101055,Agence Municipale de Gestion relevant de la Municipalité de Tunis,05/11/2026,Acquisition de produits de nettoyage,20/11/2026 10:00,shopping_mall,14
-S20261101058,Centre de Promotion des Exportations,05/11/2026,"Recrutement d'une agence de communication pour l'organisation et la promotion du ""TABM 2026""",12/11/2026 10:30,shopping_mall,6
-S20261101057,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Tataouine",05/11/2026,استشارة التزود ببطاريات مختلفة لفائدة الإدارة الجهوية للتجهيز والإسكان بتطاوين بعنوان سنة 2026 -قسط عدد 02,12/11/2026 10:00,shopping_mall,6
-S20261101051,Ministère de la justice,05/11/2026,consultation n° 15 bat 2026 pour la deuxième fois concernant contrat de maintenance des ascenseurs de la cour de cassation,16/11/2026 10:00,shopping_mall,10
-S20261101044,Commune Sidi Ameur,05/11/2026,إقتناء حاويات نظافة لفائدة بلدية سيدي عامر مسجد عيسى,19/11/2026 10:00,shopping_mall,13
-S20261101054,Prison Civile De Sfax,05/11/2026,اقتناء كراسي للإدارة,13/11/2026 09:00,shopping_mall,6
-S20261101053,Commissariat régional de l'éducation de Kairouan,05/11/2026,TRAVAUX DE DEMOLITION ET CONSREUCTION D'UNE CLOTURE A L'ECOLE PRIMAIRE ENNOUR NASRALLAH,16/11/2026 10:00,shopping_mall,10
-S20261101052,Prison sers,05/11/2026,مشتلة و امونيتر,10/11/2026 09:00,shopping_mall,3
-S20261101050,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Jendouba",05/11/2026,اقتنــاء منظف كهربائي للسيارات والآلات الماسحة التابعة للإدارة الجهويــة للتجهيز والإسكــان بجندوبــة برنــــامج 2026.,20/11/2026 10:00,shopping_mall,14
-S20261101049,Ministère des Affaires Religieuses,05/11/2026,Acquisition de cartouches d'encre pour imprimantes et photocopieurs,20/11/2026 12:00,shopping_mall,14
-S20261101048,Régie des Sondages Hydrauliques (RSH),05/11/2026,consultation N°30/2026 pour l'acquisition des réfrigérateurs et des téléviseurs,13/11/2026 10:00,shopping_mall,7
-S20261101047,Institut Salah Azaïez,05/11/2026,Fourniture et pose d'un lavabo chirurgical,10/11/2026 10:00,shopping_mall,4
-S20261101046,Institut Supérieur d'Administration des Affaires de Sfax,05/11/2026,اقتناء اثاث اداري,12/11/2026 09:00,shopping_mall,5
-S20261101045,Société des Services Nationaux et des Résidences,05/11/2026,La remise en état des équipements de cuisine et buanderie,20/11/2026 10:00,shopping_mall,14
-S20261101042,TUNISAIR,05/11/2026,TRAVAUX DE DESHERBAGE ET DE NETTOYAGE DU TERRAIN EL MANAR ET DU DEPOT EL MONCEF BEY DE TUNISAIR,16/11/2026 09:30,shopping_mall,10
-S20261101041,Imprimerie officielle de la république tunisienne,05/11/2026,ACQUISITION D'UNE SOLUTION DE CONTROLE DE PRESENCE DU PERSONNEL DE L'IMPRIMERIE OFFICIELLE DE LA RÉPUBLIQUE TUNISIENNE,30/11/2026 11:00,shopping_mall,24
-S20261101043,Commissariat régional de l'éducation de Kairouan,05/11/2026,TRAVAUX DE DEMOLITION ET CONSREUCTION D'UNE CLOTURE A L'ECOLE PRIMAIRE BRIKAT EL GSSOUR NASRALLAH,16/11/2026 10:00,shopping_mall,10
-S20261101039,Hôpital de Circonscription de Hammamet,05/11/2026,"Conteneur a poubelle roulant pour DASRI, capacité minimale 240 litres, avec couvercle, de couleur jaune",11/11/2026 14:00,shopping_mall,5
-S20261101037,Commune Beni M'tir,05/11/2026,"لفائدة بلدية بني مطير لسنة 2026 ""pointeuse biométrique par empreinte digitale"" إقتناء و تركيز",18/11/2026 10:00,shopping_mall,12
-S20261101038,Agence des Ports et des Installations de la Pêche,05/11/2026,Acquisition de 10 Motopompes à Eau avec Tuyaux d'aspiration,19/11/2026 12:00,shopping_mall,13
-S20261101036,Commune de Sidi Bou Said,05/11/2026,"استشارة للمرة الثانية تتعلق باقتناء معدات إعلامية ومواد مكتبية بعنوان سنة 2026 للأقساط عدد 03 , 05 , 11, 12",15/11/2026 10:00,shopping_mall,9
-S20261101035,Commune de Ksar Hellal,05/11/2026,Campagne de reconnaissance et étude géotechnique,16/11/2026 10:00,shopping_mall,10
-S20261101033,Commune d'Akouda,05/11/2026,Acquisition et installation du Matériels Informatiques pour la commune d'Akouda,18/11/2026 10:00,shopping_mall,12
-S20261101034,Ecole des sous-officiers,05/11/2026,imprimante 3D,10/11/2026 08:05,shopping_mall,3
-S20261101031,Commune de Ben Gardène,05/11/2026,Construction d'un socle en béton au carrefour principal de l'entrée de la ville route Zarzis,23/11/2026 09:00,shopping_mall,16
-S20261101032,Ecole des sous-officiers,05/11/2026,recepteur numérique,10/11/2026 08:05,shopping_mall,3
-S20261101029,Ecole des sous-officiers,05/11/2026,corde de sauvetage,09/11/2026 09:05,shopping_mall,3
-S20261101030,Commune Teboulbou,05/11/2026,اقتناء زي الشغل و زي الوقاية لفائدة عملة بلدية تبلبو - قابس,16/11/2026 10:00,shopping_mall,10
-S20261101028,Institut Supérieur de Gestion de Sousse,05/11/2026,acquisition produits de nettoyage,11/11/2026 09:00,shopping_mall,4
+S20261101405,Hôpital Habib Bourguiba Sfax,07/11/2026,Réactifs pour culture des bactéries anaérobies,12/11/2026 17:27,shopping_mall,5
+S20261101404,Centre De Formation Professionnelle Des Pêches Teboulba,07/11/2026,اقتناء إطارات مطاطية لسيارة ادارية,16/11/2026 09:00,shopping_mall,9
+S20261101403,Commissariat régional de l'éducation de Jendouba,07/11/2026,acquisition de materiel de bureau,17/11/2026 10:00,shopping_mall,10
+S20261100898,Hôpital Sahloul de Sousse,07/11/2026,Réparation matériels de cuisine,13/11/2026 10:00,shopping_mall,6
+S20261101402,Hôpital des forces de sécurité intérieure à Marsa,07/11/2026,إقتناء مواد ومؤشرات تعقيم,27/11/2026 10:00,shopping_mall,20
+S20261101401,Hôpital Habib Thameur de Tunis,07/11/2026,"Fourniture, installation et mise en fonctionnement d'un échographe ultra-portable pour Le service d'anesthésie-réanimation",23/11/2026 10:00,shopping_mall,16
+S20261101259,Société des Transports de Tunis,07/11/2026,FOURNITURE DE DIVERS IMPRIMES ADMINISTRATIFS.,24/11/2026 10:00,shopping_mall,17
+S20261101400,Institut Supérieur des Etudes Technologiques de Siliana,06/11/2026,Acquisition de fournitures de bureau et de matériel pédagogique au profit de l'Institut Supérieur des Études Technologiques de Siliana,20/11/2026 10:30,shopping_mall,13
+S20261101399,Institut Supérieur des Etudes Technologiques de Siliana,06/11/2026,"Acquisition de toners, d'encres et de consommables d'impression au profit de l'Institut Supérieur des Études Technologiques de Siliana",20/11/2026 10:00,shopping_mall,13
+S20261101398,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Tunis",06/11/2026,اقتناء الزي الواقي لفائدة أعوان الإدارة الجهوية للتجهيز والإسكان بتونس بعنوان سنة 2026,23/11/2026 10:00,shopping_mall,16
+S20261101397,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Tunis",06/11/2026,TRAVAUX D'AMENAGEMENT DE LOGEMENT DE FONCTION N° 132000011570177 -ELMANAR,23/11/2026 10:00,shopping_mall,16
+S20261101396,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Tunis",06/11/2026,FOURNITURE DES ACCESSOIRES POUR REGARDS DE VISITES ET REGARDS A GRILLES POUR EAU PLUVIALE BORDEREAU DES PRIX ET DETAIL ESTIMATIF,23/11/2026 11:00,shopping_mall,16
+S20261101394,Commune matmata nouvelle,06/11/2026,إعداد مثال التهيئة العمرانية لمنطقة بني زلطن من بلدية مطماطة الجديدة,20/11/2026 10:00,shopping_mall,13
+S20261101391,Société Régionale de Transport Gouvernorat de Médenine,06/11/2026,استشارة تعيين مكاتب مختصة لإجراء المناظرة الخارجية عدد 01 / 2025,30/11/2026 10:00,shopping_mall,23
+S20261101392,Institut Préparatoire aux Etudes d'Ingénieurs de Sfax,06/11/2026,Audit à blanc et de Certification du Système de Management des Organismes d'Éducation/Formation (SMOE) (SMOE) selon les Normes ISO 21001 :2025,16/11/2026 10:00,shopping_mall,9
+S20261101390,Ecole Nationale d'ingénieurs de Bizerte,06/11/2026,20 pot de plante artificielle décorative,09/11/2026 10:30,shopping_mall,2
+S20261101389,Commune de Sahline Emoatmar,06/11/2026,اقتناء تجهيزات اعلامية,27/11/2026 10:00,shopping_mall,20
+S20261101388,Commune Ettadhamen,06/11/2026,اقتناء مواد مكتبية,12/11/2026 10:00,shopping_mall,5
+S20261101387,Commune de Sfax,06/11/2026,Etude Et Suivi De Projet D'installation D'un Système Photovoltaïque Des Bâtiments Communaux dans La Commune De SFAX en 02 lots,24/11/2026 10:00,shopping_mall,17
+S20261101386,Commune Menzel Farsi,06/11/2026,Acquisition et installation de rideaux au siège de la municipalité de Menzel Farsi,19/11/2026 14:00,shopping_mall,12
+S20261101384,Direction Régionale des douanes Gafsa,06/11/2026,معاينة و اختبار فني لعدد 03 مباني ادارية,30/11/2026 10:00,shopping_mall,23
+S20261101385,Commune Zouiet Kontoch,06/11/2026,l'instalation d'un system photovoltaique,10/12/2026 10:00,shopping_mall,33
+S20261101382,Commune Souk Es-Sabet,06/11/2026,Consultation concernant un appareil de fax,17/11/2026 10:00,shopping_mall,10
+S20261101380,Commune de Menzel Bourguiba,06/11/2026,الاعتناء بالمساحات الخضراء,13/11/2026 09:57,shopping_mall,6
+S20261101379,Société Régionale de Transport Gouvernorat du Kef,06/11/2026,Acquisition de pièces de rechange pour voiture légère (OPEL),11/11/2026 10:00,shopping_mall,4
+S20261101232,Commune Monastir,06/11/2026,etude du projet de réhabilitation de réseau d'eclairage public danx la ville de Monastir,23/11/2026 10:00,shopping_mall,16
+S20261101378,Gouvernorat de Gafsa,06/11/2026,أشغال تهيئة مقر المخبر الجهوي للحرس الوطني بقفصة,23/11/2026 09:00,shopping_mall,16
+S20261101377,Commune Souk Es-Sabet,06/11/2026,"Consultation relative aux appareils de copie, d'impression et aux scanners",16/11/2026 10:00,shopping_mall,9
+S20261101375,Commune de Menzel Bourguiba,06/11/2026,installation borne de recharge,20/11/2026 09:00,shopping_mall,13
+S20261101376,école nationale des prisons et de réeducation,06/11/2026,location borne interactive,10/11/2026 10:00,shopping_mall,3
+S20261101374,Commune Teboulbou,06/11/2026,إستشارة أشغال إستبدال فوانيس ضوئية غير مقتصدة للطاقة بفوانيس ضوئية مقتصدة للطاقة بتقنية (LED),18/11/2026 10:00,shopping_mall,11
+S20261101373,Commune Menzel Farsi,06/11/2026,"FOURNITURE, INSTALLATION ET MISE EN ŒUVRE D'UN SYSTEME DE GEOLOCALISATION PAR GPS/GPRS & DE GESTION DE LA FLOTTE A LA COMMUNE DE MENZEL FERSI",20/11/2026 15:00,shopping_mall,13
+S20261101370,Commune de Hammamet,06/11/2026,"l'acquisition, l'installation et la mise en marche des équipements pour les établissements sportifs municipaux de Hammamet",20/11/2026 10:00,shopping_mall,13
+S20261101371,Commune El Aouabed-Khazanet,06/11/2026,TRAVAUX DE POSE DES PANNEAUX DE SIGNALISATION ROUTIERE VERTICALE DANS LA COMMUNE DE AWABED EL KHAZZANET DURANT L'ANNEE 2026,16/11/2026 10:00,shopping_mall,9
+S20261101372,école nationale des prisons et de réeducation,06/11/2026,borne interactive,10/11/2026 10:00,shopping_mall,3
+S20261101369,Université de Jendouba,06/11/2026,طلب أثمان يتعلق باقتناء نباتات الزينة وغراستها وتوفير مستلزمات ومواد الزراعة وتقليم الأشجار لفائدة جامعة جندوبة,10/11/2026 10:00,shopping_mall,3
+S20261101368,Commune de Goubellat,06/11/2026,استشارة عدد 08/2026( للمرة الثالثة) اقتناء وتركيب تشغيل مكيفات هواء,17/11/2026 10:20,shopping_mall,10
+S20261101367,المندوبية الجهوية لشؤون المراة و الاسرة بتونس,06/11/2026,إستشارة خاصة باقتناء تجهيزات لمكاتب االدارة و وحدات الحياة إناث وذكور بالمركز المندمج حي الخضراء,18/11/2026 10:00,shopping_mall,11
+S20261101366,Université de Jendouba,06/11/2026,استشارة عدد 35 / 2026 المتعلقة باقتناء قطع غيار وعجلات مطاطية الخاصّة بوسائل النقل التابعة لجامعة جندوبة,13/11/2026 10:00,shopping_mall,6
+S20261101353,شركة ميناء النفيضة,06/11/2026,"MAINTENANCE (3 ANS) DE LA SOLUTION VIDEOSURVEILLANCE, CONTROLE D'ACCES, CENTRALE ALARME ET ANTI-INTRUSION POUR LA SOCIETE PORT ENFIDHA (SPE)",24/11/2026 11:00,shopping_mall,17
+S20261101359,Société Régionale de Transport de Siliana,06/11/2026,achat pièces de rechange,11/11/2026 10:00,shopping_mall,4
+S20261101351,Institut National de la Météorologie,06/11/2026,Diagnostic et entretien des chaudières et du circuit de chauffage central,13/11/2026 10:00,shopping_mall,6
+S20261101350,Office National de l'Assainissement,06/11/2026,Entretien et maintenance de la station d'épuration et de la station de pompage SP2 à Thala,20/11/2026 10:00,shopping_mall,13
+S20261101352,Office de la Marine Marchande et des Ports,06/11/2026,PRESTATION D'ASSAINISSEMENT ET DE LUTTE CONTRE LES INSECTES ET LES RONGEURS EFFECTUES DANS LA GARE MARITIME DE SIDI-YOUSSEF A KERKENNAH ET DANS LES LOCAUX DU PORT DE SFAX ET LES UNITES FLOTTANTES,09/11/2026 10:00,shopping_mall,2
+S20261101346,Société Nationale de Distribution de Pétrole,06/11/2026,ETUDE DE PERCEPTION ET D'IMAGE DE LA SNDP AGIL ENERGY,18/11/2026 10:00,shopping_mall,11
+S20261101349,"Ministère de l'Equipement, l'habitat et l'aménagement du territoire",06/11/2026,"Demande de prix ou devis pour l'acquisition de pièces de rechange d'origine pour le véhicule n° 13-129550, avec livraison à Tunis.",13/11/2026 10:00,shopping_mall,6
+S20261101347,Commune de Messadine,06/11/2026,إقتناء لوازم التنوير العمومي ولوازم مختلفة,13/11/2026 10:00,shopping_mall,6
+S20261101348,Office de la Marine Marchande et des Ports,06/11/2026,ENTRETIEN DES EXTINCTEURS DU PORT DE SFAX,11/11/2026 10:00,shopping_mall,4
+S20261101345,Commune d'EL Kef,06/11/2026,désignation de concepteurs pour les bâtiments civiles,26/11/2026 10:00,shopping_mall,19
+S20261101079,"Ministère de l'Equipement, l'habitat et l'aménagement du territoire",06/11/2026,Demande de devis ou d'estimation pour la mise en peinture du véhicule n° 13-143722.,13/11/2026 09:00,shopping_mall,6
+S20261101344,Faculté des Sciences Economiques et de Gestion de Mahdia,06/11/2026,Changement huile poste transfo. de la Faculté des Sciences Economiques et de Gestion de Mahdia,13/11/2026 17:30,shopping_mall,6
+S20261101343,Trésorie Régionale des finances sfax 1,06/11/2026,consultation pour achat de toner encre pour les imprimantes lasers et appareils fax année 2026,16/11/2026 10:00,shopping_mall,9
+S20261101342,Ecole caporaux kondar,06/11/2026,acquisition des pièces et accessoires pour vehicules,15/11/2026 09:00,shopping_mall,8
+S20261101341,commissariat régional des affaires de la femme et de la famille de béja,06/11/2026,قتناء ونقل معدات مختلفة للبرنامج التمكين الإقتصادي للاسر,20/11/2026 09:00,shopping_mall,13
+S20261101340,Le commissariat régional des affaires culturelles Kebili,06/11/2026,Acquisition d'un appareil de pointage par empreinte digitale et reconnaissance faciale pour le commissariat régionale des affaires culturelles de Kébili.,16/11/2026 09:00,shopping_mall,9
+S20261101339,Ecole caporaux kondar,06/11/2026,acquisition de materiel et d'outillage destinés aux travaux de maintenance et d'entretien,15/11/2026 09:00,shopping_mall,8
+S20261101337,Centre National de l'Informatique,06/11/2026,"FOURNITURE, INSTALLATION ET MISE EN ŒUVRE D'UN SYSTEME DE GEOLOCALISATION PAR GPS/GPRS & DE GESTION DE LA FLOTTE",30/11/2026 10:00,shopping_mall,23
+S20261101338,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,06/11/2026,معدات فلاحيىة وصيد بحري,16/11/2026 10:00,shopping_mall,9
+S20261101333,Institut National Des Grandes Cultures,06/11/2026,acquisition materiel de sécurité informatique,30/11/2026 11:00,shopping_mall,23
+S20261101336,Commune d'Akouda,06/11/2026,تعيين مقاولة لتنفيذ قرار هدم,20/11/2026 11:00,shopping_mall,13
+S20261101335,Musée militaire national,06/11/2026,Acquisition des materiels audio visuel,13/11/2026 10:00,shopping_mall,6
+S20261101334,Faculté des Sciences Economiques et de Gestion de Mahdia,06/11/2026,Fourniture et pose de matériel pour l'entretien du standard de la FSEG Mahdia,13/11/2026 17:00,shopping_mall,6
+S20261101332,Ecole caporaux kondar,06/11/2026,acquisition des ventulateurs,15/11/2026 09:00,shopping_mall,8
+S20261101331,Musée militaire national,06/11/2026,Acquisition photocopieuse Grand-Tirage,13/11/2026 10:00,shopping_mall,6
+S20261101330,Institut Supérieur de Pêche et d'Aquaculture de Bizerte,06/11/2026,معدات سمعية بصرية,16/11/2026 10:00,shopping_mall,9
+S20261101329,Commune la Goulette,06/11/2026,اقتناء لوازم ولوازم نظافة لفائدة بلدية حلق الوادي,18/11/2026 10:00,shopping_mall,11
+S20261101328,Ecole caporaux kondar,06/11/2026,acquisition d'extracteur,15/11/2026 09:00,shopping_mall,8
+S20261101327,Commune d'Akouda,06/11/2026,travaux d'entretien du réseau d'éclairage public à TANTANA,20/11/2026 12:00,shopping_mall,13
+S20261101318,Commune de Nabeul,06/11/2026,Désignation d'un bureau d'études pour l'élaboration des études pour la réalisation d'une déchèterie et d'une station de compostage des déchets verts,16/11/2026 10:30,shopping_mall,9
+S20261101326,Société Régionale de Transport du Gouvernorat de Sfax,06/11/2026,BOUCHON RESERVOIR GASOIL MERCEDES O500,09/11/2026 10:00,shopping_mall,2
+S20261101325,Ministère de la Défense Nationale,06/11/2026,اقتناء ونقل وتسليم مواد لياسة (TouFait) لفائدة مغازات الإدارة العامة بالعوينة - تونس,13/11/2026 10:00,shopping_mall,6
+S20261101320,Présidence de la République,06/11/2026,Consultation n° 145 relative à l'acquisition d'équipements informatiques au profit de la Présidence de la République au titre de l'année 2026,13/11/2026 11:00,shopping_mall,6
+S20261101314,Agence de Réhabilitation et de Rénovation Urbaine,06/11/2026,ARRU C33/2026 Travaux d'eclairage public au quartier EL Mallassine -Commune de Bouarada Gouvernorat de Siliana,26/11/2026 17:00,shopping_mall,19
+S20261101323,Commune la Goulette,06/11/2026,والمتعلقة باقتناءمعدات إعلامية و لوازم إعلامية وخراطيش حبر لآلات الطباعة والنسخ,19/11/2026 11:00,shopping_mall,12
+S20261101324,Ministère de la Défense Nationale,06/11/2026,اقتناء وتسليم مواد صندقة لفائدة الإدارة العامة للأشغال,13/11/2026 10:00,shopping_mall,6
+S20261101321,Institut National Des Grandes Cultures,06/11/2026,Renouvellement des licences actuelles Microsoft Office 365(50),30/11/2026 09:30,shopping_mall,23
+S20261101322,Conseil Régional du Gouvernorat de Nabeul,06/11/2026,بإختبار فني معمق على وضعية الهيكل الحديدي المركز فوق بئر الماء الساخن بالمحطة الإستشفائية بحمام بنت الجديدي بمعتمدية الحمامات,13/11/2026 10:30,shopping_mall,6
+S20261101319,Commissariat régional de l'éducation de Siliana,06/11/2026,"Entretien des écoles primaires : Mediouna-Ben Zekri, Siliana Nord",19/11/2026 09:00,shopping_mall,12
+S20261101316,Faculté de Médecine de Sousse,06/11/2026,photocopieur couleur,16/11/2026 06:19,shopping_mall,8
+S20261101311,Agence Nationale de Métrologie,06/11/2026,استشارة عدد 17/2026 إقتنـاء و تركيز جدار حماية لفائدة الوكالة الوطنية للمترولوجيا بعنوان سنة 2026,20/11/2026 10:00,shopping_mall,13
+S20261101317,Conseil régional de Mahdia,06/11/2026,تركيز شبكة التنوير العمومي من مفترق مركز أولاد صالح الى حي دار فرج على امتداد 1 كلم بمعتمدية قصور الساف (ولاية المهدية),30/11/2026 10:00,shopping_mall,23
+S20261101315,Centre militaire de formation professionnelle de Béja,06/11/2026,إقتناء مواد أولية لورشة اللحام,16/11/2026 09:19,shopping_mall,9
+S20261101313,Ministère de la Défense Nationale,06/11/2026,aquisition d'equipement de pompage,16/11/2026 10:00,shopping_mall,9
+S20261101312,Commissariat régional de l'éducation de Siliana,06/11/2026,"Entretien des écoles primaires dans la délégation de Gaâfour : 2 Mars El-Akhawat, Aïn Zrig, Bourguiba, El-Mhiri, Mine El-Akhawat et El-Kharrouba.",20/11/2026 09:00,shopping_mall,13
+S20261101309,Commune El Djem,06/11/2026,"CONSULTATION D'ASSISTANCE TECHNIQUE COMPRENANT L'ETUDE, LE SUIVI ET LE CONTROLE DES TRAVAUX D'INSTALLATION DES EQUIPEMENTS INFORMATIQUES, DU RESEAU DE COMMUNICATION DESTINE A LA MISE EN PLACE DU SYSTEME DE FACTURATION ELECTRONIQUE ET DU SYSTEME DE VIDEOSURVEILLANCE AU MARCHE DE GROS D'EL JEM EN COLLABORATION AVEC LE MINISTERE DU COMMERCE ET DU DEVELOPPEMENT DES EXPORTATIONS.",17/11/2026 10:00,shopping_mall,10
+S20261101304,Institut Supérieur des Sciences Biologiques Appliquées,06/11/2026,Sélection d'un organisme certificateur pour la réalisation de l'audit de certification du Système de Management des Organismes d'Éducation et de Formation selon la norme (ISO 21001:2018),18/11/2026 10:00,shopping_mall,11
+S20261101310,Commissariat régional de l'éducation de Siliana,06/11/2026,Travaux d'acquisition et d'installation d'une pompe de relevage d'eau potable à lycée Ibn Khaldoun de Siliana.,13/11/2026 09:00,shopping_mall,6
+S20261101308,Etablissement national pour la promotion des festivals et des manifestations culturelles et artistiques,06/11/2026,Location d'équipements de traduction et de matériel audio dans le cadre des préparatifs de la 27e édition des Journées théâtrales de Carthage.,13/11/2026 15:30,shopping_mall,6
+S20261101307,Conseil Régional de Tunis,06/11/2026,تزويد مخبزه ولاية تونس تحت تصرف الإدارة العامة لوحدات التدخل بمكونات صناعة الخبز لسنة 2026 (للمرة الثانية),20/11/2026 10:00,shopping_mall,13
+S20261101290,Commune Cebbela,06/11/2026,مشروع التنوير العمومي بالطاقة الشمسية لسنة 2026,26/11/2026 10:00,shopping_mall,19
+S20261101306,Commissariat Régional au Développement Agricole de TUNIS,06/11/2026,اقتناء دراجات نارية,16/11/2026 10:00,shopping_mall,9
+S20261101305,Ministère de la Défense Nationale,06/11/2026,حول المراقبة الفنية لأشغال تهيئة الطرقات و مختلف الشبكات بطبرقة,20/11/2026 09:00,shopping_mall,13
+S20261101303,Société Régionale de Transport de Siliana,06/11/2026,acquisition d'un chariot élévateur,27/11/2026 10:00,shopping_mall,20
+S20261101302,Ministère de la Défense Nationale,06/11/2026,حول أشغال تركيز و إصلاح منظومات كشف و إنذار آلي للحرائق بمباني تابعة لوزارة الدفاع الوطني,20/11/2026 09:00,shopping_mall,13
+S20261101298,Ecole Nationale d'Ingénieurs de Monastir,06/11/2026,Travaux d'aménagement des espaces à l'École Nationale d'Ingénieurs de Monastir (ENIM).,27/11/2026 09:00,shopping_mall,20
+S20261101280,Commissariat régional de l'éducation de Kébili,06/11/2026,اقتناء مواد حديدية و صحية و مواد كهربائية لفائدة المندوبية الجهوية للتربية بقبلي لسنة 2027,16/11/2026 08:30,shopping_mall,8
+S20261101301,Ministère de la Défense Nationale,06/11/2026,حول إصلاح آلة قص المجنبات الحديدية بورشة الحدادة,20/11/2026 09:00,shopping_mall,13
+S20261101300,Prison Gafsa,06/11/2026,إستشارة وطنية قصد إقتناء BIDON EN PLASTIQUE 5L لفائدة سجن قفصة,12/11/2026 10:00,shopping_mall,5
+S20261101299,Centre de Recherche et des Technologies de L'energie,06/11/2026,MAINTENANCE BATTERIES DE CONDENSATEURS,17/11/2026 12:00,shopping_mall,10
+S20261101297,Institut Sylvo-Pastoral de Tabarka,06/11/2026,Consultation N°24/2026 pour acquisition des équipements informatiques et de recherche.,20/11/2026 10:00,shopping_mall,13
