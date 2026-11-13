@@ -1,554 +1,393 @@
 ﻿numero_ao,acheteur_public,date_publication,objet_ao,dernier_delai,categorie,jours_restants
-20261100850,Conseil Régional de Monastir,12/11/2026,Construction d'Une Salle d'Opération et de Réaménagement de Service et Projet de Mise a Niveau du Bloc Opératoire de Réanimation Médical et de la Stérilisation Centrale à la Clinique Dentaire de Monastir,15/12/2026 10:00,avis_ao,33
-20261100848,Ecole des Commandos de la Garde Nationale,12/11/2026,Approvisionnement en viandes rouges,08/12/2026 10:00,avis_ao,26
-20261100849,Conseil Régional du gouvernorat de Mednine,12/11/2026,تهيئة المركب الرياضي ببنقردان (انارة وتركيز سبورة لامعة),16/12/2026 11:00,avis_ao,34
-20261100843,Gouvernorat de Gafsa,12/11/2026,أشغال انجاز خزان ماء صالح للشراب للمستشفى المحلي بسيدي عيش قفصة,15/12/2026 10:00,avis_ao,33
-20261100834,Gouvernorat de Tozeur,12/11/2026,تهيئة وتعبيد طرقات بحي القطعاية بنفطة من ولاية توزر ضمن برنامج التنمية المندمجة,14/12/2026 09:30,avis_ao,32
-20261100833,Conseil Régional de Monastir,12/11/2026,Travaux de construction de foyer universitaire Basatine à Monastir Achèvement des troisième et quatrième tranches,15/12/2026 10:30,avis_ao,33
-20261100625,Ministère de la Santé,12/11/2026,équipements médicaux,15/01/2027 10:00,avis_ao,64
-20261100832,Société de Transport Des Hydrocarbures Par Pipelines de Tunis,12/11/2026,Acquisition de cartouches de filtration coalescentes pour les installations Jet de SOTRAPIL,22/12/2026 10:00,avis_ao,40
-20261100642,Hôpital régional de Tozeur,12/11/2026,fourniture accessoires médicale pour service dialyse 2027,12/12/2026 09:00,avis_ao,29
-20261100705,Hôpital Régional du Kef,12/11/2026,Projet d'aménagement du bloc opératoire d'obstetrique et gynécologie de l'hôpital regional du kef: Médicaux Techniques Fixes,11/12/2026 09:00,avis_ao,28
-20261100689,Gouvernorat de Gafsa,12/11/2026,اشغال تهيئة المركب الشبابي بقفصة برنامج 2019,15/12/2026 10:00,avis_ao,33
-20261100688,Commissariat régional de l'éducation de Béja,12/11/2026,طلب عروض عدد 15/2026 أشغال تهيئة وصيانة بعض المؤسسات التربوية بولاية باجة مجاز الباب المدرسة الابتدائية حيدوس تهيئة وصيانة بناء سياج وصيانة لمدرسة الابتدائية غياضة نفزة مجاز الباب تهيئة وصيانة المدرسة الإعدادية المنجى سليم,14/12/2026 10:00,avis_ao,32
-20261100687,Commune de Grombalia,12/11/2026,توسيع شبكة التنوير العمومي بقرنبالية برنامج2026,14/12/2026 09:00,avis_ao,31
-20261100685,Commune sidi hassine,12/11/2026,TRAVAUX D'AMENAGEMENT ET DE REHABILITATION DES VOIRIES A LA COMMUNE DE SIDI HASSINE (PROGRAMME 2026),15/12/2026 10:00,avis_ao,33
-20261100684,Commissariat régional de l'éducation de l'Ariana,12/11/2026,Travaux d'aménagement et d'extension aux collèges et lycées à l'Ariana,14/12/2026 09:30,avis_ao,32
-20261100683,Agence Nationale de Gestion des Déchets,12/11/2026,ELABORATION D'UNE ETUDE D'EVALUATION DU MARCHE ET DE LA CHAINE DE VALEUR DES DECHETS D'EQUIPEMENTS ELECTRIQUES ET ELECTRONIQUES (DEEE) ET ELABORATION DU PLAN D'ACTION ET D'UNE FEUILLE DE ROUTE POUR L'AMELIORATION DU SYTEME DE GESTION DES D3E EN TUNISIE DANS LE CADRE DU PROJET « WEEEVALUE A_T_2.4_0613,11/12/2026 10:00,avis_ao,29
-20261100681,Hôpital Ibn Eljazzar de Kairouan,12/11/2026,ACQUISITION FOURNITURES DE BUREAU AVEC LA PROCEDURE SIMPLIFIEE,02/12/2026 10:00,avis_ao,20
-20261100680,Hôpital Ibn Eljazzar de Kairouan,12/11/2026,PRODUITS D'ENTRETIEN POUR 2027 AVEC LA PROCEDURE SIMPLIFIEE,02/12/2026 11:00,avis_ao,20
-20261100679,Commissariat Régional au Développement Agricole de Sidi Bouzid,12/11/2026,"Travaux d'entretien des lacs collinaires : Thmad et El Makarem (délégation de Sidi Bouzid Est) ; El Falta El Abiod, Ez-Zaitouna El Abiod et El Kharrouba Salta (délégation de Jelma) ; ainsi qu'El Friou (délégation d'El Hichiria).",15/12/2026 09:30,avis_ao,33
-20261100678,Commissariat régional de l'éducation de Kairouan,12/11/2026,ENTRETIEN DE L'ECOLE PREPARATOIRE HAFFOUZ,14/12/2026 10:00,avis_ao,32
-20261100676,Groupe Chimique Tunisien,11/11/2026,GE26.3.0278 travaux de remise en état de la cuvette des refroidisseurs d'acide et du dallage de l'unité Sulfurique A à l'usine de DAP du Groupe Chimique Tunisien à Gabès,01/12/2026 08:30,avis_ao,18
-20261100674,Commune Tameghza,11/11/2026,REVETEMENT DE VOIRIES ET EMBELLISSEMENT A LA COMMUNE DE TAMEGHZA,26/11/2026 10:00,avis_ao,14
-20261100675,Office de Développement Sylvo Pastoral du Nord-Ouest,11/11/2026,Acquisition Equipements Audio Visuels et Solutions Numériques,15/12/2026 14:00,avis_ao,33
-20261100673,Commissariat Régional au Développement Agricole de Médenine,11/11/2026,اقتناء عدد 01 جرارا فلاحي و عدد 01 جرار فلاحي مزود بآلة رفع بالة,10/12/2026 10:00,avis_ao,28
-20261100672,Commune de Moknine,11/11/2026,"Fourniture, installation et pose camera de surveillance au profit de la municipalité de Moknine",01/12/2026 10:00,avis_ao,19
-20261100671,Entreprise Tunisienne des Activités Pétrolières,11/11/2026,Mise en place d'un Data Center de l'ETAP,22/12/2026 09:00,avis_ao,39
-20261100632,Conseil Régional de Monastir,11/11/2026,PROJET D'AMENAGEMENT DE LA CLOTURE DU GOUVERNORAT DE MONASTIR,02/12/2026 10:00,avis_ao,20
-20261100657,Agence Tunisienne de la Formation Professionnelle,11/11/2026,Choix d'une entreprise de bâtiment pour la réalisation des travaux d'aménagement au centre sectoriel de formation en maintenance de gabes B0 Catégorie 03 au minimum (pour la deuxième fois),15/12/2026 10:00,avis_ao,33
-20261100656,Commissariat Régional au Développement Agricole de Kairouan,11/11/2026,إنجاز أشغال عـــــــ5ـــــــــدد آبار عميقة تعويضية وبئر عميقة جديدة للاستغلال للماء الصالح للشرب,11/12/2026 10:00,avis_ao,29
-20261100655,Gouvernorat de Gafsa,11/11/2026,"AMENAGEMENT DE TROTTOIRS, DE ZONES VERTES ET EMBELLISSEMENT D'ENTREE DE LA VILLE DANS LA COMMUNE DE GAFSA",11/12/2026 10:00,avis_ao,29
-20261100654,Commissariat Régional de Développement Agricole de Bizerte,11/11/2026,"أشغال تهيئة وتعبيد 22,4 كم من المسالك الفلاحية بمعتمدية سجنان (القسط عدد1)",14/12/2026 10:00,avis_ao,32
-20261100653,Commissariat Régional de Développement Agricole de Bizerte,11/11/2026,أشغال تهيئة وتعبيد 16.3كم من المسالك الفلاحية بمعتمدية جومين,14/12/2026 10:00,avis_ao,32
-20261100652,Direction régional de santé Sfax,11/11/2026,PROJET D'AMENAGEMENT D'UNE SALLE DE CRYOCONSERVATION ET TRAVAUX D'IMPLANTATION D'UNE CITERNE D'AZOTE AU CENTRE REGIONAL DE TRANSFUSION SANGUINE DE SFAX CRTS (Lot électricité),14/12/2026 10:00,avis_ao,32
-20261100651,Office du Commerce de Tunisie,11/11/2026,AO 22-2026 pour l'acquisition de Huit (08) véhicules au titre de l'année 2026,11/12/2026 10:00,avis_ao,29
-20261100650,Commune zriba,11/11/2026,projet d'éclairage public,11/12/2026 10:00,avis_ao,29
-20261100649,Conseil Régional du Gouvernorat de Nabeul,11/11/2026,إقتناء أثاث لفائدة الولاية والمعتمديات التابعة لها,03/12/2026 10:00,avis_ao,21
-20261100648,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Gabès",11/11/2026,"mission de suivi, controle et assistance technique des travaux de dédoublement de la RN1 du PK 405+500 au PK 407+000 et travaux de construction d'un ouvrage d'art sur RN1 au PK 406+200 sur oued Gabès.",15/12/2026 09:30,avis_ao,33
-20261100647,Commune de Morneguia,11/11/2026,اقتناء سيارة مصلحة 5 مقاعد و5 خيول ، بنزين لفائدة بلدية المرناقية,30/11/2026 10:00,avis_ao,18
-20261100645,Commissariat régional de l'éducation de l'Ariana,11/11/2026,Travaux de construction de l'école primaire Raoued 3 à Raoued,02/12/2026 09:30,avis_ao,20
-20261100644,Centre de Recherches militaires,11/11/2026,achat de matériels informatiques,08/12/2026 10:00,avis_ao,26
-20261100643,Complexe Sanitaire du Jebel El Oust,11/11/2026,Acquisition de câbles électriques en cuivre et de gaines de protection,23/11/2026 10:00,avis_ao,11
-20261100635,Hôpital régional de medjez el bab,11/11/2026,ACQUISITION DES ACCESOIRES PHARMACEUTIQUE ET DES ACCESOIRES DE DIALYSE AU PROFIT D L'HOPITAL REGIONAL DE MEDJEZ EL BAB,14/12/2026 10:00,avis_ao,32
-20261100641,Mairie de Tunis,11/11/2026,Réalisation des travaux d'aménagement des marchés municipaux Lot 2 Eclairage du marché municipal à cité El Kadhra,14/12/2026 10:00,avis_ao,32
-20261100640,Commune la Goulette,11/11/2026,بدراسة و تقييم الحالة الانشائية للسور الاثري لمدينة حلق الوادي.,15/12/2026 10:00,avis_ao,33
-20261100639,Agence de la vulgarisation et de la formation agricole,11/11/2026,FOURNITURE ET POSE D'UNE SERRE AVEC ACCESSOIRES,10/12/2026 10:00,avis_ao,28
-20261100638,Conseil Régional de Tunis,11/11/2026,تصريف مياه الامطار بمنطقة بئر عنيبة بمعتمدية السيجومي,14/12/2026 10:00,avis_ao,32
-20261100637,Ministère des Affaires de la Femme et de la Famille,11/11/2026,"Appel d'offres national n° 08/2026Relatif à la réalisation d'une étude d'évaluation et de développement du curriculum éducatif pour le développement de la petite enfance, et à la formation des inspecteurs en tant que formateurs de formateurs Au profit du ministère de la Famille, de la Femme, de l'Enfance et des Personnes âgées(par l'intermédiaire d'un bureau d'études)",11/12/2026 10:00,avis_ao,29
-20261100634,Commune de Sahline Emoatmar,11/11/2026,Elaboration d'une etude specifique pour le projet de la revision du plan d amenagement urbain de la commune Sahline Maatmeur pour la 2eme fois,15/12/2026 10:00,avis_ao,33
-20261100633,Gouvernorat Nabeul,11/11/2026,صفقة اعاشة قوات الأمن الداخلي بالموواد الغذائية لولاية نابل لسنة 2027,11/12/2026 13:00,avis_ao,29
-20261100631,Centre de Formation Professionnelle des Pêche de Mahdia,11/11/2026,Reparation et entretien des navires de formation,30/11/2026 11:30,avis_ao,18
-20261100611,Centre National des Technologies en Education,11/11/2026,Acquisition voitures pour au profit de CNTE,02/12/2026 10:00,avis_ao,20
-20261100531,Commissariat Régional au Développement Agricole de Gabès,11/11/2026,Equipement de la station de pompage du projet de renforcement de Oasis El Hamma et El Hamma Ouest par les eaux des bains maures en deux lots:,15/12/2026 10:00,avis_ao,33
-20261100509,Société Tunisienne de Sidérurgie ELFOULADH,11/11/2026,Acquisition de progiciel de gestion des ressources humaines,15/12/2026 11:00,avis_ao,33
-20261100626,Conseil Régional de Monastir,11/11/2026,CONSTRUCTION DU SECTEUR DE LA GARDE NATIONALE A MONASTIR TRANCHE 2,11/12/2026 10:00,avis_ao,29
-20261100622,Commune Oued Meliz,11/11/2026,exécution des travaux d'aménagement et de revêtement des pistes rurales dans la commune d'OUED MLIZ,11/12/2026 10:00,avis_ao,29
-20261100623,Conseil Régional de Monastir,11/11/2026,INSTALLATION D'UN POSTE DE TRANSFO AU SECTEUR DE SURETE NATIONALE ET LA POSTE DE POLICE – KSAR HELLAL,01/12/2026 10:00,avis_ao,19
-20261100620,Conseil Régional de Monastir,11/11/2026,Construction d'une Maison des Jeunes à Sidi Bannour.,10/12/2026 10:30,avis_ao,28
-20261100619,Office National des Postes,11/11/2026,ACQUISITION DES LIVRETS D'EPARGNE,11/12/2026 12:00,avis_ao,29
-20261100618,Hôpital Hédi Chaker Sfax,11/11/2026,"Acquisition, l'installation, la mise en marche, la formation, et la maintenance d'une baie d'électrophysiologie avec stimulateur ortho rythmique pour le service de cardiologie de l'EPS HEDI CHAKER SFAX",12/12/2026 10:00,avis_ao,30
-20261100615,Commune Bouhajla,11/11/2026,acquisition d'un camion à benne tasseuse de 16 m3,14/12/2026 10:00,avis_ao,32
-20261100617,Centre des maladies cancéreux Jendouba,11/11/2026,Etude diagnostic et remplacement d'un BMS (building management system) existant par un nouveau system,24/11/2026 10:00,avis_ao,12
-20261100616,Centre des maladies cancéreux Jendouba,11/11/2026,اقتناء مشتلزمات اعلامية,24/11/2026 10:00,avis_ao,12
-20261100614,Direction Générale des Prisons et de la Rééducation,11/11/2026,طلب عروض عدد05/2026 الخاص باقتناء وتركيز نظام التصرف في قواعد البيانات oracle,10/12/2026 14:00,avis_ao,28
-20261100613,Agence Nationale pour la Maîtrise de l'Energie,11/11/2026,Diagnostic énergétique de Quatre unités de pêche en Tunisie,11/12/2026 10:00,avis_ao,29
-20261100612,Agence de Réhabilitation et de Rénovation Urbaine,11/11/2026,APPEL D'OFFRES N°94 /2026 Travaux de Réhabilitation Du Quartier EL BOUHAYRA-JNEN ERROUMEN dans la Commune de KESRA. Gouvernorat de SILIANA Programme de Réhabilitation et d'Intégration des Quartiers d'Habitation - 2ème génération,15/12/2026 12:00,avis_ao,33
-20261100610,Société des Services Nationaux et des Résidences,11/11/2026,Remise en état G.E.G Dar El Rayhane Résidences des hôtes de l'état à Gammarth,30/11/2026 11:00,avis_ao,18
-20261100609,Gouvernorat Kasserine,11/11/2026,تكليف محامي او شركة مهنية للمحاماة لنيابة (اسم الهيكل العمومي ولاية القصرين) لدى الهيئات التعديليّة أو التحكيميّة,21/12/2026 09:30,avis_ao,39
-20261100608,Commissariat Régional au Développement Agricole de Sfax,10/11/2026,تزويـد المندوبية الجهوية للتنمية الفلاحية بصفاقس بقطع الغيار الأصلية وغير الأصلية لمختلف وسائل النقل الإدارية و المعدات الفلاحية لسنة 2027,10/12/2026 10:00,avis_ao,28
-20261100606,Commissariat régional des affaires culturelles Médenine,10/11/2026,اقتناء تجهيزات مختلفة لفائدة المؤسسات الثقافية,25/11/2026 11:00,avis_ao,13
-20261100605,Ministère des Affaires Sociales,10/11/2026,la mise en location de matériel (Appareils respiratoires) à domicile pour les patients indigents,10/12/2026 11:00,avis_ao,28
-20261100604,Commissariat Régional au Développement Agricole d'El Kef,10/11/2026,Marché à procédure simplifiée n° 9/2026 Acquisition de semences fourragères (mélanges fourragers et trèfle d'Alexandrie de production locale) pour la campagne 2026/2027,24/11/2026 09:00,avis_ao,11
-20261100603,Commune de Sousse,10/11/2026,Acquisition de matériel informatique pour l'année 2026,03/12/2026 14:00,avis_ao,21
-20261002137,Ministère de la Défense Nationale,10/11/2026,إقتناء وتركيز محطات تحلية لفائدة وزارة الدفاع الوطني,10/12/2026 10:00,avis_ao,28
-20261100597,Centre international du Tunis pour l'économie culturelle numérique,10/11/2026,Appel d'offre à procédure simplifié N°02-2026 Aménagement des Hubs Créatifs Inclusifs-Programme Maghroum'IN,30/11/2026 14:00,avis_ao,18
-20261100602,Agence de Réhabilitation et de Rénovation Urbaine,10/11/2026,APPEL D'OFFRES N° 93 /2026 Travaux de Réhabilitation de quartier Menzel Hbib-Commune de Menzel Hbib-Gouvernorat de Gabes Programme de Réhabilitation et d'Intégration des Quartiers d'Habitation - 2ème génération,14/12/2026 12:00,avis_ao,32
-20261100601,Université de Tunis,10/11/2026,إقتناء أثاث لفائدة جامعة تونس والمؤسسات الراجعة لها بالنظر,10/12/2026 11:00,avis_ao,28
-20261100600,Commune Agareb,10/11/2026,Appel d'offres relatif à l'exécution des travaux de pavage des trottoirs.,30/11/2026 09:30,avis_ao,18
-20261100599,Office du Commerce de Tunisie,10/11/2026,AO 21-2026 Conditionnement du thé Au titre de l'année 2026,25/11/2026 14:30,avis_ao,13
-20261100598,Office du Commerce de Tunisie,10/11/2026,AO 20-2026 conditionnement de 6000 tonnes de riz Au titre de l'année 2026,25/11/2026 10:00,avis_ao,13
-20261100564,"Ministère de l'Equipement, l'habitat et l'aménagement du territoire",10/11/2026,étude d'aménagement de 51.8 km de Pistes Rurales au Gouvernorat de kasserine,01/12/2026 09:00,avis_ao,18
-20261100558,Conseil régional du gouvernorat du Kef,10/11/2026,CONCOURS NATIONAL D'ARCHITECTURE A UN DEGRE DU PROJET: «CONSTRUCTION D'UN GROUPEMENT DE SANTE DE BASE/ LABORATOIRE REGIONAL / UNE UNITE DE REDUCTION FONCTIONNELLE AU KEF»,11/12/2026 10:00,avis_ao,29
-20261100596,Hopital Universitaire Habib Bougatfa Bizerte,10/11/2026,ACQUISITION MATERIELS MEDICALS,01/12/2026 10:30,avis_ao,19
-20261100595,Commune de Hammamet,10/11/2026,entretien de l'espace vert2026 lot 1 : Hammamet nord lot 2 : Hammamet sud,09/12/2026 09:00,avis_ao,26
-20261100594,Société Nationale d'Exploitation et de Distribution des Eaux,10/11/2026,Location d'une tractopelle pour le district de Medenine,07/01/2027 09:00,avis_ao,55
-20261100533,بلدية المنيهلة,10/11/2026,Prestations de services environnementaux,15/12/2026 10:00,avis_ao,33
-20261100573,Compagnie des Transports par Pipe- lines au Sahara,10/11/2026,TRAVAUX DE MAINTENANCE DE DEUX RESERVOIRS DE STOCKAGE DE BRUT S6 & S10 DE TRAPSA A LA SKHIRA,15/12/2026 10:00,avis_ao,33
-20261100494,Le conseil régional de gouvernorat de Ariana,10/11/2026,Travaux de construction d'un centre culturel dans le quartier Ettadhamen (maison de la culture et bibliothèque publique),23/12/2026 09:30,avis_ao,41
-20261100588,Hôpital de circonscription d'Enfidha,10/11/2026,"L'hôpital local d'Enfidha envisage de lancer un appel d'offres pour la prestation de services de restauration destinés aux patients, aux médecins et au personnel de garde (au sein de ses deux circonscriptions sanitaires d'Enfidha et de Kondar), pour une durée d'un an non renouvelable (du 01/01/2027 au 31/12/2027).",26/11/2026 07:32,avis_ao,13
-20261100587,Gouvernorat de Kairouan,10/11/2026,AMENAGEMENT D'UN TERRAIN SPORTIF AU CENTRE INTEGRE DE JEUNESSE ET D'ENFANCE A HAFFOUZ,11/12/2026 09:30,avis_ao,29
-20261100586,Office National de la Télédiffusion,10/11/2026,Réalisation du planning de formation au titre de l'année 2026 et au profit du personnel de l'ONT réparti en 17 lots,15/12/2026 10:00,avis_ao,33
-20261100580,Institut National de Recherche Agronomique de Tunis,10/11/2026,تجهيزات علمية لفائدة مخابر البحث بالمعهد الوطني للبحوث الزراعية بتونس,14/12/2026 13:00,avis_ao,32
-20261100579,Office de Développement Sylvo Pastoral du Nord-Ouest,10/11/2026,Acquisition des équipements Aménagement des pépinières de la DGF,11/12/2026 14:00,avis_ao,29
-20261100574,Commissariat Régional au Développement Agricole de Ben Arous,10/11/2026,إنـجـاز أشغال جهر و تنظيف مجاري أودية بولاية بن عروس القسط عدد 3,10/12/2026 10:00,avis_ao,28
-20261100565,Agence Tunisienne d'Evaluation et d'Accréditation dans l'Enseignement Supérieur et la Recherche Scientifique,10/11/2026,"formations certifiantes en management de projet selon la norme ISO 21500 et en management des risques selon la norme ISO 31000, au niveau Lead",30/11/2026 12:00,avis_ao,18
-20261100563,Commissariat Régional au Développement Agricole de Kasserine,10/11/2026,FOURNITURE ET INSTALLATION DES SYSTEMES SOLAIRES PHOTOVOLTAIQUES,15/12/2026 09:30,avis_ao,33
-20261100562,Société des Services Nationaux et des Résidences,10/11/2026,Fourniture de linge de restauration et linge de lit destinées aux résidences des hôtes de l'état à Gammarth,27/11/2026 10:30,avis_ao,15
-20261100559,Société des Services Nationaux et des Résidences,10/11/2026,La fourniture de tapis en laine destinée à l'équipement des résidences,27/11/2026 10:00,avis_ao,15
-20261100554,Commissariat Régional au Développement Agricole de Kasserine,10/11/2026,Supervision et contrôle des Travaux d'AEP de OUED LAHTAB TRANCHE 2 (SBIBA),14/12/2026 09:30,avis_ao,32
-20261100542,"Commissariat régional de la femme, de la famille et de l'enfance et des personnes âgées de Tozeur",10/11/2026,اقتناء اغنام ضمن برنامج التمكين الاقتصادي للاسر ذات الوضعيات الخصوصية .,30/11/2026 10:00,avis_ao,18
-20261100537,Commissariat Régional au Développement Agricole de Kasserine,10/11/2026,"Etude de projet de R-SAEP des zones d'El Kamour-Magroun Essehla et Litaïma, Tafweya et Ksar twil de la délégation de Hassi Elfrid du Gouvernorat de Kasserine phase 2",11/12/2026 09:30,avis_ao,29
-20261100541,Institut de Recherche Vétérinaire de Tunis,10/11/2026,Travaux de réaménagement d'un laboratoire au centre régional des recherches vétérinaire à bousalem,04/12/2026 12:00,avis_ao,22
-20261100397,Société Tunisienne des Indsutries de Raffinage,10/11/2026,CHOIX D'UN BUREAU D'ETUDES POUR LA REALISATION DES ETUDES NECESSAIRES A LA CONSTRUCTION D'UNE NOUVELLE STATION DE CHARGEMENT A LA SOURCE DES CAMIONS CITERNES DE LA STIR,11/02/2027 10:00,avis_ao,91
-20261100535,Commissariat Régional au Développement Agricole de Gafsa,10/11/2026,إقتناء أزياء الشغل بعنوان سنة 2024,10/12/2026 09:00,avis_ao,27
-20261100534,Ministère de la Santé,10/11/2026,"Fourniture et installation du matériel mobilier non hospitalier et de bureautique destinée aux Hôpitaux Régionaux Type «B» de SBIBA et EL JEM,",10/12/2026 10:00,avis_ao,28
-20261100532,Gouvernorat de sousse,10/11/2026,المراقبة والمتابعة و المساندة الفنية لإنجاز مشروع توسعة أكاديمية الشرطة للعلوم الأمنية بالنفيضة: بناء مشروع انجاز مغسلة، مشربة، محل تمريض ومستودعات,01/12/2026 10:00,avis_ao,19
-20261100495,Commune de Megrine,10/11/2026,TRAVAUX D'AMENAGEMENT DES BATIMENTS ADMINISTRATIVES - JARDINS D'ENFANTS MUNICIPALES DE MEGRINE,10/12/2026 10:00,avis_ao,28
-20261100530,Commune de Rades,10/11/2026,APPEL D OFFRE POUR ACQUISITION DE BENNE TASSEUSE 20 M3,15/12/2026 10:00,avis_ao,33
-20261100529,Commissariat Régional au Développement Agricole de Sidi Bouzid,10/11/2026,Réalisation d'une étude portant sur deux projets intégrés d'aménagement et de planification du territoire,10/12/2026 09:30,avis_ao,28
-20261100528,Gouvernorat de sousse,10/11/2026,مشروع تهيئة وتحسين الواجهة الامامية بإقليم الحرس الوطني بسوسة,11/12/2026 10:00,avis_ao,29
-20261003716,Ministère de la Santé,10/11/2026,Acquisition de mobilier de bureau,09/12/2026 10:00,avis_ao,27
-20261100493,Le conseil régional de gouvernorat de Ariana,10/11/2026,Travaux d'aménagement et d'extension du service de médecine dentaire à l'hôpital Mahmoud El Matri de l'Ariana,15/12/2026 09:30,avis_ao,33
-20261100503,Commissariat Régional au Développement Agricole de Kasserine,10/11/2026,"Fourniture pièces de rechange, pneumatique/chambres à air",10/12/2026 09:30,avis_ao,28
-20261100450,Société Tunisienne des Indsutries de Raffinage,10/11/2026,"Reconstruction de 8 réservoirs de produits pétroliers de capacité globale 103 000 M3 (S1, S2, S4, S40, S42, S43, S47 et S62)",31/03/2027 10:00,avis_ao,139
-20261100527,Commissariat régional de l'éducation de Gabès,10/11/2026,تهيئة و صيانة المدرسة الابتدائية الذكارة مطماطة الجديدة,30/11/2026 09:00,avis_ao,17
+20261101018,Commissariat Régional au Développement Agricole de Monastir,13/11/2026,Exécution des travaux d'aménagement en enrobé de la cour du parc du CRDA de Monastir,14/12/2026 10:00,avis_ao,31
+20261101017,Institut de l'olivier,13/11/2026,Acquisition matériels de laboratoire,15/12/2026 10:00,avis_ao,32
+20261101019,Ministère de l'Intérieur,13/11/2026,اقتناء معدات ومستهلكات إعلامية,03/12/2026 10:00,avis_ao,20
+20261101014,Commune de Korba,13/11/2026,Projet d'aménagement et revêtement de rue Kairouane à Korba (Programme 2026).,14/12/2026 10:00,avis_ao,31
+20261101012,Commissariat régional de l'éducation de Jendouba,13/11/2026,entretien de l'école préparatoire ghardimaou,16/12/2026 10:00,avis_ao,33
+20261101016,Société de Transport du Sahel,13/11/2026,استشارة تعيين مراقب حسابات لسنوات 2023/2024/2025,16/12/2026 17:00,avis_ao,33
+20261101004,Compagnie des Phosphates de Gafsa,13/11/2026,Acquisition de 14 chargeuses sur pneus 4 m³,24/12/2026 09:30,avis_ao,41
+20261101015,Ministère de la Défense Nationale,13/11/2026,إقتناء صهاريج ماء مجرورة لفائدة جيش البر,14/12/2026 10:00,avis_ao,31
+20261100250,Ministère de la Défense Nationale,13/11/2026,Travaux de construction d'un magasin au centre d'excellence à baie des carrières à Menzel Abderrahmen,14/12/2026 09:00,avis_ao,30
+20261100251,Ministère de la Défense Nationale,13/11/2026,Travaux de Réalisation d'un mur de soutènement à la Base Navale de Menzel Bourguiba,14/12/2026 09:00,avis_ao,30
+20261100254,Ministère de la Défense Nationale,13/11/2026,Travaux d'aménagement d'un logement d'habitation à la Base Navale Principale de Bizerte,14/12/2026 09:00,avis_ao,30
+20261101011,Groupe Chimique Tunisien,13/11/2026,Fourniture des pièces de rechange pour les turbines à vapeur ALSTOM ATLANTIQUE de l'Usine M'dhilla1 du Groupe Chimique Tunisien,11/12/2026 09:30,avis_ao,28
+20261100882,Centre National des Technologies en Education,13/11/2026,Organisation de formations au profil des cadres et du personnel du CNTE,30/11/2026 10:00,avis_ao,17
+20261101010,Commissariat régional de l'éducation de l'Ariana,13/11/2026,Travaux d'extensions aux écoles primaires à l'Ariana,15/12/2026 09:30,avis_ao,32
+20261101009,Compagnie des Transports par Pipe- lines au Sahara,12/11/2026,CONTRAT CADRE : PRESTATIONS DE SERVICE DE CATERING POUR LE COMPTE DE LA TRAPSA,16/12/2026 10:00,avis_ao,33
+20261101008,Agence de Mise en Valeur du Patrimoine et de la Promotion Culturelle,12/11/2026,Réalisation des travaux d'installation des réseaux électriques pour l'éclairage de sécurité et de surveillance nocturne dans plusieurs sites et Acquisition des projecteurs,14/12/2026 10:00,avis_ao,31
+20261101007,Agence de Mise en Valeur du Patrimoine et de la Promotion Culturelle,12/11/2026,Souscription des contrats d'assurances pour la période 2027-2028 2029,11/12/2026 10:00,avis_ao,28
+20261101005,Office National de la Protection Civile,12/11/2026,Confection des tenues pour la deuxième fois,15/12/2026 09:00,avis_ao,31
+20261101003,Commissariat régional de l'éducation de Mannouba,12/11/2026,طلب العروض وفق الإجراءات المبسطة (.25/2026) المتعلق بـمشروع هدم وإعادة بناء سياج بالمدرسة الابتدائية القباعة 02 وادي الليل,23/11/2026 10:00,avis_ao,10
+20261101002,Commissariat régional de l'éducation de Monastir,12/11/2026,لأشغال تهيئة و صيانة بعض المدارس الإبتدائية,30/11/2026 10:00,avis_ao,17
+20261101000,Ministère de la Santé,12/11/2026,Acuisition de materiels utilisés dans le domaine de l'entomologie et de lutte anti-vectorielle,11/12/2026 10:00,avis_ao,28
+20261101001,Commissariat régional de l'éducation de Mannouba,12/11/2026,طلب العروض وفق الإجراءات المبسطة (24/2026) المتعلق بـمشروع هدم وإعادة بناء سياج بالمدرسة الابتدائية الغضاونية المرناقية,23/11/2026 10:00,avis_ao,10
+20261100998,Ministère de l'Agriculture,12/11/2026,اقتناء و تركيز معدات اعلامية بعنوان سنة 2026,15/12/2026 10:30,avis_ao,32
+20261100875,Société Tunisienne d'Electricité et de Gaz,12/11/2026,"Renouvellement pour trois (03) années, du contrat de maintenance de l'infrastructure serveurs Risc du data center de la STEG et pour trois années, du contrat de maintenance de la solution de sauvegarde et de restauration de l'ensemble des données des plateformes IT.",22/12/2026 09:00,avis_ao,38
+20261100997,Société d'études et d'aménagement Sabkhet Ben Ghayadha-Mahdia,12/11/2026,Élaboration d'une étude portant sur le Suivi de la qualité des eaux et de l'état écologique du lac de Ben Ghayadha À MAHDIA,15/12/2026 10:00,avis_ao,32
+20261100999,Commune Mdhila,12/11/2026,TRAVAUX DES VOIRIES DANS LA ZONE D'EXTENSION DE LA COMMUNE DE MDHILLA PROGRAMME FICOL 2,27/11/2026 10:00,avis_ao,14
+20261100995,Commune de Sfax,12/11/2026,Travaux d'entretien des bâtiments,02/12/2026 10:00,avis_ao,19
+20261100996,Agence Tunisienne de la Formation Professionnelle,12/11/2026,Acquisition d'équipements de formation En climatisation Pour le centre de formation et de promotion du travail indépendant d'El Hamma,16/12/2026 10:00,avis_ao,33
+20261100946,Hôpital universitaire TAHAR SFAR Mahdia,12/11/2026,Acquisition Ensemble D'aspiration murale Débitmètres à bille oxygène médical,28/11/2026 10:00,avis_ao,15
+20261100884,Office des oeuvres universitaires pour le Nord,12/11/2026,acquisition de minibus,16/12/2026 11:00,avis_ao,33
+20261100883,Office des oeuvres universitaires pour le Nord,12/11/2026,Aménagement de 6 blocs sanitaires superposés à la Cité universitaire Montfleury ( 2 eme tranche),16/12/2026 11:00,avis_ao,33
+20261100881,Gouvernorat de Kairouan,12/11/2026,ACHEVEMENT DES TRAVAUX D'AMENAGEMENT ET D'ENTRETIEN DES LOCAUX DU TRIBUNAL ADMINISTRATIF REGIONALE DE KAIROUAN,14/12/2026 09:30,avis_ao,31
+20261100879,Conseil Régional du gouvernorat de Mednine,12/11/2026,اشغال تهيئة الفوج الجهوي لحفظ النظام بجربة,15/12/2026 11:30,avis_ao,32
+20261100880,Commissariat régional de l'éducation de Gabès,12/11/2026,اقتناء زيّ الشّغل لسنة 2027,01/12/2026 14:30,avis_ao,18
+20261100878,Hôpital Charles Nicolle de Tunis,12/11/2026,20261100013-00 - acquisition des réactifs avec la mise en place d'un automate pour identification des levures et l'étude de leurs sensibilitéspour le laboratoire de Parasitologie,16/12/2026 09:30,avis_ao,33
+20261100877,Office National Des Fourrages,12/11/2026,Acquisition Matériel de transport,16/12/2026 10:00,avis_ao,33
+20261100686,Direction Générale des Prisons et de la Rééducation,12/11/2026,Acquisition d'équipements d'ateliers au profit de la Direction Générale des Prisons et de la Rééducation,11/12/2026 14:30,avis_ao,28
+20261100682,Hôpital Habib Thameur de Tunis,12/11/2026,SOUSCRIPTION DES CONTRATS D'ASSURANCES POUR LES ANNEES 2027 – 2028 - 2029 à Hopital Habib Thameur,01/12/2026 10:00,avis_ao,18
+20261100876,CENTRE NATIONAL DU CINÉMA ET DE L'IMAGE,12/11/2026,Appel d'offre selon les Procédures simplifiées N°06/2026 Location et entretien de matériels de projection cinématographique numérique au profit des JCC 2026,26/11/2026 11:00,avis_ao,13
+20261100874,Ministère des Affaires Etrangères,12/11/2026,ACQUISITION D'UNE SOLUTION DE STOCKAGE,13/12/2026 11:00,avis_ao,30
+20261100872,Gouvernorat de Gafsa,12/11/2026,أشغال تهيئة مدخل الادارة الجهوية للتجهيز بقفصة للمرة الثانية,07/12/2026 10:00,avis_ao,24
+20261100873,Prison civile Mornaguia,12/11/2026,Acquisition de matériels et fournitures de nettoyage et pesticides au profit de la prison de Mornaguia,14/12/2026 09:30,avis_ao,31
+20261100871,Commissariat régional des affaires de la jeunesse et des sports Ben Arous,12/11/2026,اقتناء معدات رياضية,12/12/2026 10:00,avis_ao,29
+20261100870,Commune sidi hassine,12/11/2026,LE REAMENAGEMENT DU PARC MUNICIPAL DE SIDI H'CINE - 2eme TRANCHE,14/12/2026 10:00,avis_ao,31
+20261100856,Institut National de la Météorologie,12/11/2026,ACQUISITION D'UN SYSTEME DE GESTION DES DONNEES ET PRODUITS CLIMATOLOGIQUES,15/01/2027 10:00,avis_ao,63
+20261100636,Université de Monastir,12/11/2026,إقتناء وسائل نقل (المرة الثالثة) لفائدة جامعة المنستير,11/12/2026 10:00,avis_ao,28
+20261100855,Hôpital Ibn Eljazzar de Kairouan,12/11/2026,"la fourniture, l'installation et la mise en service d'un poste de sécurité cytotoxique avec la procédure simplifiée",03/12/2026 10:00,avis_ao,20
+20261100854,Conseil Régional de Monastir,12/11/2026,travaux de Construction de la brigade douane maritime de Monastir,16/12/2026 10:00,avis_ao,33
+20261100852,Commune Sidi Zid-Ouled Moulahem,12/11/2026,projet d'amélioration de l'efficacité énergétique du réseau d'éclairage public,14/12/2026 10:00,avis_ao,31
+20261100850,Conseil Régional de Monastir,12/11/2026,Construction d'Une Salle d'Opération et de Réaménagement de Service et Projet de Mise a Niveau du Bloc Opératoire de Réanimation Médical et de la Stérilisation Centrale à la Clinique Dentaire de Monastir,15/12/2026 10:00,avis_ao,32
+20261100848,Ecole des Commandos de la Garde Nationale,12/11/2026,Approvisionnement en viandes rouges,08/12/2026 10:00,avis_ao,25
+20261100849,Conseil Régional du gouvernorat de Mednine,12/11/2026,تهيئة المركب الرياضي ببنقردان (انارة وتركيز سبورة لامعة),16/12/2026 11:00,avis_ao,33
+20261100843,Gouvernorat de Gafsa,12/11/2026,أشغال انجاز خزان ماء صالح للشراب للمستشفى المحلي بسيدي عيش قفصة,15/12/2026 10:00,avis_ao,32
+20261100834,Gouvernorat de Tozeur,12/11/2026,تهيئة وتعبيد طرقات بحي القطعاية بنفطة من ولاية توزر ضمن برنامج التنمية المندمجة,14/12/2026 09:30,avis_ao,31
+20261100833,Conseil Régional de Monastir,12/11/2026,Travaux de construction de foyer universitaire Basatine à Monastir Achèvement des troisième et quatrième tranches,15/12/2026 10:30,avis_ao,32
+20261100625,Ministère de la Santé,12/11/2026,équipements médicaux,15/01/2027 10:00,avis_ao,63
+20261100832,Société de Transport Des Hydrocarbures Par Pipelines de Tunis,12/11/2026,Acquisition de cartouches de filtration coalescentes pour les installations Jet de SOTRAPIL,22/12/2026 10:00,avis_ao,39
+20261100642,Hôpital régional de Tozeur,12/11/2026,fourniture accessoires médicale pour service dialyse 2027,12/12/2026 09:00,avis_ao,28
+20261100705,Hôpital Régional du Kef,12/11/2026,Projet d'aménagement du bloc opératoire d'obstetrique et gynécologie de l'hôpital regional du kef: Médicaux Techniques Fixes,11/12/2026 09:00,avis_ao,27
+20261100689,Gouvernorat de Gafsa,12/11/2026,اشغال تهيئة المركب الشبابي بقفصة برنامج 2019,15/12/2026 10:00,avis_ao,32
+20261100688,Commissariat régional de l'éducation de Béja,12/11/2026,طلب عروض عدد 15/2026 أشغال تهيئة وصيانة بعض المؤسسات التربوية بولاية باجة مجاز الباب المدرسة الابتدائية حيدوس تهيئة وصيانة بناء سياج وصيانة لمدرسة الابتدائية غياضة نفزة مجاز الباب تهيئة وصيانة المدرسة الإعدادية المنجى سليم,14/12/2026 10:00,avis_ao,31
+20261100687,Commune de Grombalia,12/11/2026,توسيع شبكة التنوير العمومي بقرنبالية برنامج2026,14/12/2026 09:00,avis_ao,30
+20261100685,Commune sidi hassine,12/11/2026,TRAVAUX D'AMENAGEMENT ET DE REHABILITATION DES VOIRIES A LA COMMUNE DE SIDI HASSINE (PROGRAMME 2026),15/12/2026 10:00,avis_ao,32
+20261100684,Commissariat régional de l'éducation de l'Ariana,12/11/2026,Travaux d'aménagement et d'extension aux collèges et lycées à l'Ariana,14/12/2026 09:30,avis_ao,31
+20261100683,Agence Nationale de Gestion des Déchets,12/11/2026,ELABORATION D'UNE ETUDE D'EVALUATION DU MARCHE ET DE LA CHAINE DE VALEUR DES DECHETS D'EQUIPEMENTS ELECTRIQUES ET ELECTRONIQUES (DEEE) ET ELABORATION DU PLAN D'ACTION ET D'UNE FEUILLE DE ROUTE POUR L'AMELIORATION DU SYTEME DE GESTION DES D3E EN TUNISIE DANS LE CADRE DU PROJET « WEEEVALUE A_T_2.4_0613,11/12/2026 10:00,avis_ao,28
+20261100681,Hôpital Ibn Eljazzar de Kairouan,12/11/2026,ACQUISITION FOURNITURES DE BUREAU AVEC LA PROCEDURE SIMPLIFIEE,02/12/2026 10:00,avis_ao,19
+20261100680,Hôpital Ibn Eljazzar de Kairouan,12/11/2026,PRODUITS D'ENTRETIEN POUR 2027 AVEC LA PROCEDURE SIMPLIFIEE,02/12/2026 11:00,avis_ao,19
+20261100679,Commissariat Régional au Développement Agricole de Sidi Bouzid,12/11/2026,"Travaux d'entretien des lacs collinaires : Thmad et El Makarem (délégation de Sidi Bouzid Est) ; El Falta El Abiod, Ez-Zaitouna El Abiod et El Kharrouba Salta (délégation de Jelma) ; ainsi qu'El Friou (délégation d'El Hichiria).",15/12/2026 09:30,avis_ao,32
+20261100678,Commissariat régional de l'éducation de Kairouan,12/11/2026,ENTRETIEN DE L'ECOLE PREPARATOIRE HAFFOUZ,14/12/2026 10:00,avis_ao,31
+20261100676,Groupe Chimique Tunisien,11/11/2026,GE26.3.0278 travaux de remise en état de la cuvette des refroidisseurs d'acide et du dallage de l'unité Sulfurique A à l'usine de DAP du Groupe Chimique Tunisien à Gabès,01/12/2026 08:30,avis_ao,17
+20261100674,Commune Tameghza,11/11/2026,REVETEMENT DE VOIRIES ET EMBELLISSEMENT A LA COMMUNE DE TAMEGHZA,26/11/2026 10:00,avis_ao,13
+20261100675,Office de Développement Sylvo Pastoral du Nord-Ouest,11/11/2026,Acquisition Equipements Audio Visuels et Solutions Numériques,15/12/2026 14:00,avis_ao,32
+20261100673,Commissariat Régional au Développement Agricole de Médenine,11/11/2026,اقتناء عدد 01 جرارا فلاحي و عدد 01 جرار فلاحي مزود بآلة رفع بالة,10/12/2026 10:00,avis_ao,27
+20261100672,Commune de Moknine,11/11/2026,"Fourniture, installation et pose camera de surveillance au profit de la municipalité de Moknine",01/12/2026 10:00,avis_ao,18
+20261100671,Entreprise Tunisienne des Activités Pétrolières,11/11/2026,Mise en place d'un Data Center de l'ETAP,22/12/2026 09:00,avis_ao,38
+20261100632,Conseil Régional de Monastir,11/11/2026,PROJET D'AMENAGEMENT DE LA CLOTURE DU GOUVERNORAT DE MONASTIR,02/12/2026 10:00,avis_ao,19
+20261100657,Agence Tunisienne de la Formation Professionnelle,11/11/2026,Choix d'une entreprise de bâtiment pour la réalisation des travaux d'aménagement au centre sectoriel de formation en maintenance de gabes B0 Catégorie 03 au minimum (pour la deuxième fois),15/12/2026 10:00,avis_ao,32
+20261100656,Commissariat Régional au Développement Agricole de Kairouan,11/11/2026,إنجاز أشغال عـــــــ5ـــــــــدد آبار عميقة تعويضية وبئر عميقة جديدة للاستغلال للماء الصالح للشرب,11/12/2026 10:00,avis_ao,28
+20261100655,Gouvernorat de Gafsa,11/11/2026,"AMENAGEMENT DE TROTTOIRS, DE ZONES VERTES ET EMBELLISSEMENT D'ENTREE DE LA VILLE DANS LA COMMUNE DE GAFSA",11/12/2026 10:00,avis_ao,28
+20261100654,Commissariat Régional de Développement Agricole de Bizerte,11/11/2026,"أشغال تهيئة وتعبيد 22,4 كم من المسالك الفلاحية بمعتمدية سجنان (القسط عدد1)",14/12/2026 10:00,avis_ao,31
+20261100653,Commissariat Régional de Développement Agricole de Bizerte,11/11/2026,أشغال تهيئة وتعبيد 16.3كم من المسالك الفلاحية بمعتمدية جومين,14/12/2026 10:00,avis_ao,31
+20261100652,Direction régional de santé Sfax,11/11/2026,PROJET D'AMENAGEMENT D'UNE SALLE DE CRYOCONSERVATION ET TRAVAUX D'IMPLANTATION D'UNE CITERNE D'AZOTE AU CENTRE REGIONAL DE TRANSFUSION SANGUINE DE SFAX CRTS (Lot électricité),14/12/2026 10:00,avis_ao,31
+20261100651,Office du Commerce de Tunisie,11/11/2026,AO 22-2026 pour l'acquisition de Huit (08) véhicules au titre de l'année 2026,11/12/2026 10:00,avis_ao,28
+20261100650,Commune zriba,11/11/2026,projet d'éclairage public,11/12/2026 10:00,avis_ao,28
+20261100649,Conseil Régional du Gouvernorat de Nabeul,11/11/2026,إقتناء أثاث لفائدة الولاية والمعتمديات التابعة لها,03/12/2026 10:00,avis_ao,20
+20261100648,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Gabès",11/11/2026,"mission de suivi, controle et assistance technique des travaux de dédoublement de la RN1 du PK 405+500 au PK 407+000 et travaux de construction d'un ouvrage d'art sur RN1 au PK 406+200 sur oued Gabès.",15/12/2026 09:30,avis_ao,32
+20261100647,Commune de Morneguia,11/11/2026,اقتناء سيارة مصلحة 5 مقاعد و5 خيول ، بنزين لفائدة بلدية المرناقية,30/11/2026 10:00,avis_ao,17
+20261100645,Commissariat régional de l'éducation de l'Ariana,11/11/2026,Travaux de construction de l'école primaire Raoued 3 à Raoued,02/12/2026 09:30,avis_ao,19
+20261100644,Centre de Recherches militaires,11/11/2026,achat de matériels informatiques,08/12/2026 10:00,avis_ao,25
+20261100643,Complexe Sanitaire du Jebel El Oust,11/11/2026,Acquisition de câbles électriques en cuivre et de gaines de protection,23/11/2026 10:00,avis_ao,10
+20261100635,Hôpital régional de medjez el bab,11/11/2026,ACQUISITION DES ACCESOIRES PHARMACEUTIQUE ET DES ACCESOIRES DE DIALYSE AU PROFIT D L'HOPITAL REGIONAL DE MEDJEZ EL BAB,14/12/2026 10:00,avis_ao,31
+20261100641,Mairie de Tunis,11/11/2026,Réalisation des travaux d'aménagement des marchés municipaux Lot 2 Eclairage du marché municipal à cité El Kadhra,14/12/2026 10:00,avis_ao,31
+20261100640,Commune la Goulette,11/11/2026,بدراسة و تقييم الحالة الانشائية للسور الاثري لمدينة حلق الوادي.,15/12/2026 10:00,avis_ao,32
+20261100639,Agence de la vulgarisation et de la formation agricole,11/11/2026,FOURNITURE ET POSE D'UNE SERRE AVEC ACCESSOIRES,10/12/2026 10:00,avis_ao,27
+20261100638,Conseil Régional de Tunis,11/11/2026,تصريف مياه الامطار بمنطقة بئر عنيبة بمعتمدية السيجومي,14/12/2026 10:00,avis_ao,31
+20261100637,Ministère des Affaires de la Femme et de la Famille,11/11/2026,"Appel d'offres national n° 08/2026Relatif à la réalisation d'une étude d'évaluation et de développement du curriculum éducatif pour le développement de la petite enfance, et à la formation des inspecteurs en tant que formateurs de formateurs Au profit du ministère de la Famille, de la Femme, de l'Enfance et des Personnes âgées(par l'intermédiaire d'un bureau d'études)",11/12/2026 10:00,avis_ao,28
+20261100634,Commune de Sahline Emoatmar,11/11/2026,Elaboration d'une etude specifique pour le projet de la revision du plan d amenagement urbain de la commune Sahline Maatmeur pour la 2eme fois,15/12/2026 10:00,avis_ao,32
+20261100633,Gouvernorat Nabeul,11/11/2026,صفقة اعاشة قوات الأمن الداخلي بالموواد الغذائية لولاية نابل لسنة 2027,11/12/2026 13:00,avis_ao,28
+20261100631,Centre de Formation Professionnelle des Pêche de Mahdia,11/11/2026,Reparation et entretien des navires de formation,30/11/2026 11:30,avis_ao,17
+20261100611,Centre National des Technologies en Education,11/11/2026,Acquisition voitures pour au profit de CNTE,02/12/2026 10:00,avis_ao,19
+20261100531,Commissariat Régional au Développement Agricole de Gabès,11/11/2026,Equipement de la station de pompage du projet de renforcement de Oasis El Hamma et El Hamma Ouest par les eaux des bains maures en deux lots:,15/12/2026 10:00,avis_ao,32
+20261100509,Société Tunisienne de Sidérurgie ELFOULADH,11/11/2026,Acquisition de progiciel de gestion des ressources humaines,15/12/2026 11:00,avis_ao,32
+20261100626,Conseil Régional de Monastir,11/11/2026,CONSTRUCTION DU SECTEUR DE LA GARDE NATIONALE A MONASTIR TRANCHE 2,11/12/2026 10:00,avis_ao,28
+20261100622,Commune Oued Meliz,11/11/2026,exécution des travaux d'aménagement et de revêtement des pistes rurales dans la commune d'OUED MLIZ,11/12/2026 10:00,avis_ao,28
+20261100623,Conseil Régional de Monastir,11/11/2026,INSTALLATION D'UN POSTE DE TRANSFO AU SECTEUR DE SURETE NATIONALE ET LA POSTE DE POLICE – KSAR HELLAL,01/12/2026 10:00,avis_ao,18
+20261100620,Conseil Régional de Monastir,11/11/2026,Construction d'une Maison des Jeunes à Sidi Bannour.,10/12/2026 10:30,avis_ao,27
+20261100619,Office National des Postes,11/11/2026,ACQUISITION DES LIVRETS D'EPARGNE,11/12/2026 12:00,avis_ao,28
+20261100618,Hôpital Hédi Chaker Sfax,11/11/2026,"Acquisition, l'installation, la mise en marche, la formation, et la maintenance d'une baie d'électrophysiologie avec stimulateur ortho rythmique pour le service de cardiologie de l'EPS HEDI CHAKER SFAX",12/12/2026 10:00,avis_ao,29
+20261100615,Commune Bouhajla,11/11/2026,acquisition d'un camion à benne tasseuse de 16 m3,14/12/2026 10:00,avis_ao,31
+20261100617,Centre des maladies cancéreux Jendouba,11/11/2026,Etude diagnostic et remplacement d'un BMS (building management system) existant par un nouveau system,24/11/2026 10:00,avis_ao,11
+20261100616,Centre des maladies cancéreux Jendouba,11/11/2026,اقتناء مشتلزمات اعلامية,24/11/2026 10:00,avis_ao,11
+20261100614,Direction Générale des Prisons et de la Rééducation,11/11/2026,طلب عروض عدد05/2026 الخاص باقتناء وتركيز نظام التصرف في قواعد البيانات oracle,10/12/2026 14:00,avis_ao,27
+20261100613,Agence Nationale pour la Maîtrise de l'Energie,11/11/2026,Diagnostic énergétique de Quatre unités de pêche en Tunisie,11/12/2026 10:00,avis_ao,28
+20261100612,Agence de Réhabilitation et de Rénovation Urbaine,11/11/2026,APPEL D'OFFRES N°94 /2026 Travaux de Réhabilitation Du Quartier EL BOUHAYRA-JNEN ERROUMEN dans la Commune de KESRA. Gouvernorat de SILIANA Programme de Réhabilitation et d'Intégration des Quartiers d'Habitation - 2ème génération,15/12/2026 12:00,avis_ao,32
+20261100610,Société des Services Nationaux et des Résidences,11/11/2026,Remise en état G.E.G Dar El Rayhane Résidences des hôtes de l'état à Gammarth,30/11/2026 11:00,avis_ao,17
+20261100609,Gouvernorat Kasserine,11/11/2026,تكليف محامي او شركة مهنية للمحاماة لنيابة (اسم الهيكل العمومي ولاية القصرين) لدى الهيئات التعديليّة أو التحكيميّة,21/12/2026 09:30,avis_ao,38
+20261100608,Commissariat Régional au Développement Agricole de Sfax,10/11/2026,تزويـد المندوبية الجهوية للتنمية الفلاحية بصفاقس بقطع الغيار الأصلية وغير الأصلية لمختلف وسائل النقل الإدارية و المعدات الفلاحية لسنة 2027,10/12/2026 10:00,avis_ao,27
+20261100606,Commissariat régional des affaires culturelles Médenine,10/11/2026,اقتناء تجهيزات مختلفة لفائدة المؤسسات الثقافية,25/11/2026 11:00,avis_ao,12
+20261100605,Ministère des Affaires Sociales,10/11/2026,la mise en location de matériel (Appareils respiratoires) à domicile pour les patients indigents,10/12/2026 11:00,avis_ao,27
+20261100604,Commissariat Régional au Développement Agricole d'El Kef,10/11/2026,Marché à procédure simplifiée n° 9/2026 Acquisition de semences fourragères (mélanges fourragers et trèfle d'Alexandrie de production locale) pour la campagne 2026/2027,24/11/2026 09:00,avis_ao,10
+20261100603,Commune de Sousse,10/11/2026,Acquisition de matériel informatique pour l'année 2026,03/12/2026 14:00,avis_ao,20
+20261002137,Ministère de la Défense Nationale,10/11/2026,إقتناء وتركيز محطات تحلية لفائدة وزارة الدفاع الوطني,10/12/2026 10:00,avis_ao,27
+20261100597,Centre international du Tunis pour l'économie culturelle numérique,10/11/2026,Appel d'offre à procédure simplifié N°02-2026 Aménagement des Hubs Créatifs Inclusifs-Programme Maghroum'IN,30/11/2026 14:00,avis_ao,17
+20261100602,Agence de Réhabilitation et de Rénovation Urbaine,10/11/2026,APPEL D'OFFRES N° 93 /2026 Travaux de Réhabilitation de quartier Menzel Hbib-Commune de Menzel Hbib-Gouvernorat de Gabes Programme de Réhabilitation et d'Intégration des Quartiers d'Habitation - 2ème génération,14/12/2026 12:00,avis_ao,31
+20261100601,Université de Tunis,10/11/2026,إقتناء أثاث لفائدة جامعة تونس والمؤسسات الراجعة لها بالنظر,10/12/2026 11:00,avis_ao,27
+20261100600,Commune Agareb,10/11/2026,Appel d'offres relatif à l'exécution des travaux de pavage des trottoirs.,30/11/2026 09:30,avis_ao,17
+20261100599,Office du Commerce de Tunisie,10/11/2026,AO 21-2026 Conditionnement du thé Au titre de l'année 2026,25/11/2026 14:30,avis_ao,12
+20261100598,Office du Commerce de Tunisie,10/11/2026,AO 20-2026 conditionnement de 6000 tonnes de riz Au titre de l'année 2026,25/11/2026 10:00,avis_ao,12
+20261100564,"Ministère de l'Equipement, l'habitat et l'aménagement du territoire",10/11/2026,étude d'aménagement de 51.8 km de Pistes Rurales au Gouvernorat de kasserine,01/12/2026 09:00,avis_ao,17
+20261100558,Conseil régional du gouvernorat du Kef,10/11/2026,CONCOURS NATIONAL D'ARCHITECTURE A UN DEGRE DU PROJET: «CONSTRUCTION D'UN GROUPEMENT DE SANTE DE BASE/ LABORATOIRE REGIONAL / UNE UNITE DE REDUCTION FONCTIONNELLE AU KEF»,11/12/2026 10:00,avis_ao,28
+20261100596,Hopital Universitaire Habib Bougatfa Bizerte,10/11/2026,ACQUISITION MATERIELS MEDICALS,01/12/2026 10:30,avis_ao,18
+20261100595,Commune de Hammamet,10/11/2026,entretien de l'espace vert2026 lot 1 : Hammamet nord lot 2 : Hammamet sud,09/12/2026 09:00,avis_ao,25
+20261100594,Société Nationale d'Exploitation et de Distribution des Eaux,10/11/2026,Location d'une tractopelle pour le district de Medenine,07/01/2027 09:00,avis_ao,54
+20261100533,بلدية المنيهلة,10/11/2026,Prestations de services environnementaux,15/12/2026 10:00,avis_ao,32
+20261100573,Compagnie des Transports par Pipe- lines au Sahara,10/11/2026,TRAVAUX DE MAINTENANCE DE DEUX RESERVOIRS DE STOCKAGE DE BRUT S6 & S10 DE TRAPSA A LA SKHIRA,15/12/2026 10:00,avis_ao,32
+20261100494,Le conseil régional de gouvernorat de Ariana,10/11/2026,Travaux de construction d'un centre culturel dans le quartier Ettadhamen (maison de la culture et bibliothèque publique),23/12/2026 09:30,avis_ao,40
+20261100588,Hôpital de circonscription d'Enfidha,10/11/2026,"L'hôpital local d'Enfidha envisage de lancer un appel d'offres pour la prestation de services de restauration destinés aux patients, aux médecins et au personnel de garde (au sein de ses deux circonscriptions sanitaires d'Enfidha et de Kondar), pour une durée d'un an non renouvelable (du 01/01/2027 au 31/12/2027).",26/11/2026 07:32,avis_ao,12
+20261100587,Gouvernorat de Kairouan,10/11/2026,AMENAGEMENT D'UN TERRAIN SPORTIF AU CENTRE INTEGRE DE JEUNESSE ET D'ENFANCE A HAFFOUZ,11/12/2026 09:30,avis_ao,28
+20261100586,Office National de la Télédiffusion,10/11/2026,Réalisation du planning de formation au titre de l'année 2026 et au profit du personnel de l'ONT réparti en 17 lots,15/12/2026 10:00,avis_ao,32
+20261100580,Institut National de Recherche Agronomique de Tunis,10/11/2026,تجهيزات علمية لفائدة مخابر البحث بالمعهد الوطني للبحوث الزراعية بتونس,14/12/2026 13:00,avis_ao,31
+20261100579,Office de Développement Sylvo Pastoral du Nord-Ouest,10/11/2026,Acquisition des équipements Aménagement des pépinières de la DGF,11/12/2026 14:00,avis_ao,28
+20261100574,Commissariat Régional au Développement Agricole de Ben Arous,10/11/2026,إنـجـاز أشغال جهر و تنظيف مجاري أودية بولاية بن عروس القسط عدد 3,10/12/2026 10:00,avis_ao,27
+20261100565,Agence Tunisienne d'Evaluation et d'Accréditation dans l'Enseignement Supérieur et la Recherche Scientifique,10/11/2026,"formations certifiantes en management de projet selon la norme ISO 21500 et en management des risques selon la norme ISO 31000, au niveau Lead",30/11/2026 12:00,avis_ao,17
+20261100563,Commissariat Régional au Développement Agricole de Kasserine,10/11/2026,FOURNITURE ET INSTALLATION DES SYSTEMES SOLAIRES PHOTOVOLTAIQUES,15/12/2026 09:30,avis_ao,32
+20261100562,Société des Services Nationaux et des Résidences,10/11/2026,Fourniture de linge de restauration et linge de lit destinées aux résidences des hôtes de l'état à Gammarth,27/11/2026 10:30,avis_ao,14
+20261100559,Société des Services Nationaux et des Résidences,10/11/2026,La fourniture de tapis en laine destinée à l'équipement des résidences,27/11/2026 10:00,avis_ao,14
+20261100554,Commissariat Régional au Développement Agricole de Kasserine,10/11/2026,Supervision et contrôle des Travaux d'AEP de OUED LAHTAB TRANCHE 2 (SBIBA),14/12/2026 09:30,avis_ao,31
+20261100542,"Commissariat régional de la femme, de la famille et de l'enfance et des personnes âgées de Tozeur",10/11/2026,اقتناء اغنام ضمن برنامج التمكين الاقتصادي للاسر ذات الوضعيات الخصوصية .,30/11/2026 10:00,avis_ao,17
+20261100537,Commissariat Régional au Développement Agricole de Kasserine,10/11/2026,"Etude de projet de R-SAEP des zones d'El Kamour-Magroun Essehla et Litaïma, Tafweya et Ksar twil de la délégation de Hassi Elfrid du Gouvernorat de Kasserine phase 2",11/12/2026 09:30,avis_ao,28
+20261100541,Institut de Recherche Vétérinaire de Tunis,10/11/2026,Travaux de réaménagement d'un laboratoire au centre régional des recherches vétérinaire à bousalem,04/12/2026 12:00,avis_ao,21
+20261100397,Société Tunisienne des Indsutries de Raffinage,10/11/2026,CHOIX D'UN BUREAU D'ETUDES POUR LA REALISATION DES ETUDES NECESSAIRES A LA CONSTRUCTION D'UNE NOUVELLE STATION DE CHARGEMENT A LA SOURCE DES CAMIONS CITERNES DE LA STIR,11/02/2027 10:00,avis_ao,90
+20261100535,Commissariat Régional au Développement Agricole de Gafsa,10/11/2026,إقتناء أزياء الشغل بعنوان سنة 2024,10/12/2026 09:00,avis_ao,26
+20261100534,Ministère de la Santé,10/11/2026,"Fourniture et installation du matériel mobilier non hospitalier et de bureautique destinée aux Hôpitaux Régionaux Type «B» de SBIBA et EL JEM,",10/12/2026 10:00,avis_ao,27
+20261100532,Gouvernorat de sousse,10/11/2026,المراقبة والمتابعة و المساندة الفنية لإنجاز مشروع توسعة أكاديمية الشرطة للعلوم الأمنية بالنفيضة: بناء مشروع انجاز مغسلة، مشربة، محل تمريض ومستودعات,01/12/2026 10:00,avis_ao,18
+20261100495,Commune de Megrine,10/11/2026,TRAVAUX D'AMENAGEMENT DES BATIMENTS ADMINISTRATIVES - JARDINS D'ENFANTS MUNICIPALES DE MEGRINE,10/12/2026 10:00,avis_ao,27
+20261100530,Commune de Rades,10/11/2026,APPEL D OFFRE POUR ACQUISITION DE BENNE TASSEUSE 20 M3,15/12/2026 10:00,avis_ao,32
+20261100529,Commissariat Régional au Développement Agricole de Sidi Bouzid,10/11/2026,Réalisation d'une étude portant sur deux projets intégrés d'aménagement et de planification du territoire,10/12/2026 09:30,avis_ao,27
+20261100528,Gouvernorat de sousse,10/11/2026,مشروع تهيئة وتحسين الواجهة الامامية بإقليم الحرس الوطني بسوسة,11/12/2026 10:00,avis_ao,28
+20261003716,Ministère de la Santé,10/11/2026,Acquisition de mobilier de bureau,09/12/2026 10:00,avis_ao,26
+20261100493,Le conseil régional de gouvernorat de Ariana,10/11/2026,Travaux d'aménagement et d'extension du service de médecine dentaire à l'hôpital Mahmoud El Matri de l'Ariana,15/12/2026 09:30,avis_ao,32
+20261100503,Commissariat Régional au Développement Agricole de Kasserine,10/11/2026,"Fourniture pièces de rechange, pneumatique/chambres à air",10/12/2026 09:30,avis_ao,27
+20261100450,Société Tunisienne des Indsutries de Raffinage,10/11/2026,"Reconstruction de 8 réservoirs de produits pétroliers de capacité globale 103 000 M3 (S1, S2, S4, S40, S42, S43, S47 et S62)",31/03/2027 10:00,avis_ao,138
+20261100527,Commissariat régional de l'éducation de Gabès,10/11/2026,تهيئة و صيانة المدرسة الابتدائية الذكارة مطماطة الجديدة,30/11/2026 09:00,avis_ao,16
 20261100525,Gouvernorat de Tozeur,10/11/2026,استكمال تهيئة فضاء رياضي معشب بدار الشباب حامة الجريد من ولاية توزر,16/11/2026 09:17,avis_ao,3
-20261100513,"Ministère de l'Equipement, l'habitat et l'aménagement du territoire",10/11/2026,CONCOURS NATIONAL D'ARCHITECTURE À UN DEGRÉ PROJET DE CONSTRUCTION DE L'INSTITUT SUPÉRIEUR D'INFORMATIQUE À L'ARIANA ISI-ARIANA,12/01/2027 09:00,avis_ao,60
-20261100502,Office des Terres Domaniales,10/11/2026,Acquisition Poussins d'un jour Ponte,27/11/2026 09:00,avis_ao,14
-20261100499,Office des Terres Domaniales,10/11/2026,Acquisition Poussins d'un jour chair,26/11/2026 09:00,avis_ao,13
-20261100145,Hôpital Charles Nicolle de Tunis,10/11/2026,Approvisionnement en réactifs au profit du laboratoire d'immunologie de l'hôpital Charles Nicolle.,30/11/2026 10:00,avis_ao,18
-20261100524,Centre de formation et de préparation de l'Elite sportive de Gabes,09/11/2026,fourniture de repas pour elite sportive gabes,08/12/2026 11:00,avis_ao,26
-20261100519,le théâtre de l'opéra,09/11/2026,Choix d'une agence de voyage Théâtre de l'Opéra (pour la 2 -ème fois),14/12/2026 12:00,avis_ao,32
-20261100518,le théâtre de l'opéra,09/11/2026,Location des voitures pour Théâtre de l'Opéra (pour la 2 ème fois),30/11/2026 12:00,avis_ao,18
-20261100512,Conseil Régional De Bizerte,09/11/2026,NOURRITURES,09/12/2026 10:00,avis_ao,27
-20261100510,Agence de Réhabilitation et de Rénovation Urbaine,09/11/2026,APPEL D'OFFRES N°92 /2026 Travaux de Réhabilitation du quartier El Gharbi dans la Commune de Dhiba. Gouvernorat de Tataouine Programme de Réhabilitation et d'Intégration des Quartiers d'Habitation - 2ème génération,14/12/2026 12:00,avis_ao,32
-20261100507,Commune de Sousse,09/11/2026,Marché Cadre d'entretien des engins municipaux 2027-2029 (Pieces de rechanges et mains d'œuvre),24/11/2026 14:00,avis_ao,12
-20261100501,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Medenine",09/11/2026,TRAVAUX DE RENFORCEMENT DE RESEAU DES PISTES RURALES AU GOUVERNORAT DE MEDENINE PROGRAMME 2026,11/12/2026 10:00,avis_ao,29
-20261100500,Le Conseil régional Zaghouan,09/11/2026,أشغال إتمام تهيئة القرية الحرفية بزغوان قسط 2,09/12/2026 10:00,avis_ao,27
-20261100498,Hôpital Régional du Kef,09/11/2026,Projet d'extension et de construction d'un bâtiment (salle d'eau service d'hémodialyse),24/11/2026 13:00,avis_ao,12
-20261100497,Institut Pasteur de Tunis,09/11/2026,La mise à disposition d'un analyseur automatisé autonome neuf et la fourniture de réactifs.,09/12/2026 10:00,avis_ao,27
-20261100496,Commune de sakiet eddaier,09/11/2026,اقتناء معدات نظافة لفائدة بلدية ساقية الدائر ( ااعادة القسط عدد 02 و القسط عدد 03 ),09/12/2026 09:00,avis_ao,26
-20261100492,Commissariat régionale de la femme de la famille et de l'enfance à Tataouine,09/11/2026,تزويد مركبات الطفولة بتطاوين بالمواد الغذائية لسنة 2027,10/12/2026 09:00,avis_ao,27
-20261100348,ولاية منوبة,09/11/2026,تهيئة قاعة الرياضات الفردية علي الزواوي بدوار هيشر,10/12/2026 10:00,avis_ao,28
-20261100491,Pharmacie Centrale de Tunisie,09/11/2026,APPEL D'OFFRES INTERNATIONAL MEDICAMENTS A USAGE HUMAIN OFFICINES – 2026 POSTE INFRUCTUEUX N°4 (A.O.I N° X/2026 PI),09/12/2026 10:00,avis_ao,27
-20261100490,Conseil régional de Mahdia,09/11/2026,Construction d'une unité de dialyse à la Chebba,11/12/2026 10:00,avis_ao,29
-20261100484,Société Nationale d'Exploitation et de Distribution des Eaux,09/11/2026,Travaux de chauffage central aux bâtiments de la SONEDE à JBAL LAHMAR et à MEGRINE,09/12/2026 09:00,avis_ao,26
-20261100328,Commune Touiref,09/11/2026,nettoyage et balayage de la ville de touiref,27/11/2026 10:00,avis_ao,15
-20261100489,Commissariat régional de l'éducation de Tataouine,09/11/2026,construction de 04 classes a 3 ecoles primaires,10/12/2026 09:00,avis_ao,27
-20261100488,Commune de Ben Gardène,09/11/2026,"إقتناء معدات النظافة والطرقات برنامج 2026"" القسط عدد 02 : إقتناء عدد (01) صهريج إفراغ الخنادق",10/12/2026 10:00,avis_ao,28
-20261100485,Société Tunisienne d'Electricité et de Gaz,09/11/2026,ACQUISITION ET DÉPLOIEMENT D'UNE SOLUTION SCADA DE SECOURS DU DISPATCHING GAZ,06/01/2027 09:00,avis_ao,54
-20261100487,المستشفى المحلي بحفوز,09/11/2026,achat dispositifs médicaux à usage unique pour service hémodialyse,11/12/2026 09:00,avis_ao,28
-20261100486,Commissariat régional de l'éducation de Gabès,09/11/2026,تهيئة و صيانة المؤسسات التربوية,09/12/2026 09:00,avis_ao,26
-20261100483,Conseil Régional de Tunis,09/11/2026,أشغال تركيز مكثفات كهربائية احتياطية بالسيجومي,10/12/2026 10:00,avis_ao,28
-20261100480,Office de la Marine Marchande et des Ports,09/11/2026,ÉTUDE DE REFECTION DES QUAIS DE LA RIVE SUD DU PORT DE GABES,15/12/2026 10:00,avis_ao,33
-20261100477,Gouvernorat de Gafsa,09/11/2026,PROJET d'entretien du Centre Intégré pour les Jeunes et les Enfants de Gafsa,10/12/2026 10:00,avis_ao,28
-20261100476,Direction Générale des Impôts,09/11/2026,Appel d offre selon les procedures simplifiees n 012026 Pour la 3eme fois relatif a l Acquisition de Meubles,26/11/2026 10:00,avis_ao,14
-20261100387,Office du Commerce de Tunisie,09/11/2026,AO 19 2026 Relatif au Transport Terrestre des Conteneurs (MARCHE CADRE 2027-2028-2029),08/12/2026 10:00,avis_ao,26
-20261100474,Commune El Alâa,08/11/2026,acquisition tractopelles (puissance entre 85 et 105 cv),09/12/2026 10:00,avis_ao,27
-20261100473,"Faculté des Sciences Mathématiques, Physiques et Naturelles de Tunis",07/11/2026,Acquisition des Equipements d'enseignement au profit de la Faculté des Sciences de Tunis.,28/11/2026 10:00,avis_ao,16
-20261100472,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Tunis",06/11/2026,إقتناء محوّلات تحت أرضية لفائدة شبكة التنوير العمومي بولاية تونس,07/12/2026 10:00,avis_ao,25
-20261100471,Agence de formation dans les Métiers du Tourisme,06/11/2026,"Souscription de contrats d'assurance couvrant les risques liés à l'activité de l'Agence de formation dans les métiers du tourisme pour les années 2027, 2028 et 2029.",07/12/2026 10:00,avis_ao,25
-20261100470,Commissariat Régional au Développement Agricole de Kairouan,06/11/2026,تهيئة المدخل الرئيسي لمأوى السيارات بالمندوبية الجهوية للتنمية الفلاحية بالقيروان,23/11/2026 10:00,avis_ao,11
-20261100469,Centre National de Formation et de Perfectionnement,06/11/2026,طلب عـروض عـدد 05/2026 وفق الإجراءات المبسطة *للمرة الثانية * في الأقساط عدد 5-6-7 و8 المتعلق باقتناء أجهزة تلفاز و تجهيزات إعلامية لفائدة المركز الوطني للتكوين و تطويرالكفاءات و جميع فروعه الجهوية,25/11/2026 10:00,avis_ao,13
-20261100468,Gouvernorat de Gafsa,06/11/2026,أشغال بناء قوس بمدخل مدينة المتلوي بإتجاه قفصة للمرة الثانية للمرة السادسة,19/11/2026 10:00,avis_ao,7
-20261100467,Commissariat Régional au Développement Agricole de Kairouan,06/11/2026,تهيئة المدخل الرئيسي لماوى السيارات بالمندوبية الجهوية للتنمية الفلاحية بالقيروان,23/11/2026 10:00,avis_ao,11
-20261100466,Gouvernorat de Gafsa,06/11/2026,أشغال بناء قوسين بمدخل المظيلة - بلدية المظيلة للمرة السادسة,19/11/2026 10:00,avis_ao,7
-20261100465,Gouvernorat de Gafsa,06/11/2026,أشغـال تهيئة دار الشباب المظيلة (برنامج 2023) للمرة الخامسة,19/11/2026 10:00,avis_ao,7
-20261100464,Commissariat régional de l'éducation de Tunis,06/11/2026,تعهد و صيانة معهد قرطاج حنبعل,07/12/2026 09:00,avis_ao,24
-20261100463,Conseil Régional de Monastir,06/11/2026,Travaux de démolition et de reconstruction de la bibliothèque publique de Beni Hassan,07/12/2026 10:00,avis_ao,25
-20261100462,Conseil Régional de Monastir,06/11/2026,PROJET ENTRETIEN DE ISET KASR HELLEL,04/12/2026 10:00,avis_ao,22
-20261100460,"Ministère de l'Equipement, l'habitat et l'aménagement du territoire",06/11/2026,"Projet de Construction de LA 1ere TRANCHE DE L'INSTITUT SUPÉRIEUR DU SPORT ET DE L'EDUCATION PHYSIQUE DE GAFSA en lot unique (Génie Civil, VRD, Fluides, Electricité, Elévateur, Sécurité Incendie et VDI)",14/12/2026 09:00,avis_ao,31
-20261100461,Hôpital Régional Slim Hadhari de Kerkennah,06/11/2026,إعاشة المرضى المقيمين و مرضى تصفية الدم و أطباء الإستمرار,23/11/2026 10:00,avis_ao,11
-20261100384,Office National de l'Assainissement,06/11/2026,la réalisation des travaux d'assainissement en eaux usées des cités nozha et communale dans le gouvernorat de Manouba,15/12/2026 10:00,avis_ao,33
-20261100457,Conseil régional de Mahdia,06/11/2026,احداث ملعب كرة قدم مصغّر بالشحيمات الشمالية من معتمدية أولاد الشامخ (ضمن برنامج التنمية المندمجة القسط الثالث).,02/12/2026 10:00,avis_ao,20
-20261100459,Commune d'Akouda,06/11/2026,TRAVAUX D'ENTRETIEN DES VOIRIES DANS LE CADRE DU DEUXIEME TRANCHE DU PROGRAMME DU MODERNISATION DES VOIRES A LA COMMUNE D'AKOUDA,08/12/2026 10:00,avis_ao,26
-20261100458,Commune de Manouba,06/11/2026,مشروع تعصير الطرقات ببلدية منوبة,08/12/2026 10:00,avis_ao,26
-20261100455,"Ministère de l'Equipement, l'habitat et l'aménagement du territoire",06/11/2026,RECRUTEMENT D'UN AUDITEUR INDEPENDANT POUR LA PREPARATION DE L'AUDIT ANNUEL DE CONFORMITE ET DE PERFORMANCE ENVIRONNEMENTALE ET SOCIALE ; (EXERCICE 2026-2027-2028),09/12/2026 09:00,avis_ao,26
-20261100456,Conseil Régional de Tunis,06/11/2026,étude géotechnique pour le projet Construction de la centre de la sureté national cité hlal,09/12/2026 10:30,avis_ao,27
-20261100454,Institut National de la Météorologie,06/11/2026,ACQUISITION DE PIECES DE RECHANGE POUR LES SYSTEMES D'OBSERVATION METEOROLOGIQUE,11/12/2026 10:11,avis_ao,29
-20261100365,Société Nationale d'Exploitation et de Distribution des Eaux,06/11/2026,AO 139/2026 pour la conclusion d'un marché cadre ayant objet l'exécution de l'ensemble des travaux de extension et entretien du réseau dans le district Jendouba (Gouvernorat de Jendouba),09/12/2026 09:00,avis_ao,26
-20261100367,Société Nationale d'Exploitation et de Distribution des Eaux,06/11/2026,"AO 141/2026 pour la conclusion d'un marché cadre d'exécution de l'ensemble des travaux d'extension du réseau et rénovation de conduites, exécution des nouveaux branchements et report des prises dans les délégations de Sfax Ville et Sfax Ouest au Gouvernorat de Sfax.",09/12/2026 09:00,avis_ao,26
-20261100453,Commune de Zaouiet Sousse,06/11/2026,Étude de révision et d'extension du plan d'aménagement urbain de la commune de Zaouiet Sousse.,08/12/2026 10:00,avis_ao,26
-20261100452,Conseil Régional de Tunis,06/11/2026,هدم وإعادة بناء السور الخارجي للمعهد العالي لإطارات الطفولة بقرطاج درمش,09/12/2026 10:00,avis_ao,27
-20261100451,Commune de Gremda,06/11/2026,projet de construction d'un local archives sanitaires et douches au parc municipal de gremda sfax,07/12/2026 10:00,avis_ao,25
-20261100364,Société Tunisienne d'Electricité et de Gaz,06/11/2026,Acquisition de micro-ordinateurs de bureau,08/12/2026 09:00,avis_ao,25
-20261100449,Ministère de l'Agriculture,06/11/2026,اقتناء و تركيز أبواب و نوافذ من الأليمنيوم ببعض المباني بالحي الإداري المركزي وزارة الفلاحة,11/12/2026 10:30,avis_ao,29
-20261100448,Commissariat régional de l'éducation de Kébili,06/11/2026,صيانة المجموعات الصحية بالمدرسة الابتدائية الفردوس رجيم معتوق للمرة الثانية,09/12/2026 10:00,avis_ao,27
-20261100446,Commune El Aouabed-Khazanet,06/11/2026,"Travaux d'extension du réseau d'éclairage public dans la municipalité d'El Awabed – El Khazzanat, répartis en deux lots.",07/12/2026 10:00,avis_ao,25
-20261100442,Institut National Des Grandes Cultures,06/11/2026,ACQUISITION MATERIEL AGRICOLE,16/12/2026 09:30,avis_ao,34
-20261100403,hopital regional de zaghouane,06/11/2026,التزود بالمعدات و التجهيزات الطبية و الاثاث في اطار تو سعة المستشفي الجهوي بزغوان,07/12/2026 10:00,avis_ao,25
-20261100404,Commissariat régional de l'éducation de Kébili,06/11/2026,اقتناء قطع غيار لفائدة سيارات المندوبية الجهوية للتربية بقبلي لسنة 2027,07/12/2026 10:00,avis_ao,25
-20261100396,"Ministère de l'Equipement, l'habitat et l'aménagement du territoire",06/11/2026,Travaux d'Aménagement et de Revêtement de 28.5 Km de Pistes Rurales Dans le Gouvernorat de Sfax : Lot 1 (15.5 km) et Lot 2 (13 km),15/12/2026 09:30,avis_ao,33
-20261100395,Groupe Chimique Tunisien,06/11/2026,SF26.3.0002:تحرير عقود شراء قطع ارض بالصخيرة لفائدة المجمع الكيميائي التونسي ( جهة صفاقس) على ستة اقساط,08/12/2026 10:00,avis_ao,26
-20261100394,Commissariat Régional au Développement Agricole de Médenine,06/11/2026,أشغال انجاز محطة التحلية ببنيري من معتمدية بن قردان,09/12/2026 10:00,avis_ao,27
-20261100393,Commune de Boumhel El Bassatine,06/11/2026,Acquisition de matériels de propreté et de voirie au profit de la commune de Boumhel El Bassatine,15/12/2026 10:00,avis_ao,33
-20261100347,"Ministère de l'Equipement, l'habitat et l'aménagement du territoire",06/11/2026,"Travaux d'Aménagement et de Revêtement de 39.4 Km de Pistes Rurales Dans le Gouvernorat de Sidi Bouzid: Lot 3 (14.4 km), Lot 4 (11 km) et Lot 5 (14 km)",15/12/2026 09:30,avis_ao,33
-20261100388,Ministère du Tourisme et de l'Artisanat,06/11/2026,Acquisition de 04 voitures de service pour le ministère du tourisme,26/11/2026 12:30,avis_ao,14
-20261100386,Gouvernorat de Kébili,06/11/2026,بناء قاعة ألعاب فردية بالقلعة-قبلي,07/12/2026 10:30,avis_ao,25
-20261100385,TUNISAIR,06/11/2026,Remplacement du complexe d'étanchéité des terrasses du siège de Tunisair.,08/12/2026 09:00,avis_ao,25
-20261100162,Commune de Sfax,06/11/2026,خدمات كراء معدات لرفع و جمع و نقل نفايات مختلفة و أشغال مختلفة وفق 07 أقساط,25/11/2026 10:00,avis_ao,13
-20261100383,Commissariat régional de l'éducation de Béja,06/11/2026,اشغال بناء أسيجة ببعض المؤسسات التربوية بولاية باجة المدرسة الإعدادية ابن خلدون تيبار المدرسة الابتدائية مستوتة باجة الجنوبية معهد الطاهر بن عاشور نفزة,07/12/2026 10:00,avis_ao,25
-20261100382,Hôpital Aziza Othmana de Tunis,06/11/2026,appel d'offre pour l'approvisionnement de l'hopital en tissu-tenu de travail pour les services hospitaliers (AO pour les petites entreprises) 3ème fois,26/11/2026 10:00,avis_ao,14
-20261100345,"Ministère de l'Equipement, l'habitat et l'aménagement du territoire",06/11/2026,"Travaux d'Aménagement et de Revêtement de 47.46 Km de Pistes Rurales Dans le Gouvernorat de Kasserine : Lot 6 (20.19 km), Lot 7 (13.19 km) et Lot 8 (14.08 km)",15/12/2026 09:30,avis_ao,33
-20261100381,Entreprise Tunisienne des Activités Pétrolières,06/11/2026,mise à jour du système du système de messagerie,08/12/2026 09:00,avis_ao,25
-20261100379,Société Régionale de Transport du Gouvernorat de Sfax,06/11/2026,FOURNITURE DE LUBRIFIANTS POUR LE MATERIEL ROULANT DE LA SORETRAS,07/12/2026 12:00,avis_ao,25
-20261100380,Gouvernorat de Tozeur,06/11/2026,أشغال تهيئة و تعبيد انهج بمعتمدية تمغزة في اطار برنامج التنمية المندمجة (القسط الثالث).,07/12/2026 09:30,avis_ao,25
-20261100371,Hopital Ettadhamen,06/11/2026,travaux de création d'une unité de scannographie,07/12/2026 10:00,avis_ao,25
-20261100372,Conseil regional de ben arous,06/11/2026,انجاز مشاريع تعبيد الطرقات والمسالك الفلاحية المندرجة ضمن البرنامج الجهوي للتنمية لسنة 2025,15/12/2026 10:00,avis_ao,33
-20261100370,Institut National de Neurologie Tunis,06/11/2026,ACQUISITION DES PRODUITS DESINFECTANTS,25/11/2026 10:00,avis_ao,13
-20261100115,OFFICE NATIONAL DE LA PROPREITE FONCIERE,03/11/2026,projet de réaménagement du siège de la direction régionale de l'office national de la propriété foncière de Zaghouan en lot unique,03/12/2026 10:00,avis_ao,21
-20261100114,TUNISAIR,03/11/2026,Hébergement du Personnel Navigant en Tunisie,19/11/2026 09:00,avis_ao,6
-20261100113,Conseil Régional de Tunis,03/11/2026,Aménagement du foyer universitaire Ras Tabia Bloc B et D et Entrée principale – tranche 01,04/12/2026 10:30,avis_ao,22
-20261100112,centre de formation et de préparation des sportifs d'élite el menzah,03/11/2026,اقتناء أزياء وأحذية وأثاث رياضي للفائدة الرياضيين المنتمين لمركز تكوين وإعداد رياضيي النخبة بالمنزه,04/12/2026 10:00,avis_ao,22
-20261100076,Société Tunisienne des Marchés de Gros,03/11/2026,la fourniture et l'installation de trois 03 fabrique de glace de 5 T /J au min de Bir Kassa,08/12/2026 10:00,avis_ao,26
-20261100111,Commissariat Régional au Développement Agricole de Kébili,03/11/2026,إقتنـــاء آلة جارفة (chargeuse sur pneus),07/12/2026 09:30,avis_ao,25
-20261100110,Institut Supérieur des Etudes Technologiques de Zaghouan,03/11/2026,recrutement d'un bureau de formation,26/12/2026 17:00,avis_ao,44
-20261100108,Conseil Régional de Tunis,03/11/2026,تهيئة وتوسعة محكمة الناحية بباب بنات تونس قسط 2.,04/12/2026 10:00,avis_ao,22
-20261100107,Hôpital universitaire TAHAR SFAR Mahdia,03/11/2026,التزود بكواشف مخبرية مع وضع الجهاز المخبري على ذمة مخابر المستشفى الجامعي طاهر صفر بالمهدية مع كلّ ما يلزم من المستلزمات الإعلامية الضرورية ومستلزمات الصيانة الوقائية والعلاجية للجهاز طيلة مدة التعاقد,03/12/2026 10:00,avis_ao,21
-20261100106,Société Régionale de Transport Gouvernorat du Kef,03/11/2026,acquisition habillement( pour les année 2025-2026) pour 4éme fois,04/12/2026 10:00,avis_ao,22
-20261100104,Centre Informatique du Ministère de la Santé,03/11/2026,L'acquisition et l'installation de deux solutions de sécurité informatique,04/12/2026 10:00,avis_ao,22
-20261100105,Commissariat régional de l'éducation de Béja,03/11/2026,طلب عروض عدد 04/2026 للمرة الثانية أشغال تهيئة و صيانة المبيت (المطبخ و المطعم و المراقد) بمعهد البشير صفر عمدون - باجة,03/12/2026 10:00,avis_ao,21
-20261100103,Groupement de Santé de Base de Ben Arous,03/11/2026,Acquisition Equipements Médicales,03/12/2026 10:00,avis_ao,21
-20261100102,Société Nationale d'Exploitation et de Distribution des Eaux,03/11/2026,"AO 68-2026 Fourniture en rendu jusqu'aux parcs de la SO.N.E.D.E sis à Sousse, Mégrine, Sfax et Tunis pour les soumissionnaires résidents en Tunisie et en CFR (incoterm 2020) dans l'un des ports de Tunis ou en rendu jusqu'aux parcs de la SO.N.E.DE pour les soumissionnaires non-résidents en Tunisie de colliers de prise en charge en fonte pour des conduites en amiante ciment et des tubes en polyéthylène",21/12/2026 09:00,avis_ao,38
-20261100100,Commissariat régional de l'éducation de Béja,03/11/2026,- طلب عروض عدد 08/2026 للمرة الثانية أشغال تعهد وصيانة وتوسيع بعض المؤسسات التربوية بولاية باجة _بناء اسيجة,19/11/2026 10:00,avis_ao,7
-20261100098,Hôpital Régionale de Bengardane,03/11/2026,acquisition des accessoires medicaux pour services pharmacie depot a l'hopital regional de bengardene 2027,02/12/2026 09:00,avis_ao,19
-20261100090,Société Nationale d'Exploitation et de Distribution des Eaux,03/11/2026,"AO 80-2026 Exécution de l'ensemble des travaux prévus dans le cadre des projets d'amélioration de l'Alimentation en eau potable de la ville El Hamma, de la zone Haute de Gabès et de renforcement de l'adduction Arram - Zeuss - Tejra (Gouvernorat de Gabès)",08/12/2026 09:00,avis_ao,25
-20261100088,Commune de Boumhel El Bassatine,03/11/2026,Travaux de revêtement des routes dans la commune de Boumhel El Bassatine dans le cadre du Programme Régional de Développement (PRD) 2025,08/12/2026 10:00,avis_ao,26
-20261100085,Commune Rahal,03/11/2026,TRAVEAUX D'AMENAGEMENT DU TERRAIN DE SPORT A RAHAL,03/12/2026 10:00,avis_ao,21
-20261100083,Agence de Réhabilitation et de Rénovation Urbaine,03/11/2026,AO-N° 91 /2026 : AVIS D'APPEL D'OFFRES TRAVAUX D'ACHEVEMENT DES TRAVAUX DE REVETEMENT DE LA VOIE D'ACCES AU COMPLEXE CULTUREL ET SPORTIF AU QUARTIER AÏCHOUCHA EL MATAR ET LA REHABILITATION D'UNE PARTIE DU RESEAU D'EVACUATION DES EAUX USEES COMMUNE DE RAOUED GOUVERNORAT DE L'ARIANA (suite à la résiliation du marché initial) Programme de Réhabilitation et d'Intégration des Quartiers d'Habitation - 1ème génération,08/12/2026 12:00,avis_ao,26
-20261100082,Caisse de Prêts et de Soutien des Collectivités Locales,03/11/2026,Acquisition de matériels de propreté et de voirie au profit des communes tunisiennes,08/12/2026 10:00,avis_ao,26
-20261100079,Hôpital Militaire Principal d'Instruction de Tunis,03/11/2026,إنجاز أشغال تجديد أنابيب البخار مع إزالة وتفكيك الأنابيب القديمة بالمستشفى,07/12/2026 10:00,avis_ao,25
-20261100077,Commune de Béja,03/11/2026,إكتتاب عقود تأمين للأخطار المتعلّقة بنشاط بلدية باجة,23/11/2026 10:00,avis_ao,11
-20261100069,Gouvernorat de Kairouan,03/11/2026,PROJET DE CONSTRUCTION D'UNE SALLE DES SPORTS INDIVIDUELS A SISSEB DHRIAAT ‐ SBIKHA,07/12/2026 11:00,avis_ao,25
-20261100044,Office National de l'Assainissement,03/11/2026,l'acquisition de pièces de rechange pour système d'inspection par vidéo du réseau d'assainissement,03/12/2026 09:00,avis_ao,20
-20261100075,commune Dar Allouch,03/11/2026,étude plan d'aménagement,11/12/2026 10:00,avis_ao,29
-20261100073,Commissariat régional de l'éducation de Béja,03/11/2026,- طلب عروض عدد 03/2026 للمرة الثانية أشغال تعهد وصيانة وتوسيع بعض المؤسسات التربوية بولاية باجة _بناء اسيجة,18/11/2026 10:00,avis_ao,6
-20261100043,Conseil régional du gouvernorat du Kef,03/11/2026,مشروع تهيئة مقر المركز الحدودي ﺑالطويرف,04/12/2026 10:00,avis_ao,22
-20261100048,Office National de l'Assainissement,03/11/2026,prestations de rebobinage des stators des électropompes et des moteurs électriques dans la région du grand Tunis,03/12/2026 09:30,avis_ao,21
-20261100074,Agence Tunisienne de la Coopération Technique,03/11/2026,Acquisition d'équipements et de matériels informatiques.,04/12/2026 09:00,avis_ao,21
-20261100045,Conseil régional du gouvernorat du Kef,03/11/2026,أشغال تهيئة وتعبيد المسالك الريفية وإحداث منشآت مائية ضمن البرنامج الجهوي للتنمية لولاية الكاف لسنة 2025موزعة في أربعة أقساط,04/12/2026 10:00,avis_ao,22
-20261100071,Centre Culturel International De Hammamet Maison De La Méditerrané Pour La Culture,03/11/2026,Tenue et assistance des travaux comptables Et Elaboration des états financiers Pour les exercices : 2019- 2020 – 2021 -2022-2023-2024-2025-2026,04/12/2026 11:00,avis_ao,22
-20261100067,Centre Sectoriel de Formation Professionnelle en Mécanique Navale de Kelibia,03/11/2026,تزويد المركز القطاعي للتكوين المهني في الميكنة البحرية بقليبية بالمواد الغذائية للفترة الممتدة بين 01 جانفي 2027 إلى 31 ديسمبر 2027,24/11/2026 09:30,avis_ao,12
-20261100066,Conseil Régional du Gouvernorat de Nabeul,03/11/2026,الصيانة العامة لتجهيزات منظومة الماء الصالح للشرب بالوسط الريفي بكامل ولاية نابل,04/12/2026 10:00,avis_ao,22
-20261100064,Ministère de l'Enseignement Supérieur et de la Recherche Scientifique,03/11/2026,Acquisition de mobilier de bureaux au profit des Instituts Supérieurs des Etudes Technologiques,03/12/2026 11:00,avis_ao,21
-20261100062,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Gabès",02/11/2026,Travaux de dédoublement de la RN1 du PK 405+500 au PK 407+000 et travaux de construction d'un ouvrage d'art sur RN1 au PK 406+200 sur oued Gabès.,07/12/2026 09:30,avis_ao,25
-20261100060,Gouvernorat de Kairouan,02/11/2026,"Alimentation en Eau Potable de Douar Souaydia, Douar Mokaddem et Douar Sehilet à la délégation de Sbikha",04/12/2026 11:00,avis_ao,22
-20261100059,Gouvernorat de Kairouan,02/11/2026,Fourniture et installation des équipements d'irrigation par pivot pour prison El Houareb,04/12/2026 11:00,avis_ao,22
-20261100058,Office National des Postes,02/11/2026,Construction du complexe postal 15 Novembre Sfax,02/12/2026 14:30,avis_ao,20
-20261100056,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Sfax",02/11/2026,TRAVAUX DE REPARATION DES DEGATS D'INNONDATION DANS GOUVERNORAT DE SFAX,03/12/2026 10:00,avis_ao,21
-20261100057,Institution de la Recherche et de l'Enseignement Supérieur Agricoles,02/11/2026,maintenance du data Center au sein de l'IRESA,03/12/2026 10:30,avis_ao,21
-20261100049,Prison Gafsa,02/11/2026,إستشارة وطنية للتزود بمواد غذائية و مواد التنظيف لفائدة نقاط البيع الداخلية لفائدة سجن قفصة لسنة 2027,23/11/2026 10:00,avis_ao,11
-20261100047,Commissariat Régional au Développement Agricole de Zaghouan,02/11/2026,travaux réhabilitation des lacs collinaires,01/12/2026 10:00,avis_ao,19
-20261100041,Ministère de l'Agriculture,02/11/2026,Réhabilitation de la conduite Bellassoued Nebhana gouvernorat de Zaghouan,08/12/2026 10:30,avis_ao,26
-20261100046,Agence de Réhabilitation et de Rénovation Urbaine,02/11/2026,APPEL D'OFFRES N°90 /2026 Travaux de Réhabilitation Du Quartier Sanaoubar La Commune de Sakiet Sidi Youssef Gouvernorat El Kef Programme de Réhabilitation et d'Intégration des Quartiers d'Habitation - 2ème génération,03/12/2026 12:00,avis_ao,21
-20261100042,Commissariat Régional au Développement Agricole de Zaghouan,02/11/2026,travaux de construction des ouvrages de recharge,01/12/2026 10:00,avis_ao,19
-20261100038,Agence de Réhabilitation et de Rénovation Urbaine,02/11/2026,APPEL D'OFFRES N°89/2026 TRAVAUX DE VOIRIES ET DE RESEAU D'EAU POTABLE AU QUARTIER AWLED AISSAOUI-COMMUNE OM LAARAYES GOUVERNORAT DE GAFSA,02/12/2026 12:00,avis_ao,20
-20261100036,Agence de Réhabilitation et de Rénovation Urbaine,02/11/2026,APPEL D'OFFRES N°88 /2026 Travaux de Réhabilitation Du Quartier 09 Avril dans la Commune de SIDI BOUROUIS. Gouvernorat de SILIANA Programme de Réhabilitation et d'Intégration des Quartiers d'Habitation - 2ème génération,02/12/2026 12:00,avis_ao,20
-20261100035,Commune Ghraiba,02/11/2026,Étude d'élaboration et de révision du plan d'aménagement urbain de la municipalité d'El Ghraiba,18/11/2026 09:00,avis_ao,5
-20261100015,Hôpital régional de Tozeur,02/11/2026,20261000067-00 - FOUNITURE BESOINS DE RESTAURANT DE L 'HOPITAL 2027,04/12/2026 10:00,avis_ao,22
-20261100033,Conseil régional de Gabès,02/11/2026,اقتناء تجهيزات مختلفة لفائدة المؤسسات الشبابية ضمن البرنامج الجهوي للتنمية لسنة 2021 و2024 موزعة على ثلاثة أقساط (03),02/12/2026 10:00,avis_ao,20
-20261100032,Commune melloulech,02/11/2026,اقتناء معدات النظافة و الطرقات و تجهيزات أخرى,17/11/2026 10:00,avis_ao,5
-20261100023,Commune d'El Ain,02/11/2026,خدمات كنس الطرقات والأرصفة بالمنطقة البلدية بالعين لمدة سنة واحدة، قابلة للتجديد مرتين,02/12/2026 09:00,avis_ao,19
-20261100021,Commune menzel bouzaiene,02/11/2026,إنجاز أشغال تعبيد طرقات و ترصيف ببلدية منزل بوزيان و تهيئة ساحة سوق القلال,04/12/2026 10:00,avis_ao,22
-20261100017,Conseil régional de Sidi Bouzid,02/11/2026,أشغال بناء مبيت بسرية الأنياب بفوج التدخل للحرس الوطني بلسودة للمرة الثانية,04/12/2026 10:00,avis_ao,22
-20261100014,Gouvernorat de sousse,02/11/2026,Approvisionnement des deux restaurants des forces de sécurité intérieure à Sousse en denrées alimentaires au titre de l'année 2027.,03/12/2026 10:00,avis_ao,21
-20261100007,Agence Foncière Industrielle,02/11/2026,Acquisition de meubles de bureau au titre de l'année 2026 (2ème fois),02/12/2026 09:00,avis_ao,19
-20261100010,Hôpital Régional DE KHEIREDDINE,02/11/2026,Acquisition des produits et accessoires médicaux pour service d'Hémodialyse,02/12/2026 10:00,avis_ao,20
-20261100006,Commissariat Régional au Développement Agricole de Sousse,02/11/2026,اعادة تهيئة التجهيزات الهيدروميكانكية و الكهربائية بمحطة الضخ على المياه المعالجة بمساكن من ولاية سوسة,03/12/2026 10:00,avis_ao,21
-20261002914,Commune de Sousse,02/11/2026,Marché assurance flotte automobile et multirisque professionnelle 2027-2028-2029,03/12/2026 14:00,avis_ao,21
-20261100003,Gouvernorat de sousse,02/11/2026,أشغال إحداث ميداني مناورة بالمركز المندمج لرخص السياقة بسوسة,23/11/2026 10:00,avis_ao,11
-20261100002,Hôpital Militaire Principal d'Instruction de Tunis,02/11/2026,إقتناء مستلزمات طبية لفائدة قسم جراحة الشرايين وزرع الأعضاء,04/12/2026 10:00,avis_ao,22
-20261004183,Hôpital régional housine bouzeine Gafsa,31/10/2026,تزويد المستشفى الجهوي الحسين بوزيان بقفصة بأفلام و مستلزمات قسم الأشعة خلال سنتي 2027 و202,01/12/2026 10:00,avis_ao,19
-20261004182,Hôpital Habib Thameur de Tunis,31/10/2026,ACQUISITION DE REACTIFS AVEC LA MISE A DISPOSITION D'UNE SOLUTION ANALYTIQUE MULTIPARAMETRIQUE DE BIOCHIMIE ET IMMUNOANALYSE,20/11/2026 10:00,avis_ao,8
-20261004181,Groupement de santé de base Beja,31/10/2026,Acquisition de Produit et Equipement de nettoyage pour GSB Béja,28/11/2026 10:30,avis_ao,16
-20261004180,Hôpital Razi de Manouba,31/10/2026,acquisition des denrées alimentaires : poulailles,01/12/2026 12:00,avis_ao,19
-20261004176,Commune de Médenine,31/10/2026,Acquisition du matériel de propreté sous forme de trois (03) camion à benne tasseuse 16-17m3.,01/12/2026 10:00,avis_ao,19
-20261004175,Société Nationale du Transport Inter-Urbain,30/10/2026,Souscription de contrats d'assurances pour la période 2027-2028-2029,30/11/2026 10:00,avis_ao,18
-20261001538,Ministère de la Défense Nationale,30/10/2026,أشغال بناء مركب إداري وسور بقبلي لفائدة وزارة الدفاع الوطني,30/11/2026 10:00,avis_ao,18
-20261001539,Ministère de la Défense Nationale,30/10/2026,أشغال تهيئة مبنى بالعوينة,30/11/2026 10:00,avis_ao,18
-20261003881,Centre mahmoud yacoub d'assistance medicale urgente,30/10/2026,Relatif à l'acquisition de Produits chimiques et d'Accessoires de Laboratoire,30/11/2026 10:10,avis_ao,18
-20261001283,Ministère de la Défense Nationale,30/10/2026,أشغال تهيئة مركز البحوث العسكرية,30/11/2026 10:00,avis_ao,18
-20261001541,Ministère de la Défense Nationale,30/10/2026,أشغال توسعة مركز التكوين المهني وإنجاز مبنى بالعمران,30/11/2026 10:00,avis_ao,18
-20261004169,Commissariat régional de l'éducation de Sidi Bouzid,30/10/2026,Travaux de réhabilitation et entretien de L'école primaire AL MEZZOUNA,01/12/2026 09:30,avis_ao,19
-20261004173,Gouvernorat de Gafsa,30/10/2026,CONSTRUCTION D'UN SERVICE DE REANIMATION A L'HOPITAL REGIONAL DE METLAOUI,01/12/2026 10:00,avis_ao,19
-20261004170,Groupement de santé de base de Gafsa,30/10/2026,AQUISITION ET INSTALLATION D'UN GROUPE ELCTROGENE ET ENTRETIEN DE POSTE TRANSFORMATEUR ET ENTRETIEN DE RESEAU D'ELECTRICITE DE QUELQUES SERVICES A L'HOPITAL DE CIRCONSCRIPTION DE BELKHIR GAFSA,30/11/2026 10:00,avis_ao,18
-20261004168,Commune El Djem,30/10/2026,Aménagement et extension de l 'abattoir municipal d'el jem et de la station de prétraitement des rejets hydriques,01/12/2026 10:00,avis_ao,19
-20261004167,Commune El Aouabed-Khazanet,30/10/2026,Travaux de colecte et d'enlèvement des déchets Lot n° 01 :Doyenné d'Oyoun El Mayel et Doyenné d'El Awabed Lot n° 02 : Doyenné d'El Khazanat,30/11/2026 10:00,avis_ao,18
-20261004165,Radio tunisienne,30/10/2026,HABILLEMENT DU PERSONNEL DE LA RADIO TUNISIENNE- 2026,30/11/2026 10:00,avis_ao,18
-20261003844,Commissariat régional de l'éducation de Kasserine,30/10/2026,تهيئة وصيانة المؤسسات التربوية بالقصرين,30/11/2026 10:00,avis_ao,18
-20261003657,Ministère de la Défense Nationale,30/10/2026,Travaux de construction du Restaurant et cuisine à RJIM MAATOUG,16/11/2026 10:00,avis_ao,4
-20261002935,Ministère de la Défense Nationale,30/10/2026,L'acquisition et mise en place d'une plate-forme informatique pour héberger des applications,30/11/2026 10:00,avis_ao,18
-20261002966,Hôpital La Rabta de Tunis,30/10/2026,TRAVAUX DE REAMENAGEMENT ET EXTENSION DU POSTE DE TRANSFORMATION ELECTRIQUES MT/BT « P1 » A L'HOPITAL LA RABTA.,30/11/2026 09:00,avis_ao,17
-20261002968,Centre de Maternité et de Néonatalogie,30/10/2026,Fourniture des produits pharmaceutiques -Marché cadre-,07/12/2026 10:00,avis_ao,25
-20261002954,SMART TUNISIAN TECHNOPARKS,30/10/2026,TRAVAUX DE RENOVATION DES RESEAUX D'ECLAIRAGE EXTERIEUR DU POLE TECHNOLOGIQUE SMART TUNISIAN TECHNOPARKS « S2T » SIS A LA ROUTE DE RAOUED ELGAZALA - ARIANA,30/11/2026 10:00,avis_ao,18
-20261002950,بلدية باردو,30/10/2026,اسداء خدمات رفع ونقل النفايات المنزلية والشبيهة بمدينة باردو عن طريق صفقة اطارية لسنوات 2027-2028-2029 في قسطين القسط الأول : دائرة الحدائق القسط الثاني : دائرة قصر السعيد,08/12/2026 10:00,avis_ao,26
-20261002936,Agence Nationale pour la Maîtrise de l'Energie,30/10/2026,Sélection d'un bureau de communication pour la mise en œuvre d'une campagne de communication digitale pour la promotion de la mobilité électrique en Tunisie,30/11/2026 10:00,avis_ao,18
-20261002949,Commissariat Régional au Développement Agricole de Béja,30/10/2026,أشغال تهيئة المسلك الغابي المسيد – برج المراقبة المسيد بمعتمدية نفزة من ولاية باجة,02/12/2026 10:00,avis_ao,20
-20261002948,Commune regueb,30/10/2026,service de nettoyage et d'élagage de sarbres,01/12/2026 10:00,avis_ao,19
-20261002947,Direction régionale de l'équipement Kasserine,30/10/2026,: RENFORCEMENT DES PISTES-PROGRAMME 2027 DANS LE GOUVERNORAT DE KASSERINE REPARTIE EN 02 LOT: LOT N°1: PISTE SAHLA RELIANT KSAR TOUIL ET LIMITE GOUVERNORAT AVEC SIDI BOUZID (10.5 KM) DELEGATION HASSI EL FRID. LOT N°2: PISTE AIN JDAIDA RELIANT PISTE SIDI SHIL ET ECOLE AIN JDAIDA (2.5 km) DELEGATION THALA.,09/12/2026 09:30,avis_ao,27
-20261002943,Office National de l'Assainissement,30/10/2026,"Travaux de réparation et changement de quelques équipements à 1a station d'épuration de Sousse nord en trois lots ; Lot n°1, 2 et 3",01/12/2026 10:00,avis_ao,19
-20261002946,Commissariat Régional au Développement Agricole de Béja,30/10/2026,أشغال صيانة بعض المباني التابعة للمندوبية الجهوية للتنمية الفلاحية بباجة,01/12/2026 10:00,avis_ao,19
-20261002945,Commune de Menzel Elhayet,30/10/2026,طلب عروض عدد 4-2026 يتعلق بتكليف نحامي أو شركة مهنية للمحاماة لنيابة بلدية منزل الحياة لدى المحاكم و سائر الهيئات القضائية لسنوات 2026-2027-2028,26/11/2026 10:00,avis_ao,14
-20261002944,Hôpital Régional Mohamed Ben Sassi - Gabes,30/10/2026,L'acquisition & La Livraison Des Accessoires Médicaux pour service Pharmacie 2027,07/12/2026 11:00,avis_ao,25
-20261002941,Commune de bouargoub,30/10/2026,PROJET VOIRIE POUR LA COMMUNE DE BOUARGOUB,01/12/2026 10:00,avis_ao,19
-20261002677,Hôpital Sahloul de Sousse,30/10/2026,achat de pansements et ligatures,01/12/2026 11:00,avis_ao,19
-20261002937,Ministère de la Défense Nationale,30/10/2026,"La fourniture, transport et déchargement des miradors préfabriqué",30/11/2026 10:00,avis_ao,18
-20261002916,Centre National de la Cartographie et de laTélédétection,30/10/2026,Travaux de réalisation d'un terrain de sport au CNCT,30/11/2026 10:00,avis_ao,18
-20261002800,Gouvernorat Kasserine,30/10/2026,إستكمال بناء المسبح المغطى بالقصرين,01/12/2026 09:30,avis_ao,19
-20261001899,Centre d'Hydrographie et d'Oceanographie de la Marine Nationale,30/10/2026,Acquisition de matérielle de recherche,30/11/2026 10:00,avis_ao,18
-20261002932,Commissariat régional des affaires de la femme et de la famille de Sidi Bouzid,29/10/2026,"Acquisition et distribution de divers équipements et matériels dans le cadre de la mise en œuvre du programme d'insertion économique des femmes victimes de violence conjugale « Samida » pour l'année 2026, via le système de marchés publics en ligne TUNEPS.",23/11/2026 10:00,avis_ao,11
-20261002931,Conseil régional de Mahdia,29/10/2026,"أشغال تهيئة وتعبيد المسالك الريفيّة بمعتمديات سيدي علوان , بومرداس ,السواسي وشربان بولاية المهدية و أشغال صيانة وإصلاح القارعة لبعض المسالك الريفيّة والطرقات المرقّمة بولاية المهدية – موزع على قسطين (02 )",03/12/2026 10:00,avis_ao,21
-20261002930,Conseil Régional de Monastir,29/10/2026,CONSTRUCTION DU SIÈGE DU POSTE DE POLICE À MOKNINE OUEST,30/11/2026 10:00,avis_ao,18
-20261002929,Commune Agareb,29/10/2026,Travaux d'éclairage public,12/11/2026 09:30,avis_ao,0
-20261002792,Commune d'Oum Laraies,29/10/2026,اقتناء معدات النظافة والطرقات لفائدة بلدية أم العرائس لسنة 2026,30/11/2026 10:00,avis_ao,18
-20261002911,Direction régionale de l'équipement Kasserine,29/10/2026,"MISSION DE SUIVI ET D'ASSISTANCE TECHNIQUE D'ACHEVEMENT DES TRAVAUX DE RENFORCEMENT DE 368,3 KM DANS LES 24 GOUVERNORATS REPARTIS EN HUIT (08) LOTS : LOT 6 ACHEVEMENT DES TRAVAUX DE RENFORCEMENT DE 23 KM DANS LE GOUVERNORAT KASSERINE (PROGRAMME D'ENTRETIEN DU RÉSEAU CLASSÉ 2019 ET 2020)",30/11/2026 09:30,avis_ao,18
-20261002888,Société Tunisienne d'Electricité et de Gaz,29/10/2026,Acquisition de mobilier de bureau.,08/12/2026 09:00,avis_ao,25
-20261002883,Commune Hamet Jerid,29/10/2026,Acquisition de matériel de propreté et de voirie Acquisition d'une machine d'excavation et de terrassement d'une puissance de 97 à 105 ch,30/11/2026 10:00,avis_ao,18
-20261002872,Société des Transports de Tunis,29/10/2026,FOURNITURE ET DÉPLOIEMENT D'UNE SOLUTION DE SÉCURITÉ PÉRIMÉTRIQUE DU SYSTÈME D'INFORMATION DE LA SOCIÉTÉ DES TRANSPORTS DE TUNIS,08/12/2026 10:00,avis_ao,26
-20261002777,Conseil régional de Sidi Bouzid,29/10/2026,تزويد مطعم فوج التدخل للحرس الوطني بسيدي بوزيد بالمواد الغذائية العامة خلال سنة 2027,30/11/2026 10:00,avis_ao,18
-20261002869,"Ministère de l'Equipement, l'habitat et l'aménagement du territoire",29/10/2026,l'élaboration de l'étude du Schéma Directeur D'aménagement De La Zone Sensible Du Bassin Minier De Gafsa à l'horizon 2050,30/11/2026 09:10,avis_ao,17
-20261002868,Office National des Postes,29/10/2026,TRANSPORT ET TRAITEMENT DE FONDS EXPLOITES DANS LES UNITES COMMERCIALES DE LA POSTE TUNISIENNE,27/11/2026 12:00,avis_ao,15
-20261002867,Hôpital Régional Sadok Mkaddem de Djerba,29/10/2026,achats des produits alimentaires pour l'année 2027,03/12/2026 11:00,avis_ao,21
-20261002770,Hôpital Régional de Menzel Bourguiba,29/10/2026,ACQUISITION ACCESSOIRES MEDICAUX POUR SALLE DE CATHE SERVICE CARDIO,30/11/2026 10:00,avis_ao,18
-20261002859,Commune zriba,29/10/2026,CONSTRUCTION DE 07 LOCAUX COMMERCIAUX,30/11/2026 10:00,avis_ao,18
-20261002863,Ministère de l'Enseignement Supérieur et de la Recherche Scientifique,29/10/2026,Acquisition des Articles de quincaillerie pour le besoin de l'Administration Centrale (Pour la 2ème fois),30/11/2026 10:00,avis_ao,18
-20261002864,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Kairouan",29/10/2026,"Réalisation des travaux de réparation de trois ouvrages d'art sur la route nationale n° 12, dans le gouvernorat de Kairouan, pour l'année 2026.",30/11/2026 10:00,avis_ao,18
-20261002860,Hôpital de Circonscription de Thala,29/10/2026,aménagement de 03 salles informatiques DRS Kasserine,18/11/2026 10:00,avis_ao,6
-20261002862,Société Tunisienne de Sidérurgie ELFOULADH,29/10/2026,"Prestation de services des opérations de transit, dédouanement et transport des marchandises importées",04/12/2026 11:00,avis_ao,22
-20261002861,Conseil régional de siliana,29/10/2026,أشغال تهيئة و تعبيد المسالك الريفية بولاية سليانة ضمن البرنامج الجهوي للتنمية لسنة 2025 القسط عدد2,02/12/2026 10:00,avis_ao,20
-20261002775,Caisse Nationale de l'Assurance Maladie,29/10/2026,Portefeuille d'assurance du patrimoine de la CNAM pour la période du 01/01/2027 au 31/12/2029,01/12/2026 08:30,avis_ao,18
-20261002858,Société Tunisienne de Sidérurgie ELFOULADH,29/10/2026,"La démantèlement de la grue portique sur rails ""CAILLARD"" sis au quai sud du port Menzel Bourguiba - Bizerte",03/12/2026 11:00,avis_ao,21
-20261002769,Société des Transports de Tunis,29/10/2026,"FOURNITURE, INSTALLATION ET MISE EN MARCHE DE (03) TROIS PORTIQUES DE LAVAGE POUR BUS",03/12/2026 10:00,avis_ao,21
-20261002805,Ministère des Affaires de la Femme et de la Famille,29/10/2026,"FOURNITURE, POSE ET REALISATION DES INSTALLATIONS PHOTOVOLTAIQUE DANS LE CENTRE DE PROTECTION DES PERSONNES AGEES GAMMARTH RACCORDE AU RESEAU MOYENNE TENSION",03/12/2026 10:00,avis_ao,21
-20261002787,Commissariat régional de la jeunesse et des sports du kef,29/10/2026,اقتناء معدات وتجهيزات رياضية لفائدة المندوبية الجهوية بالكاف,15/11/2026 09:00,avis_ao,2
-20261002780,Conseil régional de Mahdia,29/10/2026,إتمام أشغال تهيئة المسالك الريفة في إطار البرنامج الجهوي للتنمية بولاية المهديّة لـــسنة 2020 – قسط عــدد 3( التدخل عدد 1)وبأشغال تعبيد المسالك الريفية في إطار البرنامج الجهوي للتنمية بولاية المهديّة لـــسنة 2023 – قسط عــدد 6 (التدخل عــــدد 2).,01/12/2026 10:00,avis_ao,19
-20261002331,Direction régionale de la santé de Monastir,29/10/2026,Acquisition et installation de 7 groupes électrogènes aux Hôpitaux de Circonscription de la Région Sanitaire de Monastir,27/11/2026 14:30,avis_ao,15
-20261002804,Commune El Amra,29/10/2026,إقتناء شاحنة قالبة حمولة 10 طن لفائدة بلدية العامرة برنامج 2026,23/11/2026 09:30,avis_ao,11
-20261002803,Commune de Moknine,28/10/2026,Acquisition de pièces de rechange d'origine pour les moyens de transport de la municipalité de Moknine,12/11/2026 10:00,avis_ao,0
-20261002802,Commissariat régional de l'éducation de Zaghouan,28/10/2026,construction des salles prescolaires aux ecoles primaires au gouvernorat dezaghouan AO 43/2026,27/11/2026 10:00,avis_ao,15
-20261002801,Commissariat régional de l'éducation de Zaghouan,28/10/2026,projet d'entretien des ecoles primaires au gouvernorat de zaghouan pg 2023-2025 AO 47/2026,30/11/2026 10:00,avis_ao,18
-20261002798,"Commissariat régional de la femme, de la famille et de l'enfance et des personnes âgées de Kairouan",28/10/2026,"Acquisition d'équipements de cuisine, de pâtisserie, d'épicerie et de boucherie",27/11/2026 10:00,avis_ao,15
-20261002799,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Tozeur",28/10/2026,TRAVAUX D'ENTRETIEN DU RESEAU ROUTIER AU GOUVERNORAT DE TOZEUR 2026 2 EME FOIS,27/11/2026 10:00,avis_ao,15
-20261002701,"Ministère de l'Equipement, l'habitat et l'aménagement du territoire",28/10/2026,Travaux de consolidation et mise en sécurité des ouvrages de protection contre les inondations réparti en 03 lots .,27/11/2026 09:00,avis_ao,14
-20261002793,Commissariat Régional au Développement Agricole de Kébili,28/10/2026,تعلية طوابي بحباك من الجريد الجاف,01/12/2026 09:30,avis_ao,19
-20261002795,le théâtre de l'opéra,28/10/2026,Tenue et Assistance comptable et Fiscale des exercices 2021-2022-2023 et 2024 du théâtre de l'opéra,27/11/2026 12:00,avis_ao,15
-20261002794,Conseil Régional du Gouvernorat de Nabeul,28/10/2026,أشغال تدعيم شبكة الماء الصالح للشراب بمنطقة جبل طريف من معتمدية قرنبالية- ب ج ت 2026-,30/11/2026 10:00,avis_ao,18
-20261002791,Commissariat régional de l'éducation de Kairouan,28/10/2026,AMENAGEMENT ET ENTRETIEN DU DORTOIR DE L'ECOLE PREPARATOIRE EL OUESLATIA EL OUESLATIA,30/11/2026 10:00,avis_ao,18
-20261002788,Office de Développement Sylvo Pastoral du Nord-Ouest,28/10/2026,Achat de 8 000 plants d'oliviers et de 4 000 plants de caroubiers,30/11/2026 10:00,avis_ao,18
-20261002786,Office de Développement Sylvo Pastoral du Nord-Ouest,28/10/2026,Aménagement de travaux de conservation des eaux et du sol pour la valorisation de l'eau verte dans les délégations de Fernana et Ghardimaou du Gouvernorat de Jendouba,02/12/2026 10:00,avis_ao,20
-20261002784,Hôpital Abderrahmane Mami de Pneumophistiologie,28/10/2026,Appel d'offres d'études auprès des bureaux d'études pluridisciplinaires ou des groupements de concepteurs multidisciplinaires en vue de réaliser un plan directeur immobilier qui répondra au projet d'établissement de l'hôpital,02/12/2026 09:00,avis_ao,19
-20261002785,Commissariat Régional au Développement Agricole de Zaghouan,28/10/2026,Construction d'un local de l'UGP du projet de développement et de promotion des filières agricole de Zaghouan,27/11/2026 10:03,avis_ao,15
-20261002783,Caisse Nationale de Retraite et de Prévoyance Sociale,28/10/2026,TRAVAUX DE REHABILITATION ET CONFORTEMENT PARTIEL DE LA CITEE LOCATIVE CNRPS DE SOUSSE,01/12/2026 09:00,avis_ao,18
-20261002781,Commissariat régional de l'éducation de Monastir,28/10/2026,تهيئة و صيانة بعض المعاهد بالمنستير,30/11/2026 10:00,avis_ao,18
-20261002779,Ministère du Tourisme et de l'Artisanat,28/10/2026,"Appel d'offres Selon les procédures simplifiées ""Conception, Développement et Mise en place d'une Plateforme Digitale du Fonds de développement de la compétitivité dans le secteur du tourisme « FODEC »""",18/11/2026 11:00,avis_ao,6
-20261002778,Commune de Morneguia,28/10/2026,ETUDE DE L'INSTALLATION DU RESEAUX D'ECLAIRAGE PUBLIC A LA VILLE DE MORNAGUIA,19/11/2026 10:00,avis_ao,7
-20261002776,Commune de Morneguia,28/10/2026,مشروع تجديد وتوسعة شبكة التنوير العمومي 2026 بالمرناقية,26/11/2026 10:00,avis_ao,14
-20261002774,Régie Nationale des Tabacs et des Allumettes,28/10/2026,Acquisition de Rubans Adhésifs,27/11/2026 10:00,avis_ao,15
-20261002773,Office de Développement Sylvo Pastoral du Nord-Ouest,28/10/2026,Travaux de Plantation de plants sylvo-pastoraux dans les gouvernorats de : BEJA et KEF,01/12/2026 14:00,avis_ao,19
-20261002771,Hopital de circonscription de REGUEB,28/10/2026,Acquisition des accessoires medicales pour services hémodialyse,28/11/2026 11:00,avis_ao,16
-20261002772,Société Nationale d'Exploitation et de Distribution des Eaux,28/10/2026,réfection de chaussées et de trottoirs (district de gabès),10/12/2026 09:00,avis_ao,27
-20261002768,Commissariat Régional au Développement Agricole de Tataouine,28/10/2026,طلب عروض عـدد 22/2026 إجراءات مبسطة:(إعلان ثاني )أشغال تعهد وصيانة وتعلية السياج الخارجي للمحمية الطبيعية بوادي دكوك بمعتمدية تطاوين الجنوبية,17/11/2026 10:00,avis_ao,5
-20261002767,Direction Générale des Impôts,28/10/2026,Appel d offre selon les procedures simplifiees n 022026 Pour la 2eme fois relatif a l Acquisition des Analyseurs XRF pour metaux precieux et bijouterie,24/11/2026 10:00,avis_ao,12
-20261002765,Institut national de recherche et d'analyse physico-chimique de sidi thabet,28/10/2026,"Acquisition des équipements scientifiques Lot 1: Zeta Sizer / Analyseur de taille, poids moléculaires et Potentiel Zeta Lot 2: Ultra –Turax numérique de laboratoire avec outil de dispersion",25/11/2026 10:00,avis_ao,13
-20261002764,Société Tunisie Autoroutes,28/10/2026,Contrat cadre pour l'entretien préventif et curatif des climatiseurs,30/11/2026 14:30,avis_ao,18
-20261002747,Institut Hédi Raies d'Ophtalmologie,28/10/2026,"approvisionnement en produits alimentaires (viande de poulet, viande de dinde et œufs)",12/11/2026 10:30,avis_ao,0
-20261002746,Hôpital Régional Mohamed Ben Sassi - Gabes,28/10/2026,L'acquisition Et La Livraison du Linge à Usage Unique & EPI / Objets de Pansement / Ligatures Pour Service Pharmacie Pour l'Année2027,30/11/2026 11:00,avis_ao,18
-20261002745,Commune de sakiet eddaier,28/10/2026,اقتناء معدات نظافة لفائدة بلدية ساقية الدائر ( اعادة القسط عدد 02 و القسط عدد 03 ),30/11/2026 09:00,avis_ao,17
-20261002744,Institut de Recherche Vétérinaire de Tunis,28/10/2026,Acquisition des équipements scientifiques,30/11/2026 12:00,avis_ao,18
-20261002743,Commissariat régional de l'éducation de Béja,28/10/2026,PROJET DE CONSTRUCTION D'UNE SALLE PREPARATOIRE A L'ECOLE PRIMAIRE OUED ZARGA 2 TESTOUR PROJET DE CONSTRUCTION D'UNE SALLE PREPARATOIRE A L'ECOLE PRIMAIRE MASTOUTA BEJA,30/11/2026 10:00,avis_ao,18
-20261002742,Ministère de l'Education,28/10/2026,PROJET DE CONSTRUCTION DU FOYER ABOULHASSAN ALAKHMI AU SFAX OUEST GOUVERNORAT DE SFAX-Pour la 2ème fois,01/12/2026 10:00,avis_ao,19
-20261002740,Conseil régional de Sidi Bouzid,28/10/2026,تزويد مطعم الفوج الجهوي لحفظ النظام بسيدي بوزيد بالمواد الغذائية العامةخلال سنة 2027,27/11/2026 10:00,avis_ao,15
-20261002741,Ministère de la Jeunesse et des Sports,28/10/2026,fournitue et pose des équipements de cuisine pour le restaurant du complexe sportif de Borj Cedria,27/11/2026 10:00,avis_ao,15
-20261002739,Commissariat régional de l'éducation de Béja,28/10/2026,AO N°09/2026 2 EME FOIS lot 03 PROJET DE CONSTRUCTION D'UNE SALLE PREPARATOIRE ET REAMENAGEMENT A L'ECOLE PRIMAIRE OULIJA NEFZA,27/11/2026 10:00,avis_ao,15
-20261002479,Hôpital Habib Bourguiba Sfax,28/10/2026,"MISE A NIVEAU DE LA SALLE D'OPERATION N°6, LES COULOIRS PERIPHERIQUES DU BLOC OPERATOIRE AU CHU HABIB BOURGUIBA DE SFAX pour la 2fois",28/11/2026 13:00,avis_ao,16
-20261002738,المستشفى الجهوي بجرجيس,28/10/2026,approvisionnement en produits alimentaires pour 2027,28/11/2026 10:00,avis_ao,16
-20261002737,Commune Sedjnane,28/10/2026,Modernisation des routes commune sejnene,02/12/2026 10:30,avis_ao,20
-20261002736,Commune de Douar Hicher,28/10/2026,"ACQUISITION DE DEUX CAISSONS 6000 L, CHASSIS PORTE CAISSON 6000 L ET DE 70 CONTENEURS METALLIQUES 770 L",18/11/2026 10:00,avis_ao,6
-20261002731,Commune de la Marsa,27/10/2026,LA SOUSCRIPTION DES CONTRATS D'ASSURANCE DURANT LA PERIODE : 2027-2028-2029,27/11/2026 10:00,avis_ao,15
-20261002710,Ministère de la Défense Nationale,27/10/2026,أشغال تهيئة مستودع الصيدلية المركزية العسكرية الجديدة بالعوينة,26/11/2026 10:00,avis_ao,14
-20261002711,Commune de Sousse,27/10/2026,Marché cadre de nettoiement de la ville de Sousse,26/11/2026 14:00,avis_ao,14
-20261002704,Agence de Mise en Valeur du Patrimoine et de la Promotion Culturelle,27/10/2026,Interventions contre les infiltrations des eaux au sous-sol du Musée National du Bardo - 2ème fois,18/11/2026 10:00,avis_ao,6
-20261002706,Commissariat Régional au Développement Agricole de Kébili,27/10/2026,دراسة تحسين الشبكات المائية الرئيسية بالواحات,03/12/2026 09:30,avis_ao,21
-20261002705,Caisse Nationale de Retraite et de Prévoyance Sociale,27/10/2026,TRAVAUX DE CONFORTEMENT ET DE REHABILITATION DES IMMEUBLES DE LA CITE LOCATIVE « ARRAWABI »DE LA CNRPS A BIZERTE,30/11/2026 09:00,avis_ao,17
-20261001287,Ministère de la Défense Nationale,27/10/2026,أشغال تهيئة مبنى سكن بالقاعدة الجوية بسيدي أحمد,16/11/2026 10:00,avis_ao,4
-20261002700,Commissariat Régional au Développement Agricole de Kébili,27/10/2026,أشغال تركيب مبردات بقبلي,02/12/2026 09:30,avis_ao,20
-20261002698,Commune d'El Kram,27/10/2026,location d'équipements et de machines privés pour la prestation de services au profit de la commune du kram,30/11/2026 11:00,avis_ao,18
-20261002679,Ecole de la garde nationale de Chebika,27/10/2026,appel d'offre nourriture ecole garde nationale chebika,25/11/2026 09:00,avis_ao,12
-20261002678,Mairie de Tunis,27/10/2026,l'Assurance de flotte automobile municipal durant l'année 2027-2028-2029,13/11/2026 10:00,avis_ao,1
-20261002676,Société Tunisienne d'Electricité et de Gaz,27/10/2026,MISE A NIVEAU DES BANCS D'ETALONNAGE DES COMPTEURS GAZ,01/12/2026 09:00,avis_ao,18
-20261002674,Commune de Bouarada,27/10/2026,إعلان طلب عروض باجراءات مبسطة عـــدد01 /2026 أشغال إنارة ا لملعب البلدي ببوعرادة/سليانة,25/11/2026 10:00,avis_ao,13
-20261002675,Hôpital Mongi Slim à la Marsa,27/10/2026,ACQUISITION DES DISPOSITIFS MEDICAUX POUR DIVERS SERVICES,02/12/2026 10:00,avis_ao,20
-20261002673,Commissariat régional de l'éducation de Siliana,27/10/2026,اقتناء أكسية العملة لسنة المالية 2026,27/11/2026 09:00,avis_ao,14
-20261002671,Ministère de la Défense Nationale,27/10/2026,"إقتناء آلة تسريح المجاري بالضغط ""Hydrocureuse Tractable""",26/11/2026 10:00,avis_ao,14
-20261002507,Commissariat régional de l'éducation de Sidi Bouzid,27/10/2026,Construction d'une cuisine et un réfectoire a l'école préparatoire OKBA IBN NAFAA - A MEZZOUNA,27/11/2026 09:30,avis_ao,15
-20261002670,La Presse de Tunisie SNIPE,27/10/2026,APPEL D'OFFRES N° 04/2026 relatif à la SOUSCRIPTION DES CONTRATS D'ASSURANCES POUR LES ANNÉES 2027-2028-2029 (pour la 2eme fois),23/11/2026 10:00,avis_ao,11
-20261002669,Agence des Ports et des Installations de la Pêche,27/10/2026,Etude stratégique pour la relance opérationnelle du port de pèche d'Aghir Jerba.,16/11/2026 12:30,avis_ao,4
-20261002668,Hôpital Mongi Slim à la Marsa,27/10/2026,MISE A LA DISPOSITION DE TROIS AUTOMATES GAZ DU SANG AVEC ACQUISITION DE LEURS REACTIFS ET CONSOMMABLES,01/12/2026 10:00,avis_ao,19
-20261002667,Hôpital Mongi Slim à la Marsa,27/10/2026,ACQUISITION DES DISPOSITIFS MEDICAUX POUR LE SERVICE NEPHROLOGIE,30/11/2026 10:00,avis_ao,18
-20261002334,Office de la Marine Marchande et des Ports,23/10/2026,TRAVAUX D'INSTALLATION D'UN ABRI POUR LES VOITURES DE RESERVATION A LA GARE MARITIME DU PORT DE SIDI YOUSSEF A KERKENNAH,26/11/2026 10:00,avis_ao,14
-20261002333,Commissariat Régional au Développement Agricole de Siliana,23/10/2026,إنجاز أشغال تهيئة المسالك الفلاحية بعمادتي القابل و سيدي منصور سليانة الجنوبية,25/11/2026 10:00,avis_ao,13
-20261002332,Société Nationale d'Exploitation et de Distribution des Eaux,23/10/2026,AO 49/2026 pour la Réalisation d'une centrale photovoltaïque de 200 kWc raccordée au réseau électrique moyenne tension au niveau du CENTRE DE FORMATION INTEGRE DE LA SONEDE A MORNAGUIA (Gouvernorat De TUNIS),09/12/2026 09:00,avis_ao,26
-20261002330,Commune d'Ezzahra,23/10/2026,Acquisition de matériel de nettoyage au profit de la municipalité d'Ez-zahra,27/11/2026 10:00,avis_ao,15
-20261002325,Commissariat Régional au Développement Agricole de Siliana,23/10/2026,بناء فضاء لعرض المنتوجات الفلاحية بمعتمدية سليانة الجنوبية من ولاية سليانة,24/11/2026 10:00,avis_ao,12
-20261002327,Commune de Kairouan,23/10/2026,صفقة اقتناء معدات نظافة وطرقات لفائدة بلدية القيروان لسنة 2026,24/11/2026 09:30,avis_ao,12
-20261002326,Société Nationale d'Exploitation et de Distribution des Eaux,23/10/2026,"AO 137/2026 pour la conclusion d'un marché cadre ayant pour objet d'exécution des travaux d'entretien du réseau et de réalisation des branchements neufs, les changements des compteurs ainsi que dans les différentes localités relevant du district BARDO.",25/11/2026 09:00,avis_ao,12
-20261002324,Faculté de Médecine DE Dentaire de Monastir,23/10/2026,Achat matériels scientific au profit du projet de recherche PR2I2025-D4P1,23/11/2026 11:00,avis_ao,11
-20261002322,Direction régionale de l'équipement Sidi bouzid,23/10/2026,Travaux de remplacement des luminaires SHP par des luminaires à LED dans le réseau d'éclairage public dans la Direction Régionale de l'Equipement de SIDIBOUZID,23/11/2026 10:00,avis_ao,11
-20261002321,Commissariat régional de l'éducation de Mahdia,23/10/2026,Travaux d'aménagement de l'école primaire oued Beja Sidi Alouane,24/11/2026 09:30,avis_ao,12
-20261002317,Pharmacie Centrale de Tunisie,23/10/2026,APPEL D'OFFRES N°13/2026 Pour la souscription des contrats d'Assurances pour les années 2027 - 2028 et 2029,23/11/2026 10:00,avis_ao,11
-20261002320,ولاية منوبة,23/10/2026,إعاشة فوج التدخّل للحرس الوطني بالمرناقية لسنة 2027,26/11/2026 10:00,avis_ao,14
-20261002319,Conseil régional de Sidi Bouzid,23/10/2026,REAMENAGEMENT DES BATIMENTS DE LA RECETTE DES FINANCES DU CONSEIL REGIONAL ET LE LOGEMENT DE FONCTION EN 1ER ETAGE ET LA RECETTE MUNICIPALE DE SIDI BOUZID,25/11/2026 10:00,avis_ao,13
-20261002318,Commune Midoun Djerba,23/10/2026,travaux d'entretien du marché central El May,23/11/2026 10:00,avis_ao,11
-20261002218,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Ben Arous",22/10/2026,MISSION DE SUIVI ET ASSISTANCE TECHNIQUE DES TRAVAUX D'ELARGISSEMENT DE L'OUVRAGE DE FRANCHISSEMENT DU CANAL MEDJERDA-CAP BON SUR LA RN3 AU PK 5+500 DANS LE GOUVERNORAT DE BEN AROUS,24/11/2026 11:00,avis_ao,12
-20261002217,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Ben Arous",22/10/2026,TRAVAUXD'ELARGISSEMENTDEL'OUVRAGEDEFRANCHISSEMENT DU CANAL MEDJERDA – CAP BON SUR LA RN3 AU PK 5+500 DANS LE GOUVERNORAT DE BEN AROUS,23/11/2026 10:00,avis_ao,11
-20261002316,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Siliana",22/10/2026,أشغال التغليف السطحي للأجزاء المتضررة من الطريق الجهوية رقم 174 من ن.ك 14 إلى ن.ك 24 بمعتمدية قعفور بولاية سليانة - برنامج تكميلي للتغليف السطحي للطرقات المرقمة لسنة 2026,25/11/2026 10:00,avis_ao,13
-20261002127,Compagnie des Transports par Pipe- lines au Sahara,22/10/2026,LA CONSTRUCTION DE DEUX RESERVOIRS DE STOCKAGE DE PETROLE BRUT,21/12/2026 10:00,avis_ao,39
-20261002314,Commissariat Régional au Développement Agricole d'El Kef,22/10/2026,Marché à procédures simplifiées n° 3/2026 (2ème avis) : Réalisation des travaux d'un forage profond d'exploration « Es-Safaya 5 » dans la délégation de Sakiet Sidi Youssef – Gouvernorat du Kef.,24/11/2026 13:30,avis_ao,12
-20261002313,Commissariat Régional au Développement Agricole de Kairouan,22/10/2026,Modernisation de la pépinière de Hajeb Layoun Délégation Hajeb Layoun Gouvernorat de Kairouan,23/11/2026 10:00,avis_ao,11
-20261002312,Société d'Exploitation du Canal et des Adductions des Eaux du Nord,22/10/2026,Confection de pièces de rechange mécaniques pour les stations de pompage,23/11/2026 10:00,avis_ao,11
-20261002311,Commune de Tajerouine,22/10/2026,Acquisition d'une voiture utilitaire,17/11/2026 10:00,avis_ao,5
-20261002309,Ministère de la Santé,22/10/2026,Acquisition de matériel de terrain pour le contrôle de la qualité de l'environnement,20/11/2026 10:00,avis_ao,8
-20261002308,Pharmacie Centrale de Tunisie,22/10/2026,CONSULTATION INTERNATIONALE SPÉCIALITÉS PHARMACEUTIQUES HOSPITALIÈRES (C4/2026),25/11/2026 10:00,avis_ao,13
-20261002277,Commissariat régional de l'éducation de Sidi Bouzid,22/10/2026,Construction d'un espace préparatoire à L'école primaire AL FAOUZ –OULED HAFFOUZ.,23/11/2026 09:30,avis_ao,11
-20261002273,Présidence du Gouvernement,22/10/2026,Travaux de maintenance périodique des réseaux de climatisation au sein des bâtiments de la Présidence du Gouvernement.,12/11/2026 10:00,avis_ao,0
-20261002271,Conseil Régional de Sfax,22/10/2026,48/2026- بناء وحدة تصفية الدم بالصخيرة,24/11/2026 10:00,avis_ao,12
-20261002272,Commissariat Régional au Développement Agricole de Siliana,22/10/2026,"انتداب مكتب دراسات للقيام بالمرافقة الفنية,المتابعة و المراقبة لأشغالبناء بحيرة جبلية على وادي السواني من معتمدية الروحية",24/11/2026 10:00,avis_ao,12
-20261002248,ولاية منوبة,22/10/2026,مشروع اشغال تطهير المياه المستعملة باربعة احياء بمنوبة و دوار هيشر و وادي الليل و الجديدة منولاية منوبة,25/11/2026 10:00,avis_ao,13
-20261002270,Commissariat Régional au Développement Agricole de Siliana,22/10/2026,انجاز أشغال منشآت للحماية بالجلمون و الاشرطة الحجرية بعمادة سيدي منصور من معتمدية سليانة الجنوبية,23/11/2026 10:00,avis_ao,11
-20261002268,Conseil Régional de Sfax,22/10/2026,47/2026--تحويل مركز الصحة الاساسية الحمشة الى مستشفى محلي (ط ش م -مولد كهربائي-تسخين مركزي),23/11/2026 10:00,avis_ao,11
-20261002269,Commissariat Régional au Développement Agricole de Zaghouan,22/10/2026,acquisition d'un camion citerne incendie,24/11/2026 10:00,avis_ao,12
-20261002258,Hôpital Habib Bourguiba Sfax,22/10/2026,acquisition des tenue de travail pour l'année 2026,23/11/2026 12:30,avis_ao,11
-20261002265,Régie des Alcools,22/10/2026,TRAVAUX DE REPARATION DE 04 RESERVOIRS DE STOCKAGE D'ETHANOL ET DE REMISE EN CONFORMITE DE 02 CUVETTES DE RETENTION DU DEPOT SFAX,23/11/2026 10:00,avis_ao,11
-20261002266,Commune de Gremda,22/10/2026,projet d'eclairage public programme 2026,23/11/2026 10:00,avis_ao,11
-20261002256,Commissariat Régional au Développement Agricole de Béja,22/10/2026,أشغال وصيانة مصاطب ميكانيكية بمعتمدية تستور من ولاية باجة (3),25/11/2026 10:00,avis_ao,13
-20261002255,Conseil Régional de Tunis,22/10/2026,إســتـــكــمــال بـــناء أرشــيــــف بـــمـــحـــــكـــمـــة الإســتـــئـــنــــاف بتونس,23/11/2026 10:00,avis_ao,11
-20261002253,Conseil Régional de Tunis,22/10/2026,"candidature en vue d'identifier les prestataires des études architecturales, Structure et VRD, Electricité et Sécurité incendie, Fluides ainsi que le suivi d'exécution des travaux pour le projet suivant : • construction d'une piscine couverte à la caserne de garde nationale",02/12/2026 09:00,avis_ao,19
-20261002250,Office National de l'Huile,22/10/2026,"MISSIONS D'APUREMENT DES COMPTES COMPTABLES, ET D'INVENTAIRE DES IMMOBILISATIONS DE L'OFFICE NATIONAL DE L'HUILE",24/11/2026 10:00,avis_ao,12
-20261002249,Commissariat Régional au Développement Agricole de Jendouba,22/10/2026,Projet d'Entretien et de Remise en Etat du Réseau de drainage et des fossées dans les PPI de Jendouba,20/11/2026 10:00,avis_ao,8
-20261002247,Commune zriba,22/10/2026,AMENAGEMENT D'UN ESPACE VERT A ZRIBA HAMMAM,20/11/2026 10:00,avis_ao,8
-20261002245,Société Tunisienne d'Electricité et de Gaz,22/10/2026,"Acquisition d'un lot de protection numérique différentielle câble (lot 1), d'un lot de protection numérique non fonctionnement disjoncteur (lot 2) et d'un lot de protection numérique de fréquence et de tension (lot 3).",09/12/2026 09:00,avis_ao,26
-20261002246,Commissariat régional de l'éducation de Tozeur,22/10/2026,هدم و إعادة بناء سياج المدرسة الابتدائية أولاد ماجد دقاش,20/11/2026 10:00,avis_ao,8
-20261002241,Ministère de l'Education,22/10/2026,اقــتــنـــاء لاصقات وظروف وأكيــاس خــاصــة بالامــتــحــانــات الوطـنـيـة والمــهـنـيــة والإدارة المركزية للسنة الدراسية 2026/2027,24/11/2026 10:00,avis_ao,12
-20261002239,Société Nationale de la Cellulose et du Papier Alfa,22/10/2026,Acquisition d'amidon cationique,25/11/2026 10:00,avis_ao,13
-20261002238,Commune El Amra,22/10/2026,"مشروع تسييج مقبرة سيدي مخلوف ببلدية العامرة . ""برنـامج 2026",16/11/2026 10:00,avis_ao,4
-20261002237,Société Nationale de la Cellulose et du Papier Alfa,22/10/2026,l'acquisition des divers moteurs électriques,24/11/2026 10:00,avis_ao,12
-20261002124,Gouvernorat de Kairouan,22/10/2026,اقتناء أزياء قتال ومريول نصف يد لفائدة المدرسة الوطنية لتكوين رتباء ورقباء الأمن بسيدي سعد.,23/11/2026 11:00,avis_ao,11
-20261002234,المستشفى الجهوي بجرجيس,22/10/2026,acquisition de réactifs avec mise à la disposition d'un automate d'hémoglobine glyquée,23/11/2026 09:00,avis_ao,10
-20261002227,Commune fouchena,22/10/2026,Acquisition de 2 voitures au profit de la commune de Fouchana,24/11/2026 10:00,avis_ao,12
-20261002220,Bibliothèque Nationale,22/10/2026,Travaux de rénovation du système d'extinction automatique d'incendie Lot 1 Bloc A & C,24/11/2026 10:00,avis_ao,12
-20261002216,Commune de redeyef,21/10/2026,acquisition d'une voiture de service,16/11/2026 17:30,avis_ao,4
-20261002215,Commissariat Régional au Développement Agricole d'El Kef,21/10/2026,"Avis d'appel d'offres n° 20/2026 Relatif à la réalisation des travaux de construction de 05 réservoirs d'eau pour la prévention des incendies dans la délégation de Sakiet Sidi Youssef (gouvernorat du Kef), répartis en trois lots distincts :",20/11/2026 13:30,avis_ao,8
-20261002214,Commissariat Régional au Développement Agricole d'El Kef,21/10/2026,"Appel d'offres : Travaux de déviation et d'aménagement de la piste « El Mahjouba » au niveau du barrage « Sarrat », dans le gouvernorat du Kef : Travaux de déviation et d'aménagement de la piste « El Mahjouba » au niveau du barrage « Sarrat », du point kilométrique 0 au point kilométrique 3,54 (sur une longueur de 3,54 km).",20/11/2026 09:00,avis_ao,7
-20261002213,Commissariat Régional au Développement Agricole d'El Kef,21/10/2026,"Appel d'offres n° 17/2026 relatif à la réalisation des travaux de fourniture, d'installation et d'essais d'équipements hydromécaniques et électriques pour les stations de pompage, dans le cadre du projet de création de trois périmètres irrigués dans la délégation de Kalaat Khasba (SKD 26, SKD 28 et SKD 29).",23/11/2026 13:30,avis_ao,11
-20261002212,Commune de Sousse,21/10/2026,AMENAGEMENT ET REENGAZONNEMENT DU STADE OLYMPIQUE DE SOUSSE CENTRAL ET ANNEXE,23/11/2026 14:00,avis_ao,11
-20261002211,Hôpital De Circonscription De Sbitla,21/10/2026,equpements pour banque de sang,19/11/2026 10:00,avis_ao,7
-20261002210,Cité universitaire el Ghazali sousse,21/10/2026,لتزود الحي الجامعي الغزالي بالمواد الغذائية خلال سنة 2027,23/11/2026 10:00,avis_ao,11
-20261002209,Commissariat Régional au Développement Agricole d'El Kef,21/10/2026,"Appel d'offres n° 16/2026 Travaux de fourniture, installation et essais d'équipements hydromécaniques et électriques pour les stations de pompage, dans le cadre du projet d'aménagement de deux périmètres irrigués (SKD18 et SKD1) dans la délégation de Kalaa en 2 lot Khasba.",23/11/2026 09:00,avis_ao,10
-20260500092,Ministère de la Défense Nationale,21/10/2026,أشغال بناء مكتب جهوي لإسترجاع مصاريف العلاج بجندوبة لفائدة وزارة الدفاع الوطني,20/11/2026 10:00,avis_ao,8
-20261002204,Office National de l'Assainissement,21/10/2026,"l'élaboration de l'étude de faisabilité d'un système d'interception, de régulation et de transfert des rejets des pôles d'épuration Sud Méliane, El Attar et El Allef vers l'Émissaire en mer projeté dans la zone sud de Tunis dans le cadre du dépollution d'oued Méliane.",24/11/2026 11:00,avis_ao,12
-20261002203,Société Tunisienne des Indsutries de Raffinage,21/10/2026,SOUSCRIPTION DES CONTRATS D'ASSURANCES POUR L'EXERCICE 2027,23/11/2026 10:00,avis_ao,11
-20261002201,Société Tunisienne d'Electricité et de Gaz,21/10/2026,Etablissement d'un Marché Cadre annuel et renouvelable deux fois au maximum portant sur la fourniture de produits chimiques pour le parc de production d'électricité de la STEG.,09/12/2026 09:00,avis_ao,26
-20261002200,Office National de l'Assainissement,21/10/2026,l'acquisition de matériels roulants,24/12/2026 10:00,avis_ao,42
-20261002163,Ministère de l'Agriculture,21/10/2026,Etude d'exécution et assistance technique de contrôle d'exécution du barrage collinaire Er Riahi,24/11/2026 10:30,avis_ao,12
-20261002170,Office National de l'Assainissement,21/10/2026,"la fourniture, le chargement, le transport et le déchargement de pièces en fonte.",24/11/2026 10:00,avis_ao,12
-20261002169,Office National de l'Assainissement,21/10/2026,"la réalisation des travaux d'exécution des réseaux primaires d'assainissement en eaux usées de la ville de Soukra dans le gouvernorat de l'Ariana- Tranche 1 : Fourniture, transport et pose de conduites, génie civil et équipement des stations de pompage.",08/12/2026 10:00,avis_ao,26
-20261002118,Hopital regional de jendouba,21/10/2026,التزود بمواد غذائية,15/11/2026 10:00,avis_ao,3
-20261002167,Régie Nationale des Tabacs et des Allumettes,21/10/2026,Acquisition de housses,20/11/2026 10:00,avis_ao,8
-20261002166,Agence nationale du médicament et des produits de santé,21/10/2026,Acquisition des équipements de laboratoire,20/11/2026 10:00,avis_ao,8
-20261002165,Commune Bir Mcherga,21/10/2026,réhabilitation et revêtement des voiries à cité elkhadhra- bir mcherga,23/11/2026 10:00,avis_ao,11
-20261002164,Agence nationale du médicament et des produits de santé,21/10/2026,La fourniture et la mise en circulation de matériels roulant,20/11/2026 09:00,avis_ao,7
-20261002162,Hôpital régional de kébili,21/10/2026,اقتناء مستلزمات قسم تصفية الدم و قسم الأشعة,21/11/2026 10:00,avis_ao,9
-20261002161,Commissariat régional de l'éducation de Sousse,21/10/2026,Travaux D'extension aux Ecoles Primaires Gouvernorat De Sousse AO N° 05-2026 -2eme fois-,19/11/2026 10:00,avis_ao,7
-20261002159,Commune d'Enfidha,21/10/2026,Projet d'embellissement de l'avenue de la république,19/11/2026 10:00,avis_ao,7
-20261002158,Conseil regional de ben arous,21/10/2026,انجاز مشروع اقتناء وتركيز مولد كهربائي بمقر ثكنة الأمن الوطني حي المزوغي بن عروس,27/11/2026 10:00,avis_ao,15
-20261000685,Hôpital Sahloul de Sousse,21/10/2026,ACHAT DE DISPOSITIFS MEDICAUX POUR LE SERVICE DE CARDIOLOGIE,24/11/2026 11:00,avis_ao,12
-20261002157,Centre Régional de Contrôle des Impôts Medenine,21/10/2026,Appel d'offre à procédure simplifiée relancé pour la deuxième fois travaux d'aménagement et d'entretien au siège de bureau de garantie Houmet Souk Djerba Medenine,20/11/2026 10:00,avis_ao,8
-20261002155,Ministère de la Défense Nationale,21/10/2026,Travaux de construction d'un bâtiment et un mur de soutènement à la caserne de ZAAROUR,20/11/2026 10:00,avis_ao,8
-20261002154,Gouvernorat de sousse,21/10/2026,أشغال تهيئة و تعبيد مسالك ريفية وطرقات بالتجمعات الريفية بولاية سوسة ضمن البرنامج الجهوي للتنمية لسنة 2026,23/11/2026 10:00,avis_ao,11
-20261002156,Ecole Nationale d'Ingénieurs de Gabès,21/10/2026,"Acquisition, installation et mise en service d'équipements informatiques au profit des laboratoires de recherche de l'École Nationale d'Ingénieurs de Gabès (ENIG).",16/11/2026 14:30,avis_ao,4
-20261002153,Ecole Supérieure des Ingénieurs de Medjez El Bab,21/10/2026,Achat et Transport des Produits Alimentaire au profit du Restaurant Universitaire 2027,23/11/2026 10:00,avis_ao,11
-20261001953,Agence Foncière Industrielle,21/10/2026,"Fourniture, installation et mise en service d'une centrale photovoltaique au SOL 35 KWC raccordée au reseau BT/STEG en régime d'autoproduction pour l'allimentation intelligente du réseau d'éclairage public de la zone industrielle d'EL AGBA1",24/11/2026 09:00,avis_ao,11
-20261002152,Hôpital Régionale de Bengardane,21/10/2026,approvisionnement des produits de nutritions pour 2027,18/11/2026 09:00,avis_ao,5
-20261002150,Commune de Grombalia,21/10/2026,تهيئة المحيط الخارجي للسوق الاسبوعي,20/11/2026 09:00,avis_ao,7
-20261002139,Commissariat Régional au Développement Agricole de Gabès,21/10/2026,Acquisition de 03 tracteurs et 05 citernes en 02 lots,24/11/2026 10:00,avis_ao,12
-20261002149,Commune de Gremda,21/10/2026,projet d'éclairages public programme 2026,23/11/2026 10:00,avis_ao,11
-20261002143,Conseil régional de Sidi Bouzid,21/10/2026,PROJET D'AMENAGEMENT DE LA BIBLIOTHÈQUE PUBLIQUE DE SIDI ALI BEN AOUN,23/11/2026 10:00,avis_ao,11
-20261002138,Commissariat Régional au Développement Agricole de Gabès,21/10/2026,Acquisition d'une tractopelle,23/11/2026 10:00,avis_ao,11
-20261002147,Commune Ouechtata Jmila,21/10/2026,اقتناء وسائل نقل ومعدات نظافة,19/11/2026 11:00,avis_ao,7
-20261001570,Société Nationale des Chemins de Fer Tunisiens,21/10/2026,ACQUISITION DE DIVERSES BATTERIES ET PILES,01/12/2026 10:00,avis_ao,19
-20261002146,Commissariat régional de l'éducation de Béja,21/10/2026,AO N°05/2026 2 EME FOIS lot 02 Réaménagement et Entretien de l'école primaire maagoula 1 (tranche 3),23/11/2026 10:00,avis_ao,11
-20261002145,Commune de Soukra,21/10/2026,Balayage des rues dans la ville de la Soukra pour l'année 2026 .,23/11/2026 10:00,avis_ao,11
-20261002144,Centre d'Essais et des Techniques de Construction,21/10/2026,Etalonnage d'accessoires et de matériels d'essais,20/11/2026 09:30,avis_ao,8
-20261002142,Société de Transport du Sahel,21/10/2026,acquisition d'une plateforme Hyperconvergée,25/11/2026 14:00,avis_ao,13
-20261002141,Commissariat régional de l'éducation de Gafsa,21/10/2026,Construction d'une salle préparatoire et entretien de l'Ecole Primaire 2 Mars Hawel El Oued à Belkhir - Gafsa,25/11/2026 09:30,avis_ao,13
-20261002140,Commissariat régional des affaires de la femme et de la famille de Sidi Bouzid,20/10/2026,Acquisition d'équipements de cuisine et de restauration pour les complexes de l'enfance à Sidi Bouzid au titre de l'année 2026 (pour la deuxième fois),19/11/2026 10:00,avis_ao,7
-20261002136,Commune d'Enfidha,20/10/2026,صفقة جمع و نقل النفايات المنزلية و الشبيهة بمدينة النفيضة,18/11/2026 11:00,avis_ao,6
-20261002128,ولاية منوبة,20/10/2026,اعلان الدعوة للمنافسة لاختيار مهندس معماري اومجمع مهندسين معماريين لدراسة و متابعة انجاز مشروع تهئة المباني بكلية الاداب و العلوم الانسانية بمنوبة,23/11/2026 10:00,avis_ao,11
-20261002121,Commissariat Régional au Développement Agricole de Nabeul,20/10/2026,أشغال تشجير غابي لمساحة100هكتار من أشجار الصنوبر بدار شيشو بمعتمدية الهوارية ولاية نابل,24/11/2026 14:00,avis_ao,12
-20261002126,Cité Nationale Sportive,20/10/2026,"Fourniture des produits de traitement des eaux des piscines d'el Menzah, Rades, Ezzahra & Ben Arous",20/11/2026 10:00,avis_ao,8
-20261002125,Société Régionale de Transport du Gouvernorat de Sfax,20/10/2026,ACQUISITION DE TICKETS RESTAURANTS AU PROFIT DU PERSONNEL DE LA SORETRAS,20/11/2026 10:00,avis_ao,8
-20261002123,Commissariat Régional de Développement Agricole de Bizerte,20/10/2026,لاختيار مكتب دراسات قصد دراسة إعادة تهيئة شبكات الماء الصالح للشراب بكل من منطقة بني مغيس، منطقة الزروتين ومنطقة عين ميزاب من معتمدتي ماطر وغزالة,19/11/2026 10:00,avis_ao,7
-20261002101,Commissariat Régional au Développement Agricole de Mahdia,20/10/2026,إنجاز أشغال تعهد مشروع الماء الصالح للشرب المعاطي من معتمدية شربان,19/11/2026 10:00,avis_ao,7
-20261002119,Commissariat Régional de Développement Agricole de Bizerte,20/10/2026,إختيار مكتب دراسات أو مجمع مكاتب دراسات قصد القيام بدراسة تتعلق بالتقييم النهائي لمشروع التنمية الفلاحية المندمجة بغزالة جومين وسجنان (المرحلة الثانية) وإعداد دراسة المرحلة الثالثة,20/11/2026 10:00,avis_ao,8
-20261002115,Commissariat regional de la jeunesse et des sports de sfax,20/10/2026,صفقة ذات إجراءات مبسطة عــــــدد 07/2026 إقتناء تجهيزات رياضية,20/11/2026 08:00,avis_ao,7
-20261002117,Caisse Nationale de Retraite et de Prévoyance Sociale,20/10/2026,صفقة إطارية لإنجاز خدمات البستنة والعناية بالمساحات الخضراء بالأحياء السكنية والمقرات الإدارية التابعة للصندوق الوطني للتقاعد والحيطة الاجتماعية والكائنة بتونس الكبرى لثلاث سنوات,20/11/2026 09:00,avis_ao,7
-20261002116,Ministère des Technologies de la communication et de l'économie numérique,20/10/2026,Pour la réalisation du projet : « Acquisition et mise en place d'un Système d'aide à l'exploitation et d'Information Voyageurs SAEIV au profit des sociétés nationales et régionales de transport terrestre»,18/12/2026 10:00,avis_ao,36
-20261002107,Commune zriba,20/10/2026,PROJET DE CONSTRUCTION D'UNE MAISON DES JEUNES ZRIBA VILLAGE,20/11/2026 10:00,avis_ao,8
-20261002108,Office de l'Aviation Civile et des Aéroports,20/10/2026,FOURNITURE ET MISE EN SERVICE DES GROUPES ELECTROGENES ET DES MATS D'ECLAIRAGE MOBILES,03/12/2026 10:00,avis_ao,21
-20261001200,Ministère de la Défense Nationale,20/10/2026,ACQUISITION MATÉRIEL ESSENCE,20/11/2026 10:00,avis_ao,8
-20261002099,Office des Logements Militaires,20/10/2026,أشغال توسعة وتهيئة الحي العسكري وبناء مركّب عسكري بقفصة على ثلاثة أقساط,23/11/2026 10:00,avis_ao,11
-20261002106,Société Djebel Djérissa,20/10/2026,ACQUISITION MOYENS DE TRANSPORT,24/11/2026 10:00,avis_ao,12
-20261002105,"Ministère de l'Equipement, l'habitat et l'aménagement du territoire",20/10/2026,Fourniture de lubrifiants nécessaires aux divers services dépendant de l'ensemble des Administrations Publiques,26/11/2026 09:00,avis_ao,13
-20261002103,Société Djebel Djérissa,20/10/2026,ACQUISITION ENGINS DE CARRIERE,20/11/2026 10:00,avis_ao,8
-20261002102,Conseil Régional du Gouvernorat de Nabeul,20/10/2026,تجديد الشبكة الكهربائية بالمستشفى الجهوي بمنزل تميم,23/11/2026 10:00,avis_ao,11
-20261002096,Société des Transports de Tunis,20/10/2026,ACQUISITION DE JOINT EN CAOUTCHOUC (JAQUETTE) POUR VOIE EN BETON,01/12/2026 10:00,avis_ao,19
-20261001952,Commissariat régional de l'éducation de Sidi Bouzid,20/10/2026,التأمين الذاتي (تجهيزات مراقبة) للمدارس الابتدائية بسيدي بوزيد,19/11/2026 09:30,avis_ao,7
-20261001819,Société des Transports de Tunis,20/10/2026,FOURNITURE ET MISE EN SERVICE DES CARTES SIM M2M,26/11/2026 10:00,avis_ao,14
-20261002100,Agence Nationale de la Protection de l'Environnement,20/10/2026,ELABORATION D'UN MANUEL DE PROCEDURES POUR L'ANPE,18/11/2026 10:00,avis_ao,6
-20261001620,Commune de Sakiet Ezzit,20/10/2026,تهيئة قصر المؤتمرات بساقية الزيت,19/11/2026 10:00,avis_ao,7
-20261001957,Hôpital Charles Nicolle de Tunis,20/10/2026,TRAVAUX DE PRE INSTALLATION D'UNE TABLE TELECOMMANDEE ET D'UN CAPTEUR PLAN,26/11/2026 10:00,avis_ao,14
-20261002098,Commissariat Régional au Développement Agricole de Béja,20/10/2026,دراسة إيجاد مورد مائي و إعادة تهيئة المنطقة السقوية العمومية بن صندل (114 هك) من معتمدية تستور من ولاية باجة(2),24/11/2026 10:00,avis_ao,12
-20261002097,Prison sidi bouzid,20/10/2026,طلب عروض عدد 01-2026 للمرة الثانية لإقتناء مواد غذائية عامة لفائدة سجن سيدي بوزيد,20/11/2026 10:00,avis_ao,8
-20261002095,Commissariat régional de l'éducation de Sfax 2,20/10/2026,إنجاز أشغال تهيئة وصيانة بالمؤسسات التربوية الراجعة بالنظر للمندوبية الجهوية للتربية بصفاقس2,19/11/2026 09:30,avis_ao,7
-20261002094,Commissariat régional de l'éducation de Sfax 2,20/10/2026,إنجاز أشغال توسيعات بالمؤسسات التربوية الراجعة بالنظر للمندوبية الجهوية للتربية بصفاقس2,18/11/2026 09:30,avis_ao,6
-20261002093,Caisse Nationale de la Sécurité Sociale,20/10/2026,Acquisition de produits chimiques au profit des Unités d'hémodialyse des Policliniques de la CNSS,24/11/2026 12:00,avis_ao,12
-20261002092,Agence Nationale de Certification Electronique,20/10/2026,APPEL D'OFFRES A PROCEDURES SIMPLIFIEES N°07/2026 portant sur « La réalisation des sessions de formation au profit du personnels de l'ANCE »,20/11/2026 10:00,avis_ao,8
-20261002091,Office des œuvres universitaires du sud,20/10/2026,Acquisition des équipements de cuisine au profit des établissements de l'office des œuvres universitaires pour le sud,20/11/2026 10:00,avis_ao,8
-20261002090,Commune d'El Mourouj,19/10/2026,تامين أسطول وسائل النقل و المعـــدات و البناءات لمدة 3 سنوات 2027-2028-2029,23/11/2026 10:00,avis_ao,11
-20261002089,Commune Joumine,19/10/2026,"Travaux d'aménagement et de réhabilitation des trottoirs du groupement résidentiel de Bazina, relevant de la Commune de Joumine.",18/11/2026 10:00,avis_ao,6
-20261002082,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Bizerte",19/10/2026,projet de réhabilitation du réseau d'éclairage public de la RN 11,16/11/2026 09:00,avis_ao,3
-20261002084,Commissariat Régional au Développement Agricole de Kairouan,19/10/2026,إقتناء الة جارفة Chargeuse sur Pneus,19/11/2026 15:00,avis_ao,7
-20261001870,Office de la Marine Marchande et des Ports,19/10/2026,MISE EN PLACE D'UNE PLATEFORME MATERIELLE ET LOGICIELLE POUR L'EDITION DU LIVRET PROFESSIONNEL DES GENS DE MER A L'OFFICE DE LA MARINE MARCHANDE ET DES PORTS,19/11/2026 10:00,avis_ao,7
-20261001828,Société Nationale de Distribution de Pétrole,19/10/2026,Acquisition de trois camions plateaux en deux lots séparés au profit de la Société Nationale de Transport des Pétroles Agil Energy.,18/11/2026 09:30,avis_ao,6
-20261001848,Office de la Marine Marchande et des Ports,19/10/2026,"FOURNITURE, INSTALLATION ET MISE EN SERVICE DES HORODATEURS AUTOMATIQUES POUR LA DÉLIVRANCE DES TICKETS AU PROFIT DES DIRECTIONS DES PORTS COMMERCIAUX DE LA TUNISIE",20/11/2026 10:00,avis_ao,8
-20261001863,Institut de l'olivier,19/10/2026,Acquisition et installation stations photovoltaiques,17/11/2026 10:00,avis_ao,5
-20261001817,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de l'Ariana",19/10/2026,TRAVAUX D'ENTRETIEN DES PISTES RURALES (PISTE JABBES DANS LA DELEGATION DE SIDI THABET) RELEVANT DE LA DIRECTION REGIONALE DE L'EQUIPEMENT DE L'ARIANA PROGRAMME 2026 DU PK5 AU PK10 DANS LE GOUVERNORAT DE L'ARIANA,25/11/2026 10:00,avis_ao,13
-20261001830,Commune de Jendouba,19/10/2026,Acquisition 420 Conteneurs métallique de capacité 770 litres,16/11/2026 10:00,avis_ao,4
-20261001542,Société Tunisienne d'Electricité et de Gaz,19/10/2026,تكليف عدد 64 من المحامين المباشرين أو الشركات المهنيّة للمحاماة لنيابة الشركة التونسية للكهرباء والغاز لدى المحاكم وسائر الهيئات القضائيّة,23/12/2026 09:00,avis_ao,40
-20261001829,ولاية منوبة,19/10/2026,مشروع تهيئة وصيانة مركز الصحة الاساسية ببرج النور من معتمدية برج العامري,20/11/2026 10:00,avis_ao,8
-20261001826,Centre de Calcul El-Khawarizmi,19/10/2026,la maintenance (curative et préventive) liée à l'exploitation des licences oracle,19/11/2026 10:00,avis_ao,7
-20261001824,Hôpital Fattouma Bourguiba de Monastir,19/10/2026,Réfection électrique des deux unités de cathétérisme cardiaque au CHU FATTOUMA BOURGUIBA DE MONASTIR,19/11/2026 10:00,avis_ao,7
-20261001825,Commune ennour,19/10/2026,اقتناء معدات إعلامية و تركيز شبكة معلوماتية لفائدة بلدية النور,23/11/2026 10:00,avis_ao,11
-20261001662,Commissariat régional de l'éducation de Gafsa,19/10/2026,Construction de 2 salles normale au Lycée Zannouche à Gafsa,23/11/2026 09:30,avis_ao,11
-20261001823,Assemblée des représentants du peuple,19/10/2026,"Support, assistance, maintenance et développement des plateformes web Open source de l'Assemblée des Représentants du Peuple",20/11/2026 10:00,avis_ao,8
-20261001822,Télévision Tunisienne,19/10/2026,ETUDE DE REAMENAGEMENT DE LA COUPOLE AU 3 EME ETAGE,12/11/2026 13:00,avis_ao,0
-20261001821,Gouvernorat Kasserine,19/10/2026,أشغال تعبيد وترصيف وتنوير حي الخضراء بمعتمدية سبيطلة ولاية القصرين ضمن برنامج التنمية الحضرية المتكاملة,19/11/2026 09:30,avis_ao,7
-20261001820,Agence Foncière Industrielle,19/10/2026,"Mission de Direction, de Coordination et de Surveillance des travaux d'aménagement de la Zone Industrielle RAS EL MERJ.",23/11/2026 09:00,avis_ao,10
-20261001611,Agence de protection et d 'amenagement du littoral,19/10/2026,Acquisition de véhicules • Lot 1 : Quatre (04) camionnettes Pick-up 4*4 double cabine gazoil • Lot 2 : Trois (03) Voitures de service essence,30/11/2026 10:00,avis_ao,18
-20261001814,Cité Universitaire Sbra,19/10/2026,اقتناء مواد غذائية خلال سنة 2027,18/11/2026 12:00,avis_ao,6
-20261001818,Gouvernorat de Sfax,19/10/2026,01/2027--إعاشة قوات الأمن الداخلي بصفاقس,19/11/2026 10:00,avis_ao,7
-20261001815,Société Tunisienne d'Electricité et de Gaz,19/10/2026,"L'étude, la fabrication, les essais en usines, la fourniture, le transport à pied d'œuvre, le montage, les essais et la mise en service de quatre (4) postes mobiles 225-150/33Kv (pour le lot 1) et L'étude, la fabrication, les essais en usines, la fourniture, le transport à pied d'œuvre, le montage, les essais et la mise en service d'un (1) poste mobile 90/33kV (pour le lot 2).",01/12/2026 09:00,avis_ao,18
-20261001663,Conseil régional de Mahdia,19/10/2026,إعاشة أعوان قوات الأمن الداخلي بالمهدية خلال سنة 2027,20/11/2026 10:00,avis_ao,8
-20261001812,Hôpital Militaire Principal d'Instruction de Tunis,19/10/2026,إقتناء وتركيب وتشغيل مكيفات مشعة مع تفكيك مكيفات قديمة,20/11/2026 10:00,avis_ao,8
-20261001811,Société de Transport du Sahel,19/10/2026,صفقة اطارية لاقتناء زخارف و وسادات الفرامل لسنوات 2027-2028-2029,04/12/2026 10:00,avis_ao,22
-20261001810,Commune Essaaida,19/10/2026,ACQUISITIOND'UNE CAMIONNETTE PICK-UP 4X4 (DOUBLE CABINE)ET D'UN CAMION A ECHELLE EN 2 LOTS,23/11/2026 10:00,avis_ao,11
-20261001809,Commissariat Régional au Développement Agricole de Jendouba,19/10/2026,Acquisition et transport de sac de culture biodégradable et filet d'ombrage,18/11/2026 10:00,avis_ao,6
-20261001642,Hôpital Militaire Principal d'Instruction de Tunis,19/10/2026,إقتناء مستهلكات طبية مع الوضع على الذمة لآلة طبية لفائدة قسم الجراحة العامة,20/11/2026 10:00,avis_ao,8
-20261001645,Gouvernorat de Tozeur,19/10/2026,توسيع مكتب الاداءات بتوزر,19/11/2026 09:30,avis_ao,7
-20261001609,Conseil Régional du gouvernorat de Mednine,19/10/2026,تهيئة مركز الإعلامية الموجهة للطفل بمدنين,18/11/2026 09:30,avis_ao,6
-20261001636,Restaurant universitaire rejich mahdia,17/10/2026,طلب عروض وطني عـ02/2026ـدد لتزويد المطعم الجامعي برجيش بالمواد الغذائية خلال سنة 2027,17/11/2026 10:00,avis_ao,5
-20261001635,Centre mahmoud yacoub d'assistance medicale urgente,17/10/2026,لوازم طبية ذات الإستعمال الواحد,18/11/2026 11:00,avis_ao,6
-20261001633,Hôpital Régional du Kef,17/10/2026,Tenue de travail année 2026 hôpital regional du kef,17/11/2026 11:00,avis_ao,5
-20261001632,Restaurant Universitaire Aghalba kairouan,17/10/2026,اقتناء مواد غذائية للمطعم الجامعي الأغالبة بالقيروان لسنة 2027,16/11/2026 13:00,avis_ao,4
-20261001631,Hôpital Habib Bourguiba Sfax,17/10/2026,Installation d'un groupe électrogène au service samu 04,17/11/2026 13:00,avis_ao,5
+20261100513,"Ministère de l'Equipement, l'habitat et l'aménagement du territoire",10/11/2026,CONCOURS NATIONAL D'ARCHITECTURE À UN DEGRÉ PROJET DE CONSTRUCTION DE L'INSTITUT SUPÉRIEUR D'INFORMATIQUE À L'ARIANA ISI-ARIANA,12/01/2027 09:00,avis_ao,59
+20261100502,Office des Terres Domaniales,10/11/2026,Acquisition Poussins d'un jour Ponte,27/11/2026 09:00,avis_ao,13
+20261100499,Office des Terres Domaniales,10/11/2026,Acquisition Poussins d'un jour chair,26/11/2026 09:00,avis_ao,12
+20261100145,Hôpital Charles Nicolle de Tunis,10/11/2026,Approvisionnement en réactifs au profit du laboratoire d'immunologie de l'hôpital Charles Nicolle.,30/11/2026 10:00,avis_ao,17
+20261100524,Centre de formation et de préparation de l'Elite sportive de Gabes,09/11/2026,fourniture de repas pour elite sportive gabes,08/12/2026 11:00,avis_ao,25
+20261100519,le théâtre de l'opéra,09/11/2026,Choix d'une agence de voyage Théâtre de l'Opéra (pour la 2 -ème fois),14/12/2026 12:00,avis_ao,31
+20261100518,le théâtre de l'opéra,09/11/2026,Location des voitures pour Théâtre de l'Opéra (pour la 2 ème fois),30/11/2026 12:00,avis_ao,17
+20261100512,Conseil Régional De Bizerte,09/11/2026,NOURRITURES,09/12/2026 10:00,avis_ao,26
+20261100510,Agence de Réhabilitation et de Rénovation Urbaine,09/11/2026,APPEL D'OFFRES N°92 /2026 Travaux de Réhabilitation du quartier El Gharbi dans la Commune de Dhiba. Gouvernorat de Tataouine Programme de Réhabilitation et d'Intégration des Quartiers d'Habitation - 2ème génération,14/12/2026 12:00,avis_ao,31
+20261100507,Commune de Sousse,09/11/2026,Marché Cadre d'entretien des engins municipaux 2027-2029 (Pieces de rechanges et mains d'œuvre),24/11/2026 14:00,avis_ao,11
+20261100501,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Medenine",09/11/2026,TRAVAUX DE RENFORCEMENT DE RESEAU DES PISTES RURALES AU GOUVERNORAT DE MEDENINE PROGRAMME 2026,11/12/2026 10:00,avis_ao,28
+20261100500,Le Conseil régional Zaghouan,09/11/2026,أشغال إتمام تهيئة القرية الحرفية بزغوان قسط 2,09/12/2026 10:00,avis_ao,26
+20261100498,Hôpital Régional du Kef,09/11/2026,Projet d'extension et de construction d'un bâtiment (salle d'eau service d'hémodialyse),24/11/2026 13:00,avis_ao,11
+20261100497,Institut Pasteur de Tunis,09/11/2026,La mise à disposition d'un analyseur automatisé autonome neuf et la fourniture de réactifs.,09/12/2026 10:00,avis_ao,26
+20261100496,Commune de sakiet eddaier,09/11/2026,اقتناء معدات نظافة لفائدة بلدية ساقية الدائر ( ااعادة القسط عدد 02 و القسط عدد 03 ),09/12/2026 09:00,avis_ao,25
+20261100492,Commissariat régionale de la femme de la famille et de l'enfance à Tataouine,09/11/2026,تزويد مركبات الطفولة بتطاوين بالمواد الغذائية لسنة 2027,10/12/2026 09:00,avis_ao,26
+20261100348,ولاية منوبة,09/11/2026,تهيئة قاعة الرياضات الفردية علي الزواوي بدوار هيشر,10/12/2026 10:00,avis_ao,27
+20261100491,Pharmacie Centrale de Tunisie,09/11/2026,APPEL D'OFFRES INTERNATIONAL MEDICAMENTS A USAGE HUMAIN OFFICINES – 2026 POSTE INFRUCTUEUX N°4 (A.O.I N° X/2026 PI),09/12/2026 10:00,avis_ao,26
+20261100490,Conseil régional de Mahdia,09/11/2026,Construction d'une unité de dialyse à la Chebba,11/12/2026 10:00,avis_ao,28
+20261100484,Société Nationale d'Exploitation et de Distribution des Eaux,09/11/2026,Travaux de chauffage central aux bâtiments de la SONEDE à JBAL LAHMAR et à MEGRINE,09/12/2026 09:00,avis_ao,25
+20261100328,Commune Touiref,09/11/2026,nettoyage et balayage de la ville de touiref,27/11/2026 10:00,avis_ao,14
+20261100489,Commissariat régional de l'éducation de Tataouine,09/11/2026,construction de 04 classes a 3 ecoles primaires,10/12/2026 09:00,avis_ao,26
+20261100488,Commune de Ben Gardène,09/11/2026,"إقتناء معدات النظافة والطرقات برنامج 2026"" القسط عدد 02 : إقتناء عدد (01) صهريج إفراغ الخنادق",10/12/2026 10:00,avis_ao,27
+20261100485,Société Tunisienne d'Electricité et de Gaz,09/11/2026,ACQUISITION ET DÉPLOIEMENT D'UNE SOLUTION SCADA DE SECOURS DU DISPATCHING GAZ,06/01/2027 09:00,avis_ao,53
+20261100487,المستشفى المحلي بحفوز,09/11/2026,achat dispositifs médicaux à usage unique pour service hémodialyse,11/12/2026 09:00,avis_ao,27
+20261100486,Commissariat régional de l'éducation de Gabès,09/11/2026,تهيئة و صيانة المؤسسات التربوية,09/12/2026 09:00,avis_ao,25
+20261100483,Conseil Régional de Tunis,09/11/2026,أشغال تركيز مكثفات كهربائية احتياطية بالسيجومي,10/12/2026 10:00,avis_ao,27
+20261100480,Office de la Marine Marchande et des Ports,09/11/2026,ÉTUDE DE REFECTION DES QUAIS DE LA RIVE SUD DU PORT DE GABES,15/12/2026 10:00,avis_ao,32
+20261100477,Gouvernorat de Gafsa,09/11/2026,PROJET d'entretien du Centre Intégré pour les Jeunes et les Enfants de Gafsa,10/12/2026 10:00,avis_ao,27
+20261100476,Direction Générale des Impôts,09/11/2026,Appel d offre selon les procedures simplifiees n 012026 Pour la 3eme fois relatif a l Acquisition de Meubles,26/11/2026 10:00,avis_ao,13
+20261100387,Office du Commerce de Tunisie,09/11/2026,AO 19 2026 Relatif au Transport Terrestre des Conteneurs (MARCHE CADRE 2027-2028-2029),08/12/2026 10:00,avis_ao,25
+20261100474,Commune El Alâa,08/11/2026,acquisition tractopelles (puissance entre 85 et 105 cv),09/12/2026 10:00,avis_ao,26
+20261100473,"Faculté des Sciences Mathématiques, Physiques et Naturelles de Tunis",07/11/2026,Acquisition des Equipements d'enseignement au profit de la Faculté des Sciences de Tunis.,28/11/2026 10:00,avis_ao,15
+20261100472,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Tunis",06/11/2026,إقتناء محوّلات تحت أرضية لفائدة شبكة التنوير العمومي بولاية تونس,07/12/2026 10:00,avis_ao,24
+20261100471,Agence de formation dans les Métiers du Tourisme,06/11/2026,"Souscription de contrats d'assurance couvrant les risques liés à l'activité de l'Agence de formation dans les métiers du tourisme pour les années 2027, 2028 et 2029.",07/12/2026 10:00,avis_ao,24
+20261100470,Commissariat Régional au Développement Agricole de Kairouan,06/11/2026,تهيئة المدخل الرئيسي لمأوى السيارات بالمندوبية الجهوية للتنمية الفلاحية بالقيروان,23/11/2026 10:00,avis_ao,10
+20261100469,Centre National de Formation et de Perfectionnement,06/11/2026,طلب عـروض عـدد 05/2026 وفق الإجراءات المبسطة *للمرة الثانية * في الأقساط عدد 5-6-7 و8 المتعلق باقتناء أجهزة تلفاز و تجهيزات إعلامية لفائدة المركز الوطني للتكوين و تطويرالكفاءات و جميع فروعه الجهوية,25/11/2026 10:00,avis_ao,12
+20261100468,Gouvernorat de Gafsa,06/11/2026,أشغال بناء قوس بمدخل مدينة المتلوي بإتجاه قفصة للمرة الثانية للمرة السادسة,19/11/2026 10:00,avis_ao,6
+20261100467,Commissariat Régional au Développement Agricole de Kairouan,06/11/2026,تهيئة المدخل الرئيسي لماوى السيارات بالمندوبية الجهوية للتنمية الفلاحية بالقيروان,23/11/2026 10:00,avis_ao,10
+20261100466,Gouvernorat de Gafsa,06/11/2026,أشغال بناء قوسين بمدخل المظيلة - بلدية المظيلة للمرة السادسة,19/11/2026 10:00,avis_ao,6
+20261100465,Gouvernorat de Gafsa,06/11/2026,أشغـال تهيئة دار الشباب المظيلة (برنامج 2023) للمرة الخامسة,19/11/2026 10:00,avis_ao,6
+20261100464,Commissariat régional de l'éducation de Tunis,06/11/2026,تعهد و صيانة معهد قرطاج حنبعل,07/12/2026 09:00,avis_ao,23
+20261100463,Conseil Régional de Monastir,06/11/2026,Travaux de démolition et de reconstruction de la bibliothèque publique de Beni Hassan,07/12/2026 10:00,avis_ao,24
+20261100462,Conseil Régional de Monastir,06/11/2026,PROJET ENTRETIEN DE ISET KASR HELLEL,04/12/2026 10:00,avis_ao,21
+20261100460,"Ministère de l'Equipement, l'habitat et l'aménagement du territoire",06/11/2026,"Projet de Construction de LA 1ere TRANCHE DE L'INSTITUT SUPÉRIEUR DU SPORT ET DE L'EDUCATION PHYSIQUE DE GAFSA en lot unique (Génie Civil, VRD, Fluides, Electricité, Elévateur, Sécurité Incendie et VDI)",14/12/2026 09:00,avis_ao,30
+20261100461,Hôpital Régional Slim Hadhari de Kerkennah,06/11/2026,إعاشة المرضى المقيمين و مرضى تصفية الدم و أطباء الإستمرار,23/11/2026 10:00,avis_ao,10
+20261100384,Office National de l'Assainissement,06/11/2026,la réalisation des travaux d'assainissement en eaux usées des cités nozha et communale dans le gouvernorat de Manouba,15/12/2026 10:00,avis_ao,32
+20261100457,Conseil régional de Mahdia,06/11/2026,احداث ملعب كرة قدم مصغّر بالشحيمات الشمالية من معتمدية أولاد الشامخ (ضمن برنامج التنمية المندمجة القسط الثالث).,02/12/2026 10:00,avis_ao,19
+20261100459,Commune d'Akouda,06/11/2026,TRAVAUX D'ENTRETIEN DES VOIRIES DANS LE CADRE DU DEUXIEME TRANCHE DU PROGRAMME DU MODERNISATION DES VOIRES A LA COMMUNE D'AKOUDA,08/12/2026 10:00,avis_ao,25
+20261100458,Commune de Manouba,06/11/2026,مشروع تعصير الطرقات ببلدية منوبة,08/12/2026 10:00,avis_ao,25
+20261100455,"Ministère de l'Equipement, l'habitat et l'aménagement du territoire",06/11/2026,RECRUTEMENT D'UN AUDITEUR INDEPENDANT POUR LA PREPARATION DE L'AUDIT ANNUEL DE CONFORMITE ET DE PERFORMANCE ENVIRONNEMENTALE ET SOCIALE ; (EXERCICE 2026-2027-2028),09/12/2026 09:00,avis_ao,25
+20261100456,Conseil Régional de Tunis,06/11/2026,étude géotechnique pour le projet Construction de la centre de la sureté national cité hlal,09/12/2026 10:30,avis_ao,26
+20261100454,Institut National de la Météorologie,06/11/2026,ACQUISITION DE PIECES DE RECHANGE POUR LES SYSTEMES D'OBSERVATION METEOROLOGIQUE,11/12/2026 10:11,avis_ao,28
+20261100365,Société Nationale d'Exploitation et de Distribution des Eaux,06/11/2026,AO 139/2026 pour la conclusion d'un marché cadre ayant objet l'exécution de l'ensemble des travaux de extension et entretien du réseau dans le district Jendouba (Gouvernorat de Jendouba),09/12/2026 09:00,avis_ao,25
+20261100367,Société Nationale d'Exploitation et de Distribution des Eaux,06/11/2026,"AO 141/2026 pour la conclusion d'un marché cadre d'exécution de l'ensemble des travaux d'extension du réseau et rénovation de conduites, exécution des nouveaux branchements et report des prises dans les délégations de Sfax Ville et Sfax Ouest au Gouvernorat de Sfax.",09/12/2026 09:00,avis_ao,25
+20261100453,Commune de Zaouiet Sousse,06/11/2026,Étude de révision et d'extension du plan d'aménagement urbain de la commune de Zaouiet Sousse.,08/12/2026 10:00,avis_ao,25
+20261100452,Conseil Régional de Tunis,06/11/2026,هدم وإعادة بناء السور الخارجي للمعهد العالي لإطارات الطفولة بقرطاج درمش,09/12/2026 10:00,avis_ao,26
+20261100451,Commune de Gremda,06/11/2026,projet de construction d'un local archives sanitaires et douches au parc municipal de gremda sfax,07/12/2026 10:00,avis_ao,24
+20261100364,Société Tunisienne d'Electricité et de Gaz,06/11/2026,Acquisition de micro-ordinateurs de bureau,08/12/2026 09:00,avis_ao,24
+20261100449,Ministère de l'Agriculture,06/11/2026,اقتناء و تركيز أبواب و نوافذ من الأليمنيوم ببعض المباني بالحي الإداري المركزي وزارة الفلاحة,11/12/2026 10:30,avis_ao,28
+20261100448,Commissariat régional de l'éducation de Kébili,06/11/2026,صيانة المجموعات الصحية بالمدرسة الابتدائية الفردوس رجيم معتوق للمرة الثانية,09/12/2026 10:00,avis_ao,26
+20261100446,Commune El Aouabed-Khazanet,06/11/2026,"Travaux d'extension du réseau d'éclairage public dans la municipalité d'El Awabed – El Khazzanat, répartis en deux lots.",07/12/2026 10:00,avis_ao,24
+20261100442,Institut National Des Grandes Cultures,06/11/2026,ACQUISITION MATERIEL AGRICOLE,16/12/2026 09:30,avis_ao,33
+20261100403,hopital regional de zaghouane,06/11/2026,التزود بالمعدات و التجهيزات الطبية و الاثاث في اطار تو سعة المستشفي الجهوي بزغوان,07/12/2026 10:00,avis_ao,24
+20261100404,Commissariat régional de l'éducation de Kébili,06/11/2026,اقتناء قطع غيار لفائدة سيارات المندوبية الجهوية للتربية بقبلي لسنة 2027,07/12/2026 10:00,avis_ao,24
+20261100396,"Ministère de l'Equipement, l'habitat et l'aménagement du territoire",06/11/2026,Travaux d'Aménagement et de Revêtement de 28.5 Km de Pistes Rurales Dans le Gouvernorat de Sfax : Lot 1 (15.5 km) et Lot 2 (13 km),15/12/2026 09:30,avis_ao,32
+20261100395,Groupe Chimique Tunisien,06/11/2026,SF26.3.0002:تحرير عقود شراء قطع ارض بالصخيرة لفائدة المجمع الكيميائي التونسي ( جهة صفاقس) على ستة اقساط,08/12/2026 10:00,avis_ao,25
+20261100394,Commissariat Régional au Développement Agricole de Médenine,06/11/2026,أشغال انجاز محطة التحلية ببنيري من معتمدية بن قردان,09/12/2026 10:00,avis_ao,26
+20261100393,Commune de Boumhel El Bassatine,06/11/2026,Acquisition de matériels de propreté et de voirie au profit de la commune de Boumhel El Bassatine,15/12/2026 10:00,avis_ao,32
+20261100347,"Ministère de l'Equipement, l'habitat et l'aménagement du territoire",06/11/2026,"Travaux d'Aménagement et de Revêtement de 39.4 Km de Pistes Rurales Dans le Gouvernorat de Sidi Bouzid: Lot 3 (14.4 km), Lot 4 (11 km) et Lot 5 (14 km)",15/12/2026 09:30,avis_ao,32
+20261100388,Ministère du Tourisme et de l'Artisanat,06/11/2026,Acquisition de 04 voitures de service pour le ministère du tourisme,26/11/2026 12:30,avis_ao,13
+20261100386,Gouvernorat de Kébili,06/11/2026,بناء قاعة ألعاب فردية بالقلعة-قبلي,07/12/2026 10:30,avis_ao,24
+20261100385,TUNISAIR,06/11/2026,Remplacement du complexe d'étanchéité des terrasses du siège de Tunisair.,08/12/2026 09:00,avis_ao,24
+20261100162,Commune de Sfax,06/11/2026,خدمات كراء معدات لرفع و جمع و نقل نفايات مختلفة و أشغال مختلفة وفق 07 أقساط,25/11/2026 10:00,avis_ao,12
+20261100383,Commissariat régional de l'éducation de Béja,06/11/2026,اشغال بناء أسيجة ببعض المؤسسات التربوية بولاية باجة المدرسة الإعدادية ابن خلدون تيبار المدرسة الابتدائية مستوتة باجة الجنوبية معهد الطاهر بن عاشور نفزة,07/12/2026 10:00,avis_ao,24
+20261100382,Hôpital Aziza Othmana de Tunis,06/11/2026,appel d'offre pour l'approvisionnement de l'hopital en tissu-tenu de travail pour les services hospitaliers (AO pour les petites entreprises) 3ème fois,26/11/2026 10:00,avis_ao,13
+20261100345,"Ministère de l'Equipement, l'habitat et l'aménagement du territoire",06/11/2026,"Travaux d'Aménagement et de Revêtement de 47.46 Km de Pistes Rurales Dans le Gouvernorat de Kasserine : Lot 6 (20.19 km), Lot 7 (13.19 km) et Lot 8 (14.08 km)",15/12/2026 09:30,avis_ao,32
+20261100381,Entreprise Tunisienne des Activités Pétrolières,06/11/2026,mise à jour du système du système de messagerie,08/12/2026 09:00,avis_ao,24
+20261100379,Société Régionale de Transport du Gouvernorat de Sfax,06/11/2026,FOURNITURE DE LUBRIFIANTS POUR LE MATERIEL ROULANT DE LA SORETRAS,07/12/2026 12:00,avis_ao,24
+20261100380,Gouvernorat de Tozeur,06/11/2026,أشغال تهيئة و تعبيد انهج بمعتمدية تمغزة في اطار برنامج التنمية المندمجة (القسط الثالث).,07/12/2026 09:30,avis_ao,24
+20261100371,Hopital Ettadhamen,06/11/2026,travaux de création d'une unité de scannographie,07/12/2026 10:00,avis_ao,24
+20261100372,Conseil regional de ben arous,06/11/2026,انجاز مشاريع تعبيد الطرقات والمسالك الفلاحية المندرجة ضمن البرنامج الجهوي للتنمية لسنة 2025,15/12/2026 10:00,avis_ao,32
+20261100370,Institut National de Neurologie Tunis,06/11/2026,ACQUISITION DES PRODUITS DESINFECTANTS,25/11/2026 10:00,avis_ao,12
+20261100369,Gouvernorat de Jendouba,06/11/2026,أشغــال تهيئة وتعبيد مسالك ريفية بولاية جندوبة ضمن البرنامج الجهوي للتنمية لسنة 2026 (موزعة على 05 أقساط),09/12/2026 10:00,avis_ao,26
+20261100366,Commune de Sousse,06/11/2026,Appel d'offre pour choix de bureau d'étude multidisciplinaire ou groupement d'experts pour l'exécution d'étude de construction et de renouvellement voirie et trottoirs de la ville de Sousse programme 2026-2027,10/12/2026 14:00,avis_ao,27
+20261100363,CENTRE NATIONAL DU CINÉMA ET DE L'IMAGE,05/11/2026,"Appel d'offres n°05/2026 selon les Procédures simplifiées LOCATION DE MATRIEL DE SONORISATION, LUMIERE, PROJECTEUR VIDEO, SCENE ET STRUCTURE ALUMINIUM AU PROFIT DES JCC 2026",23/11/2026 12:00,avis_ao,10
+20261100362,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Ben Arous",05/11/2026,Mission de suivi et assistance des travaux de remise en état des dégradations causées par les inondations sur la route régionale N°35 du PK 14+200 au PK 15+000dans le Gouvernorat de Ben Arous De 14+200 à 15+000 NK.,07/12/2026 10:00,avis_ao,24
+20261100361,Ministère de l'Enseignement Supérieur et de la Recherche Scientifique,05/11/2026,Acquisition de Minibus au profit des Instituts Supérieurs des Études Technologiques,23/12/2026 09:00,avis_ao,39
+20261100360,Centre Technique des Industries Mécaniques et Electriques,05/11/2026,Fourniture et Installation d'un système solaire photovoltaïque raccordé au réseau moyenne tension sous le régime d'autoproduction au profit du CETIME,25/11/2026 12:00,avis_ao,12
+20261100359,بلدية حمام الأغزاز,05/11/2026,acquisition d'un camion satellite 5 m3 pour commune hammem el aghzez,09/12/2026 10:00,avis_ao,26
+20261100358,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Nabeul",05/11/2026,MISSION DE SUIVI ET ASSISTANCETECHNIQUE DES TRAVAUX D'AMÉNAGEMENT DUN ECHANGEUR POUR L'ACCES A LA ZONE INDUSTRIELLE DE BOUARGOUB-HACHED A TRAVERS LA RN1 DANS LE GOUVERNOURAT DE NABEUL,07/12/2026 10:00,avis_ao,24
+20261100356,Société Nationale d'Exploitation et de Distribution des Eaux,05/11/2026,"La Fourniture, le transport et la mise en marche des équipements au laboratoire central de la SONEDE sis au complexe de Ghedir El Golla.",09/12/2026 09:00,avis_ao,25
+20261100353,"Ministère de l'Equipement, l'habitat et l'aménagement du territoire",05/11/2026,Etude d'un réseau d'éclairage public pour neuf échangeurs autoroutiers répartis sur la A2 (Autoroute Tunis-Jelma) et la rocade El Fahs,08/12/2026 09:30,avis_ao,25
+20261100354,Hôpital Régional Mohamed Ben Sassi - Gabes,05/11/2026,Travaux d'installation de revêtement du sol en PVC de deux salles de blocs et service réanimation à l'Hôpital Universitaire de Gabès,20/11/2026 11:00,avis_ao,7
+20261100346,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Mahdia",05/11/2026,"MISSION DE CONTROLE, DE SUIVI ET D'ASSISTANCE TECHNIQUE DES TRAVAUX DE RENFORCEMENT DE LA RR96) DU PK 58 AU PK 96.5( DANS LE GOUVERNORAT DE MAHDIA",08/12/2026 10:00,avis_ao,25
+20261100344,Régie Nationale des Tabacs et des Allumettes,05/11/2026,Aquisition de 40 000 Plateaux en Polystyrène Alvéolés,07/12/2026 10:00,avis_ao,24
+20261100342,Commune de Chihia,05/11/2026,"PROJET DE CONSTRUCTION DE CHAUSSEES DANS LA COMMUNE DE CHIHIA PROGRAMME 2026"" Lot N1 ET LOT N2 """,08/12/2026 10:00,avis_ao,25
+20261100336,Commune d'Ariana,05/11/2026,Travaux d'aménagement et rénovation du réseau d'éclairage public dans la COMMUNE DE L'ARIANA programme 2024,08/12/2026 10:00,avis_ao,25
+20261100322,Commune d'Oum Laraies,05/11/2026,تهيئة وتعبيد المسلك الريفي بمنطقة الشنوفية بأم العرائس,03/12/2026 10:00,avis_ao,20
+20261100333,Hôpital régional de kébili,05/11/2026,اقتناء حاجيات مطبخ المستشفى الجهوي بقبلي لسنة 2027,07/12/2026 10:00,avis_ao,24
+20261100332,Conseil régional de Gabès,05/11/2026,مشروع. تعشيب الملعب البلدي بمطماطة الجديدة,08/12/2026 09:00,avis_ao,24
+20261100326,Commisariat régional de l'éducation de Sfax 1,05/11/2026,أشغال تهيئة وصيانة المدرسة الإبتدائية التحرير,07/12/2026 10:00,avis_ao,24
+20261100331,Commissariat Régional au Développement Agricole de Médenine,05/11/2026,إحداث شبكة نقاط ري بمياه التحلية ببنيري معتمدية بن قردان,08/12/2026 10:00,avis_ao,25
+20261100330,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de l'Ariana",05/11/2026,PROJET DE NETTOYAGE DES ROUTES AU GOUVERNORAT DE L'ARIANA DANS LE CADRE DU PROGRAMME D'ENTRETIEN 2025/2026,07/12/2026 10:00,avis_ao,24
+20261100329,Commissariat régional des affaires et de la femme à Jendouba,05/11/2026,تزويد مركبات الطفولة بولاية جندوبة ( مركب الطفولة جندوبة، مركب الطفولة فرنانة، مركب الطفولة غار الدماء، مركب الطفولة بوسالم) بالمواد الغذائية,04/12/2026 10:00,avis_ao,21
+20261100327,Commissariat régional de l'éducation de Tataouine,05/11/2026,Entretien du drotoir lycee tataouine2,09/12/2026 09:00,avis_ao,25
+20261100325,Commissariat Régional au Développement Agricole de Médenine,05/11/2026,اقتناء وتركيز تجهيزات هيدروميكانيكية و كهربائية على الآبار العميقة,07/12/2026 10:00,avis_ao,24
+20261100323,Commune Touiref,05/11/2026,voiries et eclairage public aux zones d'extension de touiref,04/12/2026 10:00,avis_ao,21
+20261100324,Office de l'Aviation Civile et des Aéroports,05/11/2026,ÉTUDE TECHNIQUE DU PROJET DE CONSTRUCTION D'UN HANGAR ET DES BÂTIMENTS ANNEXES A L'AEROPORT TUNIS CARTHAGE,08/12/2026 10:00,avis_ao,25
+20261100320,TUNISAIR,05/11/2026,ACQUISITION DES EQUIPEMENTS INFORMATIQUES POUR TUNISAIR,07/12/2026 09:00,avis_ao,23
+20261100321,Commissariat Régional de Développement Agricole de Bizerte,05/11/2026,اقتناء عدادات إلكترونية لمياه الري و توابعها بالمناطق السقوية العمومية ببنزرت,24/11/2026 10:00,avis_ao,11
+20261100319,Commissariat Régional au Développement Agricole de Gafsa,05/11/2026,تجهيز البئر العميقة الزنايدية بمعدات هيدروميكانكية و طاقة شمسية و ربطها بشبكة التوزيع,03/12/2026 12:00,avis_ao,20
+20261100318,Commissariat régional de l'éducation de Tataouine,05/11/2026,entretien du depot de commissariat regional de l'education tataouine,08/12/2026 09:00,avis_ao,24
+20261100311,Office du Thermalisme,05/11/2026,acquisition des matériels pour le laboratoire,07/12/2026 10:00,avis_ao,24
+20261100317,Agence Tunisienne de la Formation Professionnelle,05/11/2026,"Marché général : souscription des contrats d'assurances pour les années 2027, 2028 et 2029 sous forme d'un lot unique, des différents risques inhérents à leurs activités et à leurs responsabilités pour l'ATFP, l'ANETI et le CNFCPP",09/12/2026 10:00,avis_ao,26
+20261100300,Conseil régional du gouvernorat du Kef,05/11/2026,مشروع تهيئة وتوسعة دارالشباب بملاق نبر القسط الثاني,04/12/2026 10:00,avis_ao,21
+20261100302,Commissariat Régional de Développement Agricole de Bizerte,05/11/2026,"Exécution de travaux d'entretien et d'élargissement des tranchés pare feu dans la forêt de Jbel L'Ahmar Ommaden délégation de Sejnaine sur une longueur de 21,5 km",20/11/2026 10:00,avis_ao,7
+20261100301,Société Tunisienne d'Electricité et de Gaz,05/11/2026,Marche cadre annuel renouvelable deux fois maximum pour le transport terrestre du matériel de la direction centrale distribution Electricité et gaz,15/12/2026 09:00,avis_ao,31
+20261100299,Ministère de l'Agriculture,05/11/2026,Etude de la composante marché de poisson prévu dans le cadre du projet d'extension et d'aménagement du port de pêche de TEBOULBA,10/12/2026 10:30,avis_ao,27
+20261100298,Agence Nationale pour la Maîtrise de l'Energie,05/11/2026,تصميم وإنجاز وسائل اتصالية,07/12/2026 10:00,avis_ao,24
+20261100297,Faculté des Sciences Economiques et de Gestion de Sfax,05/11/2026,achat de data center,30/11/2026 10:00,avis_ao,17
+20261100296,Commissariat régional de l'éducation de Tataouine,05/11/2026,entretien de l'ecole preparatoire maztouriya et ecole preparatoire elferech,07/12/2026 09:00,avis_ao,23
+20261100295,Société Promosport,05/11/2026,إقتناء سيارات,04/12/2026 10:00,avis_ao,21
+20261100294,Commissariat régional de l'éducation de Sfax 2,05/11/2026,أشغال تهيئة وصيانة المدرسة الابتدائية 2مارس 1934و أشغال تهيئة وصيانة المدرسة الابتدائية مركز العجمي,04/12/2026 09:30,avis_ao,21
+20261100293,"Commissariat régional de la femme, de la famille et de l'enfance et des personnes âgées de Kairouan",04/11/2026,Acquisition de denrées alimentaires au profit des complexes d'enfance 2027,04/12/2026 10:00,avis_ao,21
+20261100255,Office National de l'Assainissement,04/11/2026,Les travaux de réhabilitation du système d'abaissement du niveau d'eau de la Sebkha de l'Ariana à la délégation de Raoued - Gouvernorat de l'Ariana,08/12/2026 11:00,avis_ao,25
+20261100257,Office National de l'Assainissement,04/11/2026,"l'élaboration des études d'exécution pour la réhabilitation, la rénovation et l'extension de la station d'épuration de la ville de Kasserine selon le procédé boue activée faible charge , avec la mise en place d'un traitement tertiaire et d'une centrale photovoltaïque.",24/12/2026 11:00,avis_ao,41
+20261100292,Commune De Beni Khalled,04/11/2026,ACQUISITION DE MATERIEL DE PROPRETE ET VOIRIES AU PROFIT DU COMMUNE DE BENI KHALLED,03/12/2026 10:00,avis_ao,20
+20261002083,Ministère de la Défense Nationale,04/11/2026,إقتناء معدات مغاسل,04/12/2026 10:00,avis_ao,21
+20261001610,Ministère de la Défense Nationale,04/11/2026,إقتناء (19) براكة معدنية مسبقة الصنع,04/12/2026 10:00,avis_ao,21
+20261100116,بلدية باردو,04/11/2026,اقتناء معدات نظافة وطرقات و وسائل نقل لفائدة بلدية باردو في اربعة أقساط: القسط الأول : آلة حفر و جرف TRACTOPELLE CHARGEUSE PELLETEUSE) القسط الثاني: Camion القسط الثالث : d'eau Citerne القسط الرابع :Voiture de Puissance 05CV,07/12/2026 10:00,avis_ao,24
+20261100291,Office du Commerce de Tunisie,04/11/2026,"AO 18 2026 ACQUISITION DE MATERIAUX D'ENSACHAGE, D'EMBALLAGE ET FILMS ETIRABLES POUR LE CONDITIONNEMENT DU SUCRE, RIZ ET THE AU TITRE DE L'ANNEE 2026",04/12/2026 10:00,avis_ao,21
+20261100035,Commune Ghraiba,02/11/2026,Étude d'élaboration et de révision du plan d'aménagement urbain de la municipalité d'El Ghraiba,18/11/2026 09:00,avis_ao,4
+20261100015,Hôpital régional de Tozeur,02/11/2026,20261000067-00 - FOUNITURE BESOINS DE RESTAURANT DE L 'HOPITAL 2027,04/12/2026 10:00,avis_ao,21
+20261100033,Conseil régional de Gabès,02/11/2026,اقتناء تجهيزات مختلفة لفائدة المؤسسات الشبابية ضمن البرنامج الجهوي للتنمية لسنة 2021 و2024 موزعة على ثلاثة أقساط (03),02/12/2026 10:00,avis_ao,19
+20261100032,Commune melloulech,02/11/2026,اقتناء معدات النظافة و الطرقات و تجهيزات أخرى,17/11/2026 10:00,avis_ao,4
+20261100023,Commune d'El Ain,02/11/2026,خدمات كنس الطرقات والأرصفة بالمنطقة البلدية بالعين لمدة سنة واحدة، قابلة للتجديد مرتين,02/12/2026 09:00,avis_ao,18
+20261100021,Commune menzel bouzaiene,02/11/2026,إنجاز أشغال تعبيد طرقات و ترصيف ببلدية منزل بوزيان و تهيئة ساحة سوق القلال,04/12/2026 10:00,avis_ao,21
+20261100017,Conseil régional de Sidi Bouzid,02/11/2026,أشغال بناء مبيت بسرية الأنياب بفوج التدخل للحرس الوطني بلسودة للمرة الثانية,04/12/2026 10:00,avis_ao,21
+20261100014,Gouvernorat de sousse,02/11/2026,Approvisionnement des deux restaurants des forces de sécurité intérieure à Sousse en denrées alimentaires au titre de l'année 2027.,03/12/2026 10:00,avis_ao,20
+20261100007,Agence Foncière Industrielle,02/11/2026,Acquisition de meubles de bureau au titre de l'année 2026 (2ème fois),02/12/2026 09:00,avis_ao,18
+20261100010,Hôpital Régional DE KHEIREDDINE,02/11/2026,Acquisition des produits et accessoires médicaux pour service d'Hémodialyse,02/12/2026 10:00,avis_ao,19
+20261100006,Commissariat Régional au Développement Agricole de Sousse,02/11/2026,اعادة تهيئة التجهيزات الهيدروميكانكية و الكهربائية بمحطة الضخ على المياه المعالجة بمساكن من ولاية سوسة,03/12/2026 10:00,avis_ao,20
+20261002914,Commune de Sousse,02/11/2026,Marché assurance flotte automobile et multirisque professionnelle 2027-2028-2029,03/12/2026 14:00,avis_ao,20
+20261100003,Gouvernorat de sousse,02/11/2026,أشغال إحداث ميداني مناورة بالمركز المندمج لرخص السياقة بسوسة,23/11/2026 10:00,avis_ao,10
+20261100002,Hôpital Militaire Principal d'Instruction de Tunis,02/11/2026,إقتناء مستلزمات طبية لفائدة قسم جراحة الشرايين وزرع الأعضاء,04/12/2026 10:00,avis_ao,21
+20261004183,Hôpital régional housine bouzeine Gafsa,31/10/2026,تزويد المستشفى الجهوي الحسين بوزيان بقفصة بأفلام و مستلزمات قسم الأشعة خلال سنتي 2027 و202,01/12/2026 10:00,avis_ao,18
+20261004182,Hôpital Habib Thameur de Tunis,31/10/2026,ACQUISITION DE REACTIFS AVEC LA MISE A DISPOSITION D'UNE SOLUTION ANALYTIQUE MULTIPARAMETRIQUE DE BIOCHIMIE ET IMMUNOANALYSE,20/11/2026 10:00,avis_ao,7
+20261004181,Groupement de santé de base Beja,31/10/2026,Acquisition de Produit et Equipement de nettoyage pour GSB Béja,28/11/2026 10:30,avis_ao,15
+20261004180,Hôpital Razi de Manouba,31/10/2026,acquisition des denrées alimentaires : poulailles,01/12/2026 12:00,avis_ao,18
+20261004176,Commune de Médenine,31/10/2026,Acquisition du matériel de propreté sous forme de trois (03) camion à benne tasseuse 16-17m3.,01/12/2026 10:00,avis_ao,18
+20261004175,Société Nationale du Transport Inter-Urbain,30/10/2026,Souscription de contrats d'assurances pour la période 2027-2028-2029,30/11/2026 10:00,avis_ao,17
+20261001538,Ministère de la Défense Nationale,30/10/2026,أشغال بناء مركب إداري وسور بقبلي لفائدة وزارة الدفاع الوطني,30/11/2026 10:00,avis_ao,17
+20261001539,Ministère de la Défense Nationale,30/10/2026,أشغال تهيئة مبنى بالعوينة,30/11/2026 10:00,avis_ao,17
+20261003881,Centre mahmoud yacoub d'assistance medicale urgente,30/10/2026,Relatif à l'acquisition de Produits chimiques et d'Accessoires de Laboratoire,30/11/2026 10:10,avis_ao,17
+20261001283,Ministère de la Défense Nationale,30/10/2026,أشغال تهيئة مركز البحوث العسكرية,30/11/2026 10:00,avis_ao,17
+20261001541,Ministère de la Défense Nationale,30/10/2026,أشغال توسعة مركز التكوين المهني وإنجاز مبنى بالعمران,30/11/2026 10:00,avis_ao,17
+20261004169,Commissariat régional de l'éducation de Sidi Bouzid,30/10/2026,Travaux de réhabilitation et entretien de L'école primaire AL MEZZOUNA,01/12/2026 09:30,avis_ao,18
+20261004173,Gouvernorat de Gafsa,30/10/2026,CONSTRUCTION D'UN SERVICE DE REANIMATION A L'HOPITAL REGIONAL DE METLAOUI,01/12/2026 10:00,avis_ao,18
+20261004170,Groupement de santé de base de Gafsa,30/10/2026,AQUISITION ET INSTALLATION D'UN GROUPE ELCTROGENE ET ENTRETIEN DE POSTE TRANSFORMATEUR ET ENTRETIEN DE RESEAU D'ELECTRICITE DE QUELQUES SERVICES A L'HOPITAL DE CIRCONSCRIPTION DE BELKHIR GAFSA,30/11/2026 10:00,avis_ao,17
+20261004168,Commune El Djem,30/10/2026,Aménagement et extension de l 'abattoir municipal d'el jem et de la station de prétraitement des rejets hydriques,01/12/2026 10:00,avis_ao,18
+20261004167,Commune El Aouabed-Khazanet,30/10/2026,Travaux de colecte et d'enlèvement des déchets Lot n° 01 :Doyenné d'Oyoun El Mayel et Doyenné d'El Awabed Lot n° 02 : Doyenné d'El Khazanat,30/11/2026 10:00,avis_ao,17
+20261004165,Radio tunisienne,30/10/2026,HABILLEMENT DU PERSONNEL DE LA RADIO TUNISIENNE- 2026,30/11/2026 10:00,avis_ao,17
+20261003844,Commissariat régional de l'éducation de Kasserine,30/10/2026,تهيئة وصيانة المؤسسات التربوية بالقصرين,30/11/2026 10:00,avis_ao,17
+20261003657,Ministère de la Défense Nationale,30/10/2026,Travaux de construction du Restaurant et cuisine à RJIM MAATOUG,16/11/2026 10:00,avis_ao,3
+20261002935,Ministère de la Défense Nationale,30/10/2026,L'acquisition et mise en place d'une plate-forme informatique pour héberger des applications,30/11/2026 10:00,avis_ao,17
+20261002966,Hôpital La Rabta de Tunis,30/10/2026,TRAVAUX DE REAMENAGEMENT ET EXTENSION DU POSTE DE TRANSFORMATION ELECTRIQUES MT/BT « P1 » A L'HOPITAL LA RABTA.,30/11/2026 09:00,avis_ao,16
+20261002968,Centre de Maternité et de Néonatalogie,30/10/2026,Fourniture des produits pharmaceutiques -Marché cadre-,07/12/2026 10:00,avis_ao,24
+20261002954,SMART TUNISIAN TECHNOPARKS,30/10/2026,TRAVAUX DE RENOVATION DES RESEAUX D'ECLAIRAGE EXTERIEUR DU POLE TECHNOLOGIQUE SMART TUNISIAN TECHNOPARKS « S2T » SIS A LA ROUTE DE RAOUED ELGAZALA - ARIANA,30/11/2026 10:00,avis_ao,17
+20261002950,بلدية باردو,30/10/2026,اسداء خدمات رفع ونقل النفايات المنزلية والشبيهة بمدينة باردو عن طريق صفقة اطارية لسنوات 2027-2028-2029 في قسطين القسط الأول : دائرة الحدائق القسط الثاني : دائرة قصر السعيد,08/12/2026 10:00,avis_ao,25
+20261002936,Agence Nationale pour la Maîtrise de l'Energie,30/10/2026,Sélection d'un bureau de communication pour la mise en œuvre d'une campagne de communication digitale pour la promotion de la mobilité électrique en Tunisie,30/11/2026 10:00,avis_ao,17
+20261002949,Commissariat Régional au Développement Agricole de Béja,30/10/2026,أشغال تهيئة المسلك الغابي المسيد – برج المراقبة المسيد بمعتمدية نفزة من ولاية باجة,02/12/2026 10:00,avis_ao,19
+20261002948,Commune regueb,30/10/2026,service de nettoyage et d'élagage de sarbres,01/12/2026 10:00,avis_ao,18
+20261002947,Direction régionale de l'équipement Kasserine,30/10/2026,: RENFORCEMENT DES PISTES-PROGRAMME 2027 DANS LE GOUVERNORAT DE KASSERINE REPARTIE EN 02 LOT: LOT N°1: PISTE SAHLA RELIANT KSAR TOUIL ET LIMITE GOUVERNORAT AVEC SIDI BOUZID (10.5 KM) DELEGATION HASSI EL FRID. LOT N°2: PISTE AIN JDAIDA RELIANT PISTE SIDI SHIL ET ECOLE AIN JDAIDA (2.5 km) DELEGATION THALA.,09/12/2026 09:30,avis_ao,26
+20261002943,Office National de l'Assainissement,30/10/2026,"Travaux de réparation et changement de quelques équipements à 1a station d'épuration de Sousse nord en trois lots ; Lot n°1, 2 et 3",01/12/2026 10:00,avis_ao,18
+20261002946,Commissariat Régional au Développement Agricole de Béja,30/10/2026,أشغال صيانة بعض المباني التابعة للمندوبية الجهوية للتنمية الفلاحية بباجة,01/12/2026 10:00,avis_ao,18
+20261002945,Commune de Menzel Elhayet,30/10/2026,طلب عروض عدد 4-2026 يتعلق بتكليف نحامي أو شركة مهنية للمحاماة لنيابة بلدية منزل الحياة لدى المحاكم و سائر الهيئات القضائية لسنوات 2026-2027-2028,26/11/2026 10:00,avis_ao,13
+20261002944,Hôpital Régional Mohamed Ben Sassi - Gabes,30/10/2026,L'acquisition & La Livraison Des Accessoires Médicaux pour service Pharmacie 2027,07/12/2026 11:00,avis_ao,24
+20261002941,Commune de bouargoub,30/10/2026,PROJET VOIRIE POUR LA COMMUNE DE BOUARGOUB,01/12/2026 10:00,avis_ao,18
+20261002677,Hôpital Sahloul de Sousse,30/10/2026,achat de pansements et ligatures,01/12/2026 11:00,avis_ao,18
+20261002937,Ministère de la Défense Nationale,30/10/2026,"La fourniture, transport et déchargement des miradors préfabriqué",30/11/2026 10:00,avis_ao,17
+20261002916,Centre National de la Cartographie et de laTélédétection,30/10/2026,Travaux de réalisation d'un terrain de sport au CNCT,30/11/2026 10:00,avis_ao,17
+20261002800,Gouvernorat Kasserine,30/10/2026,إستكمال بناء المسبح المغطى بالقصرين,01/12/2026 09:30,avis_ao,18
+20261001899,Centre d'Hydrographie et d'Oceanographie de la Marine Nationale,30/10/2026,Acquisition de matérielle de recherche,30/11/2026 10:00,avis_ao,17
+20261002932,Commissariat régional des affaires de la femme et de la famille de Sidi Bouzid,29/10/2026,"Acquisition et distribution de divers équipements et matériels dans le cadre de la mise en œuvre du programme d'insertion économique des femmes victimes de violence conjugale « Samida » pour l'année 2026, via le système de marchés publics en ligne TUNEPS.",23/11/2026 10:00,avis_ao,10
+20261002931,Conseil régional de Mahdia,29/10/2026,"أشغال تهيئة وتعبيد المسالك الريفيّة بمعتمديات سيدي علوان , بومرداس ,السواسي وشربان بولاية المهدية و أشغال صيانة وإصلاح القارعة لبعض المسالك الريفيّة والطرقات المرقّمة بولاية المهدية – موزع على قسطين (02 )",03/12/2026 10:00,avis_ao,20
+20261002930,Conseil Régional de Monastir,29/10/2026,CONSTRUCTION DU SIÈGE DU POSTE DE POLICE À MOKNINE OUEST,30/11/2026 10:00,avis_ao,17
+20261002792,Commune d'Oum Laraies,29/10/2026,اقتناء معدات النظافة والطرقات لفائدة بلدية أم العرائس لسنة 2026,30/11/2026 10:00,avis_ao,17
+20261002911,Direction régionale de l'équipement Kasserine,29/10/2026,"MISSION DE SUIVI ET D'ASSISTANCE TECHNIQUE D'ACHEVEMENT DES TRAVAUX DE RENFORCEMENT DE 368,3 KM DANS LES 24 GOUVERNORATS REPARTIS EN HUIT (08) LOTS : LOT 6 ACHEVEMENT DES TRAVAUX DE RENFORCEMENT DE 23 KM DANS LE GOUVERNORAT KASSERINE (PROGRAMME D'ENTRETIEN DU RÉSEAU CLASSÉ 2019 ET 2020)",30/11/2026 09:30,avis_ao,17
+20261002888,Société Tunisienne d'Electricité et de Gaz,29/10/2026,Acquisition de mobilier de bureau.,08/12/2026 09:00,avis_ao,24
+20261002883,Commune Hamet Jerid,29/10/2026,Acquisition de matériel de propreté et de voirie Acquisition d'une machine d'excavation et de terrassement d'une puissance de 97 à 105 ch,30/11/2026 10:00,avis_ao,17
+20261002872,Société des Transports de Tunis,29/10/2026,FOURNITURE ET DÉPLOIEMENT D'UNE SOLUTION DE SÉCURITÉ PÉRIMÉTRIQUE DU SYSTÈME D'INFORMATION DE LA SOCIÉTÉ DES TRANSPORTS DE TUNIS,08/12/2026 10:00,avis_ao,25
+20261002777,Conseil régional de Sidi Bouzid,29/10/2026,تزويد مطعم فوج التدخل للحرس الوطني بسيدي بوزيد بالمواد الغذائية العامة خلال سنة 2027,30/11/2026 10:00,avis_ao,17
+20261002869,"Ministère de l'Equipement, l'habitat et l'aménagement du territoire",29/10/2026,l'élaboration de l'étude du Schéma Directeur D'aménagement De La Zone Sensible Du Bassin Minier De Gafsa à l'horizon 2050,30/11/2026 09:10,avis_ao,16
+20261002868,Office National des Postes,29/10/2026,TRANSPORT ET TRAITEMENT DE FONDS EXPLOITES DANS LES UNITES COMMERCIALES DE LA POSTE TUNISIENNE,27/11/2026 12:00,avis_ao,14
+20261002867,Hôpital Régional Sadok Mkaddem de Djerba,29/10/2026,achats des produits alimentaires pour l'année 2027,03/12/2026 11:00,avis_ao,20
+20261002770,Hôpital Régional de Menzel Bourguiba,29/10/2026,ACQUISITION ACCESSOIRES MEDICAUX POUR SALLE DE CATHE SERVICE CARDIO,30/11/2026 10:00,avis_ao,17
+20261002859,Commune zriba,29/10/2026,CONSTRUCTION DE 07 LOCAUX COMMERCIAUX,30/11/2026 10:00,avis_ao,17
+20261002863,Ministère de l'Enseignement Supérieur et de la Recherche Scientifique,29/10/2026,Acquisition des Articles de quincaillerie pour le besoin de l'Administration Centrale (Pour la 2ème fois),30/11/2026 10:00,avis_ao,17
+20261002864,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Kairouan",29/10/2026,"Réalisation des travaux de réparation de trois ouvrages d'art sur la route nationale n° 12, dans le gouvernorat de Kairouan, pour l'année 2026.",30/11/2026 10:00,avis_ao,17
+20261002860,Hôpital de Circonscription de Thala,29/10/2026,aménagement de 03 salles informatiques DRS Kasserine,18/11/2026 10:00,avis_ao,5
+20261002862,Société Tunisienne de Sidérurgie ELFOULADH,29/10/2026,"Prestation de services des opérations de transit, dédouanement et transport des marchandises importées",04/12/2026 11:00,avis_ao,21
+20261002861,Conseil régional de siliana,29/10/2026,أشغال تهيئة و تعبيد المسالك الريفية بولاية سليانة ضمن البرنامج الجهوي للتنمية لسنة 2025 القسط عدد2,02/12/2026 10:00,avis_ao,19
+20261002775,Caisse Nationale de l'Assurance Maladie,29/10/2026,Portefeuille d'assurance du patrimoine de la CNAM pour la période du 01/01/2027 au 31/12/2029,01/12/2026 08:30,avis_ao,17
+20261002858,Société Tunisienne de Sidérurgie ELFOULADH,29/10/2026,"La démantèlement de la grue portique sur rails ""CAILLARD"" sis au quai sud du port Menzel Bourguiba - Bizerte",03/12/2026 11:00,avis_ao,20
+20261002769,Société des Transports de Tunis,29/10/2026,"FOURNITURE, INSTALLATION ET MISE EN MARCHE DE (03) TROIS PORTIQUES DE LAVAGE POUR BUS",03/12/2026 10:00,avis_ao,20
+20261002805,Ministère des Affaires de la Femme et de la Famille,29/10/2026,"FOURNITURE, POSE ET REALISATION DES INSTALLATIONS PHOTOVOLTAIQUE DANS LE CENTRE DE PROTECTION DES PERSONNES AGEES GAMMARTH RACCORDE AU RESEAU MOYENNE TENSION",03/12/2026 10:00,avis_ao,20
+20261002787,Commissariat régional de la jeunesse et des sports du kef,29/10/2026,اقتناء معدات وتجهيزات رياضية لفائدة المندوبية الجهوية بالكاف,15/11/2026 09:00,avis_ao,1
+20261002780,Conseil régional de Mahdia,29/10/2026,إتمام أشغال تهيئة المسالك الريفة في إطار البرنامج الجهوي للتنمية بولاية المهديّة لـــسنة 2020 – قسط عــدد 3( التدخل عدد 1)وبأشغال تعبيد المسالك الريفية في إطار البرنامج الجهوي للتنمية بولاية المهديّة لـــسنة 2023 – قسط عــدد 6 (التدخل عــــدد 2).,01/12/2026 10:00,avis_ao,18
+20261002331,Direction régionale de la santé de Monastir,29/10/2026,Acquisition et installation de 7 groupes électrogènes aux Hôpitaux de Circonscription de la Région Sanitaire de Monastir,27/11/2026 14:30,avis_ao,14
+20261002804,Commune El Amra,29/10/2026,إقتناء شاحنة قالبة حمولة 10 طن لفائدة بلدية العامرة برنامج 2026,23/11/2026 09:30,avis_ao,10
+20261002802,Commissariat régional de l'éducation de Zaghouan,28/10/2026,construction des salles prescolaires aux ecoles primaires au gouvernorat dezaghouan AO 43/2026,27/11/2026 10:00,avis_ao,14
+20261002801,Commissariat régional de l'éducation de Zaghouan,28/10/2026,projet d'entretien des ecoles primaires au gouvernorat de zaghouan pg 2023-2025 AO 47/2026,30/11/2026 10:00,avis_ao,17
+20261002798,"Commissariat régional de la femme, de la famille et de l'enfance et des personnes âgées de Kairouan",28/10/2026,"Acquisition d'équipements de cuisine, de pâtisserie, d'épicerie et de boucherie",27/11/2026 10:00,avis_ao,14
+20261002799,"Direction Régionale de l'Equipement, de l'Habitat et de l'Aménagement du Territoire de Tozeur",28/10/2026,TRAVAUX D'ENTRETIEN DU RESEAU ROUTIER AU GOUVERNORAT DE TOZEUR 2026 2 EME FOIS,27/11/2026 10:00,avis_ao,14
+20261002701,"Ministère de l'Equipement, l'habitat et l'aménagement du territoire",28/10/2026,Travaux de consolidation et mise en sécurité des ouvrages de protection contre les inondations réparti en 03 lots .,27/11/2026 09:00,avis_ao,13
+20261002793,Commissariat Régional au Développement Agricole de Kébili,28/10/2026,تعلية طوابي بحباك من الجريد الجاف,01/12/2026 09:30,avis_ao,18
+20261002795,le théâtre de l'opéra,28/10/2026,Tenue et Assistance comptable et Fiscale des exercices 2021-2022-2023 et 2024 du théâtre de l'opéra,27/11/2026 12:00,avis_ao,14
+20261002794,Conseil Régional du Gouvernorat de Nabeul,28/10/2026,أشغال تدعيم شبكة الماء الصالح للشراب بمنطقة جبل طريف من معتمدية قرنبالية- ب ج ت 2026-,30/11/2026 10:00,avis_ao,17
+20261002791,Commissariat régional de l'éducation de Kairouan,28/10/2026,AMENAGEMENT ET ENTRETIEN DU DORTOIR DE L'ECOLE PREPARATOIRE EL OUESLATIA EL OUESLATIA,30/11/2026 10:00,avis_ao,17
+20261002788,Office de Développement Sylvo Pastoral du Nord-Ouest,28/10/2026,Achat de 8 000 plants d'oliviers et de 4 000 plants de caroubiers,30/11/2026 10:00,avis_ao,17
+20261002786,Office de Développement Sylvo Pastoral du Nord-Ouest,28/10/2026,Aménagement de travaux de conservation des eaux et du sol pour la valorisation de l'eau verte dans les délégations de Fernana et Ghardimaou du Gouvernorat de Jendouba,02/12/2026 10:00,avis_ao,19
+20261002784,Hôpital Abderrahmane Mami de Pneumophistiologie,28/10/2026,Appel d'offres d'études auprès des bureaux d'études pluridisciplinaires ou des groupements de concepteurs multidisciplinaires en vue de réaliser un plan directeur immobilier qui répondra au projet d'établissement de l'hôpital,02/12/2026 09:00,avis_ao,18
+20261002785,Commissariat Régional au Développement Agricole de Zaghouan,28/10/2026,Construction d'un local de l'UGP du projet de développement et de promotion des filières agricole de Zaghouan,27/11/2026 10:03,avis_ao,14
+20261002783,Caisse Nationale de Retraite et de Prévoyance Sociale,28/10/2026,TRAVAUX DE REHABILITATION ET CONFORTEMENT PARTIEL DE LA CITEE LOCATIVE CNRPS DE SOUSSE,01/12/2026 09:00,avis_ao,17
+20261002781,Commissariat régional de l'éducation de Monastir,28/10/2026,تهيئة و صيانة بعض المعاهد بالمنستير,30/11/2026 10:00,avis_ao,17
+20261002779,Ministère du Tourisme et de l'Artisanat,28/10/2026,"Appel d'offres Selon les procédures simplifiées ""Conception, Développement et Mise en place d'une Plateforme Digitale du Fonds de développement de la compétitivité dans le secteur du tourisme « FODEC »""",18/11/2026 11:00,avis_ao,5
+20261002778,Commune de Morneguia,28/10/2026,ETUDE DE L'INSTALLATION DU RESEAUX D'ECLAIRAGE PUBLIC A LA VILLE DE MORNAGUIA,19/11/2026 10:00,avis_ao,6
