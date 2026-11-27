@@ -1,5 +1,421 @@
 [
   {
+    "numero_ao": "20261102627",
+    "acheteur_public": "Commissariat Régional de Développement Agricole de Bizerte",
+    "date_publication": "27/11/2026",
+    "objet_ao": "مشروع إعادة تهيئة منظومة الماء الصالح للشرب بمنطقة سيدي البشير من معتمدية جومين",
+    "dernier_delai": "28/12/2026 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102625",
+    "acheteur_public": "Commune de Douar Hicher",
+    "date_publication": "27/11/2026",
+    "objet_ao": "Location de matériel de nettoyage pour la municipalité de Douar Hicher (pour la deuxième fois)",
+    "dernier_delai": "18/12/2026 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102623",
+    "acheteur_public": "Société Régionale de Transport Gouvernorat de Nabeul",
+    "date_publication": "27/11/2026",
+    "objet_ao": "Habillement",
+    "dernier_delai": "15/01/2027 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102624",
+    "acheteur_public": "Complexe de la jeunesse Hammamet",
+    "date_publication": "27/11/2026",
+    "objet_ao": "اقتناء مواد غذائية",
+    "dernier_delai": "28/12/2026 09:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102622",
+    "acheteur_public": "Institut National de la Météorologie",
+    "date_publication": "27/11/2026",
+    "objet_ao": "SELECTION D’UN BUREAU D’ETUDES POUR LE DEVELOPPEMENT DE PRODUITS ET SERVICES SPECIFIQUES POUR LES SECTEURS DU TRANSPORT ET DE L’AGRICULTURE",
+    "dernier_delai": "12/01/2027 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102621",
+    "acheteur_public": "Ministère de l’Equipement, l’habitat et l’aménagement du territoire",
+    "date_publication": "27/11/2026",
+    "objet_ao": "maintenance et réparation des voitures administratives du DGSC 2027",
+    "dernier_delai": "21/12/2026 09:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102619",
+    "acheteur_public": "Commissariat Régional au Développement Agricole de Jendouba",
+    "date_publication": "27/11/2026",
+    "objet_ao": "Etude d’aménagement intégré et participatif des forets a Ain Draham dans le Gouvernorat de Jendouba",
+    "dernier_delai": "28/12/2026 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102366",
+    "acheteur_public": "Conseil régional de Sidi Bouzid",
+    "date_publication": "27/11/2026",
+    "objet_ao": "PROJET DE RÉAMÉNAGEMENT DE L'ATELIER DE SURETÉ NATIONALE DE SIDI BOUZID",
+    "dernier_delai": "30/12/2026 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102617",
+    "acheteur_public": "Commune Zouiet Kontoch",
+    "date_publication": "27/11/2026",
+    "objet_ao": "إقتناء آلة جارفة كبيرة الحجم 2م3",
+    "dernier_delai": "28/12/2026 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102368",
+    "acheteur_public": "Conseil régional de Sidi Bouzid",
+    "date_publication": "27/11/2026",
+    "objet_ao": "Réhabilitation du Complexe Culturel «Abou Baker EL GAMMOUDI » à Sidi Bouzid",
+    "dernier_delai": "30/12/2026 11:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102618",
+    "acheteur_public": "Société Tunisienne de Sidérurgie ELFOULADH",
+    "date_publication": "27/11/2026",
+    "objet_ao": "La fourniture de 04 lots de véhicules",
+    "dernier_delai": "14/01/2027 11:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102352",
+    "acheteur_public": "Hôpital Régional Hajj Ali Soua de Ksar Hellal",
+    "date_publication": "27/11/2026",
+    "objet_ao": "Acquisition des dispositifs médicaux pour le service hémodialyse",
+    "dernier_delai": "28/12/2026 13:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102615",
+    "acheteur_public": "Gouvernorat de Tozeur",
+    "date_publication": "27/11/2026",
+    "objet_ao": "أشغال تهيئة ترصيف بعض الشوارع و الانهج و المساحات الخضراء ببلدية نفطة",
+    "dernier_delai": "29/12/2026 09:30",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102616",
+    "acheteur_public": "Gouvernorat de Kébili",
+    "date_publication": "27/11/2026",
+    "objet_ao": "توسعة المركز الحدودي بالفوار- قبلي",
+    "dernier_delai": "04/01/2027 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102614",
+    "acheteur_public": "Agence Tunisienne de la Formation Professionnelle",
+    "date_publication": "27/11/2026",
+    "objet_ao": "Acquisition d'équipements pour formation en froid commercial pour divers centres de formation",
+    "dernier_delai": "05/01/2027 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102613",
+    "acheteur_public": "Commissariat régional de l’éducation de Kasserine",
+    "date_publication": "27/11/2026",
+    "objet_ao": "تهيئة وصيانة وتوسعة المؤسسات التربوية بالقصرين",
+    "dernier_delai": "28/12/2026 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102593",
+    "acheteur_public": "Commune d’Enfidha",
+    "date_publication": "27/11/2026",
+    "objet_ao": "projet d'entretien des espaces verts",
+    "dernier_delai": "28/12/2026 11:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102458",
+    "acheteur_public": "Gouvernorat de Kairouan",
+    "date_publication": "27/11/2026",
+    "objet_ao": "تزويد مطاعم الوحدات الأمنية بالقيروان والولاية بالمواد الغذائية العامة بعنوان سنة 2027",
+    "dernier_delai": "29/12/2026 11:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102451",
+    "acheteur_public": "Conseil régional de Sidi Bouzid",
+    "date_publication": "27/11/2026",
+    "objet_ao": "أشغال تهيئة مركب الطفولة أولاد حفوز ( ملعب متعدد الاختصاصات ) للمرة الثانية",
+    "dernier_delai": "29/12/2026 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102393",
+    "acheteur_public": "Commissariat régional de l’éducation de l’Ariana",
+    "date_publication": "27/11/2026",
+    "objet_ao": "Travaux de démolition et de reconstruction d'un mur de clôture au collège El Farabi Raoued",
+    "dernier_delai": "07/12/2026 09:30",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102392",
+    "acheteur_public": "Centre Régional de contrôle des Impots de Arous 1",
+    "date_publication": "26/11/2026",
+    "objet_ao": "أشغال صيانة و تهيئة مقر المركز الجهوي لمراقبة الأداءات بن عروس",
+    "dernier_delai": "28/12/2026 12:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102391",
+    "acheteur_public": "Centre Régional de Contrôle des Impôts de Ben Arous 2",
+    "date_publication": "26/11/2026",
+    "objet_ao": "أشغال تهيئة و صيانة مكتب مراقبة الأداءات حمام الشط التابع للمركز الجهوي لمراقبة الاداءات بن عروس 2(وفق الاجراءات المبسطة)",
+    "dernier_delai": "28/12/2026 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102390",
+    "acheteur_public": "Centre Régional de Contrôle des Impôts de Ben Arous 2",
+    "date_publication": "26/11/2026",
+    "objet_ao": "أشغال تهيئة و صيانة مكتب مراقبة الأداءات بومهل",
+    "dernier_delai": "28/12/2026 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102389",
+    "acheteur_public": "Agence nationale du médicament et des produits de santé",
+    "date_publication": "26/11/2026",
+    "objet_ao": "A.O. Relatif à l’acquisition de meuble de bureau pour l’Agence nationale du médicament et des produits de santé (ANMPS).",
+    "dernier_delai": "25/12/2026 12:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102388",
+    "acheteur_public": "Agence de Réhabilitation et de Rénovation Urbaine",
+    "date_publication": "26/11/2026",
+    "objet_ao": "APPEL A MANIFESTATION D’INTERET AMI N° 05/2026 ÉTUDES TECHNIQUES POUR LA REHABILITATION DES QUARTIERS RBADH EL GOUABSSIA ET EL HANA DANS LA COMMUNE DE SFAX (Suite à la résiliation du marché initial) PROGRAMME DE REHABILITATION ET D’INTEGRATION DES QUARTIERS D’HABITATION- 2ème GENERATION",
+    "dernier_delai": "08/03/2027 12:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102386",
+    "acheteur_public": "Fondation Nationale d’Amélioration de la Race Chevaline",
+    "date_publication": "26/11/2026",
+    "objet_ao": "acquisition d'aliment composé",
+    "dernier_delai": "28/12/2026 15:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102387",
+    "acheteur_public": "Caisse Nationale de Retraite et de Prévoyance Sociale",
+    "date_publication": "26/11/2026",
+    "objet_ao": "ETUDE, SUIVI, ET CONTROLE DE L’EXECUTION DES TRAVAUX DE CONFORTEMENT ET DE REHABILITATION DES IMMEUBLES CNRPS «CASABLANCA» A LA CITE ROMANA",
+    "dernier_delai": "25/12/2026 09:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102384",
+    "acheteur_public": "Institut National de la Statistique",
+    "date_publication": "26/11/2026",
+    "objet_ao": "AO N°05/2026 relatif à l'acquisition d'équipements et de matériel informatique au profit de l'INS au titre de l'année 2026",
+    "dernier_delai": "29/12/2026 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102383",
+    "acheteur_public": "Commune de Bouhajar",
+    "date_publication": "26/11/2026",
+    "objet_ao": "أشغال مشروع تعصير الطرقات ببلدية بوحجر",
+    "dernier_delai": "28/12/2026 11:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102382",
+    "acheteur_public": "Université de la Manouba",
+    "date_publication": "26/11/2026",
+    "objet_ao": "Aménagement d'un amphithéâtre à l'ISCAE (Manouba) et d'un amphithéâtre à l'ESSTED (Denden)",
+    "dernier_delai": "28/11/2026 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102376",
+    "acheteur_public": "Caisse Nationale de la Sécurité Sociale",
+    "date_publication": "26/11/2026",
+    "objet_ao": "Acquisition d’une centrale de traitement spécial des eaux pour le service d’hémodialyse de la policlinique CNSS El Omrane",
+    "dernier_delai": "29/12/2026 12:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102375",
+    "acheteur_public": "Commisariat régional de l’éducation de Sfax 1",
+    "date_publication": "26/11/2026",
+    "objet_ao": "تهيئة وصيانة المدرسة الإبتدائية اليزيدي",
+    "dernier_delai": "29/12/2026 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102374",
+    "acheteur_public": "Complexe Sanitaire du Jebel El Oust",
+    "date_publication": "26/11/2026",
+    "objet_ao": "اقتناء كابلات كهربائية نحاسية وأغلفة حماية من نوع PEHD",
+    "dernier_delai": "08/12/2026 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102372",
+    "acheteur_public": "Ecole Supérieure des Communications de Tunis",
+    "date_publication": "26/11/2026",
+    "objet_ao": "Installation d’un système de vidéosurveillance, de contrôle d’accès et d’un système d’anti-intrusion à l’Ecole Supérieure des Communications de Tunis",
+    "dernier_delai": "22/12/2026 13:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102373",
+    "acheteur_public": "Commisariat régional de l’éducation de Sfax 1",
+    "date_publication": "26/11/2026",
+    "objet_ao": "بناء قاعة عادية بالمدرسة الابتدائية حي الوفاء طينة",
+    "dernier_delai": "28/12/2026 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102363",
+    "acheteur_public": "Agence de Réhabilitation et de Rénovation Urbaine",
+    "date_publication": "26/11/2026",
+    "objet_ao": "APPEL D'OFFRES N° 102/2026 TRAVAUX DE CONSTRUTION D’UN ENSEMBLE RESIDENTIEL AU LOTISSEMENT EL WAFA SUR LES LOTS HC40-HC41 À EL MREZGUA AU GOUVERNORAT DE NABEUL (PHASE 2 : BLOCS : A et B)",
+    "dernier_delai": "29/12/2026 12:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102370",
+    "acheteur_public": "Ecole nationale de formation es sous officiers de police adjoints de Bizerte",
+    "date_publication": "26/11/2026",
+    "objet_ao": "ACHAT ALIMENTATION GENERALE AU PROFIT DES ELEVES DE L’ECOLE DE POLICE DE BIZERTE DURANT TOUTE L’ANNEE 2027",
+    "dernier_delai": "28/12/2026 10:30",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102371",
+    "acheteur_public": "Hôpital Abderrahmane Mami de Pneumophistiologie",
+    "date_publication": "26/11/2026",
+    "objet_ao": "ACCESSOIRES DE LABORATOIRE",
+    "dernier_delai": "29/12/2026 09:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102369",
+    "acheteur_public": "Commisariat régional de l’éducation de Sfax 1",
+    "date_publication": "26/11/2026",
+    "objet_ao": "تهيئة وصيانة بالم الإبتدائية الخليل ابن أحمد",
+    "dernier_delai": "28/12/2026 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102367",
+    "acheteur_public": "Centre National de Formation Continue et de Promotion Professionnelle",
+    "date_publication": "26/11/2026",
+    "objet_ao": "Acquisition des voitures utilitaires au profit du le CNFCPP",
+    "dernier_delai": "28/12/2026 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102365",
+    "acheteur_public": "Ministère des Affaires Etrangères",
+    "date_publication": "26/11/2026",
+    "objet_ao": "Acquisition d'une voiture et d'un tracteur avec ses accessoires.",
+    "dernier_delai": "16/12/2026 11:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102335",
+    "acheteur_public": "Centre de Maternité et de Néonatalogie",
+    "date_publication": "26/11/2026",
+    "objet_ao": "Fourniture des produits de nettoyage marché cadre",
+    "dernier_delai": "12/01/2027 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102362",
+    "acheteur_public": "Agence nationale de la cybersécurité",
+    "date_publication": "26/11/2026",
+    "objet_ao": "La souscription des contrats d’assurances de l’Agence Nationale de la CyberSécurité (ANCS) pour la période 2027-2028-2029",
+    "dernier_delai": "15/12/2026 12:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102359",
+    "acheteur_public": "Commune de la Marsa",
+    "date_publication": "26/11/2026",
+    "objet_ao": "Acquisition des Matériels de Propreté et des Voitures Utilitaires\" lot1(pour la 2éme fois)",
+    "dernier_delai": "28/12/2026 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102358",
+    "acheteur_public": "Hôpital La Rabta de Tunis",
+    "date_publication": "26/11/2026",
+    "objet_ao": "Acquisition des « sabots orthopédiques »",
+    "dernier_delai": "28/12/2026 09:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102357",
+    "acheteur_public": "Centre National de Formation Continue et de Promotion Professionnelle",
+    "date_publication": "26/11/2026",
+    "objet_ao": "Acquisition Equipements et Solutions Informatique",
+    "dernier_delai": "28/12/2026 09:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102355",
+    "acheteur_public": "Commune de Gafsa",
+    "date_publication": "26/11/2026",
+    "objet_ao": "اقتناء قطع غيار و بطاريات و إطارات و أطواق مطاطية لتعهد وسائل النقل و المعدات التابعة لبلدية قفصه لسنة 2027",
+    "dernier_delai": "28/12/2026 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102356",
+    "acheteur_public": "Commissariat régional de l’éducation de Tunis2",
+    "date_publication": "26/11/2026",
+    "objet_ao": "أشغال احداث مستودع تابع للمندوبية الجهوية للتربية تونس 2",
+    "dernier_delai": "28/12/2026 09:30",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102353",
+    "acheteur_public": "Régie des Alcools",
+    "date_publication": "26/11/2026",
+    "objet_ao": "Acquisition 20.000 hls alcool extra neutre surfin et 5.000 absolu",
+    "dernier_delai": "28/12/2026 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102354",
+    "acheteur_public": "Gouvernorat de Tataouine",
+    "date_publication": "26/11/2026",
+    "objet_ao": "تزويد مطعم فوج التدخل للحرس الوطني بتطاوين بالمواد الغذائية العامة خلال سنة 2027",
+    "dernier_delai": "28/12/2026 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102348",
+    "acheteur_public": "Conseil régional de Gabès",
+    "date_publication": "26/11/2026",
+    "objet_ao": "انجاز بئر للماء الصالح للشرب\"مطماطة 7\" بعمق 500 م في قسط وحيد في نطاق مشروع التنمية المندمجة بمطماطة القسط الثالث.",
+    "dernier_delai": "05/01/2027 09:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261102340",
+    "acheteur_public": "Agence de protection et d ’amenagement du littoral",
+    "date_publication": "26/11/2026",
+    "objet_ao": "souscription des contrats d’assurances pour l'Agence de Protection et d'Aménagement du Littoral de trois années",
+    "dernier_delai": "05/01/2027 10:00",
+    "categorie": "avis_ao"
+  },
+  {
     "numero_ao": "20261102333",
     "acheteur_public": "Commune Sidi Jedidi",
     "date_publication": "26/11/2026",
@@ -20,14 +436,6 @@
     "acheteur_public": "Institut Supérieur des Etudes Technologiques de Jerba",
     "date_publication": "26/11/2026",
     "objet_ao": "Acquisition d’équipements informatiques pour ISET Djerba Data Center",
-    "dernier_delai": "28/12/2026 09:30",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261102332",
-    "acheteur_public": "Commissariat régional de l’éducation de Tunis2",
-    "date_publication": "26/11/2026",
-    "objet_ao": "أشغال احداث مستودع تابع للمندوبية الجهوية للتربية تونس 2",
     "dernier_delai": "28/12/2026 09:30",
     "categorie": "avis_ao"
   },
@@ -93,14 +501,6 @@
     "date_publication": "26/11/2026",
     "objet_ao": "Fourniture d’un (01) lot de sacs tubulaires à gueule ouverte de 50 kg pour ensachage d’engrais granulés pour l’Usine M’dhilla1 du Groupe Chimique Tunisien",
     "dernier_delai": "23/12/2026 09:30",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261102319",
-    "acheteur_public": "Agence nationale du médicament et des produits de santé",
-    "date_publication": "25/11/2026",
-    "objet_ao": "A.O. Relatif à l’acquisition de meuble de bureau pour l’Agence nationale du médicament et des produits de santé (ANMPS).",
-    "dernier_delai": "24/12/2026 12:00",
     "categorie": "avis_ao"
   },
   {
@@ -236,7 +636,7 @@
     "acheteur_public": "Gouvernorat de Tozeur",
     "date_publication": "25/11/2026",
     "objet_ao": "تسديد الحاجيات السنوية لمطعم قوات الفوج الجهوي لحفظ النظام بتوزر خلال سنة 2027",
-    "dernier_delai": "28/12/2026 09:30",
+    "dernier_delai": "25/12/2026 10:00",
     "categorie": "avis_ao"
   },
   {
@@ -776,8 +1176,8 @@
     "categorie": "avis_ao"
   },
   {
-    "numero_ao": "",
-    "acheteur_public": "",
+    "numero_ao": "20261102230",
+    "acheteur_public": "Commissariat Régionale de la Jeunesse et des sports de jendouba",
     "date_publication": "23/11/2026",
     "objet_ao": "اقتناء معدات رياضية لفائدة المندوبية الجهوية للشباب والرياضة بجندوبة (اعادة للمرة الثانية)",
     "dernier_delai": "07/12/2026 10:00",
@@ -965,14 +1365,6 @@
     "date_publication": "20/11/2026",
     "objet_ao": "Câbles HTA - 30 KV",
     "dernier_delai": "23/12/2026 09:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261102133",
-    "acheteur_public": "Gouvernorat de Jendouba",
-    "date_publication": "20/11/2026",
-    "objet_ao": "تزويد قوات الامن الداخلي وأعوان الحدود البرية التابعين للحرس الوطني بجندوبة بالمواد العطرية للفترة المتبقية لسنة 2026",
-    "dernier_delai": "27/11/2026 10:00",
     "categorie": "avis_ao"
   },
   {
@@ -1196,7 +1588,7 @@
     "acheteur_public": "Caisse Nationale de l’Assurance Maladie",
     "date_publication": "20/11/2026",
     "objet_ao": "l'Acquisition de Vêtements de travail",
-    "dernier_delai": "22/12/2026 08:30",
+    "dernier_delai": "05/01/2027 08:30",
     "categorie": "avis_ao"
   },
   {
@@ -2776,14 +3168,6 @@
     "categorie": "avis_ao"
   },
   {
-    "numero_ao": "20261101092",
-    "acheteur_public": "CENTRE NATIONAL DU CINÉMA ET DE L’IMAGE",
-    "date_publication": "13/11/2026",
-    "objet_ao": "Appel d’offre n°07/2026 selon les Procédures simplifiées SERVICES D’IMPRESSION OFFSET AU PROFIT DES JCC 2026",
-    "dernier_delai": "26/11/2026 11:00",
-    "categorie": "avis_ao"
-  },
-  {
     "numero_ao": "20261101087",
     "acheteur_public": "Commissariat régional de l’éducation de Ben Arous",
     "date_publication": "13/11/2026",
@@ -2845,14 +3229,6 @@
     "date_publication": "13/11/2026",
     "objet_ao": "اقتناء مبيدات حشرية ذات استعمال فلاحي",
     "dernier_delai": "30/11/2026 10:30",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261101074",
-    "acheteur_public": "Commissariat régional de l’éducation de Mannouba",
-    "date_publication": "13/11/2026",
-    "objet_ao": "طلب عروض وفق الإجراءات المبسطة عدد 26 /2026 مشروع هدم وإعادة بناء سياج بالمدرسة الابتدائية طريق الشويقي طبربة",
-    "dernier_delai": "27/11/2026 10:00",
     "categorie": "avis_ao"
   },
   {
@@ -3144,9 +3520,17 @@
     "categorie": "avis_ao"
   },
   {
-    "numero_ao": "",
-    "acheteur_public": "",
-    "date_publication": "",
+    "numero_ao": "20261101000",
+    "acheteur_public": "Ministère de la Santé",
+    "date_publication": "12/11/2026",
+    "objet_ao": "Acuisition de materiels utilisés dans le domaine de l'entomologie et de lutte anti-vectorielle",
+    "dernier_delai": "11/12/2026 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261100998",
+    "acheteur_public": "Ministère de l’Agriculture",
+    "date_publication": "12/11/2026",
     "objet_ao": "اقتناء و تركيز معدات اعلامية بعنوان سنة 2026",
     "dernier_delai": "15/12/2026 10:30",
     "categorie": "avis_ao"
@@ -3165,14 +3549,6 @@
     "date_publication": "12/11/2026",
     "objet_ao": "Élaboration d’une étude portant sur le Suivi de la qualité des eaux et de l’état écologique du lac de Ben Ghayadha À MAHDIA",
     "dernier_delai": "15/12/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261100999",
-    "acheteur_public": "Commune Mdhila",
-    "date_publication": "12/11/2026",
-    "objet_ao": "TRAVAUX DES VOIRIES DANS LA ZONE D’EXTENSION DE LA COMMUNE DE MDHILLA PROGRAMME FICOL 2",
-    "dernier_delai": "27/11/2026 10:00",
     "categorie": "avis_ao"
   },
   {
@@ -3269,14 +3645,6 @@
     "date_publication": "12/11/2026",
     "objet_ao": "SOUSCRIPTION DES CONTRATS D’ASSURANCES POUR LES ANNEES 2027 – 2028 - 2029 à Hopital Habib Thameur",
     "dernier_delai": "01/12/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261100876",
-    "acheteur_public": "CENTRE NATIONAL DU CINÉMA ET DE L’IMAGE",
-    "date_publication": "12/11/2026",
-    "objet_ao": "Appel d’offre selon les Procédures simplifiées N°06/2026 Location et entretien de matériels de projection cinématographique numérique au profit des JCC 2026",
-    "dernier_delai": "26/11/2026 11:00",
     "categorie": "avis_ao"
   },
   {
@@ -3740,7 +4108,7 @@
     "acheteur_public": "Centre de Formation Professionnelle des Pêche de Mahdia",
     "date_publication": "11/11/2026",
     "objet_ao": "Reparation et entretien des navires de formation",
-    "dernier_delai": "30/11/2026 11:30",
+    "dernier_delai": "10/12/2026 11:00",
     "categorie": "avis_ao"
   },
   {
@@ -3900,7 +4268,7 @@
     "acheteur_public": "Ministère de la Défense Nationale",
     "date_publication": "10/11/2026",
     "objet_ao": "إقتناء وتركيز محطات تحلية لفائدة وزارة الدفاع الوطني",
-    "dernier_delai": "10/12/2026 10:00",
+    "dernier_delai": "10/01/2027 10:00",
     "categorie": "avis_ao"
   },
   {
@@ -4048,22 +4416,6 @@
     "categorie": "avis_ao"
   },
   {
-    "numero_ao": "20261100562",
-    "acheteur_public": "Société des Services Nationaux et des Résidences",
-    "date_publication": "10/11/2026",
-    "objet_ao": "Fourniture de linge de restauration et linge de lit destinées aux résidences des hôtes de l'état à Gammarth",
-    "dernier_delai": "27/11/2026 10:30",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261100559",
-    "acheteur_public": "Société des Services Nationaux et des Résidences",
-    "date_publication": "10/11/2026",
-    "objet_ao": "La fourniture de tapis en laine destinée à l'équipement des résidences",
-    "dernier_delai": "27/11/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
     "numero_ao": "20261100554",
     "acheteur_public": "Commissariat Régional au Développement Agricole de Kasserine",
     "date_publication": "10/11/2026",
@@ -4208,14 +4560,6 @@
     "categorie": "avis_ao"
   },
   {
-    "numero_ao": "20261100502",
-    "acheteur_public": "Office des Terres Domaniales",
-    "date_publication": "10/11/2026",
-    "objet_ao": "Acquisition Poussins d'un jour Ponte",
-    "dernier_delai": "27/11/2026 09:00",
-    "categorie": "avis_ao"
-  },
-  {
     "numero_ao": "20261100145",
     "acheteur_public": "Hôpital Charles Nicolle de Tunis",
     "date_publication": "10/11/2026",
@@ -4333,14 +4677,6 @@
     "date_publication": "09/11/2026",
     "objet_ao": "Travaux de chauffage central aux bâtiments de la SONEDE à JBAL LAHMAR et à MEGRINE",
     "dernier_delai": "09/12/2026 09:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261100328",
-    "acheteur_public": "Commune Touiref",
-    "date_publication": "09/11/2026",
-    "objet_ao": "nettoyage et balayage de la ville de touiref",
-    "dernier_delai": "27/11/2026 10:00",
     "categorie": "avis_ao"
   },
   {
@@ -4672,14 +5008,6 @@
     "categorie": "avis_ao"
   },
   {
-    "numero_ao": "20261100388",
-    "acheteur_public": "Ministère du Tourisme et de l’Artisanat",
-    "date_publication": "06/11/2026",
-    "objet_ao": "Acquisition de 04 voitures de service pour le ministère du tourisme",
-    "dernier_delai": "26/11/2026 12:30",
-    "categorie": "avis_ao"
-  },
-  {
     "numero_ao": "20261100386",
     "acheteur_public": "Gouvernorat de Kébili",
     "date_publication": "06/11/2026",
@@ -4856,33 +5184,9 @@
     "categorie": "avis_ao"
   },
   {
-    "numero_ao": "20261100333",
-    "acheteur_public": "Hôpital régional de kébili",
-    "date_publication": "05/11/2026",
-    "objet_ao": "اقتناء حاجيات مطبخ المستشفى الجهوي بقبلي لسنة 2027",
-    "dernier_delai": "07/12/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261100332",
-    "acheteur_public": "Conseil régional de Gabès",
-    "date_publication": "05/11/2026",
-    "objet_ao": "مشروع. تعشيب الملعب البلدي بمطماطة الجديدة",
-    "dernier_delai": "08/12/2026 09:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261100326",
-    "acheteur_public": "Commisariat régional de l’éducation de Sfax 1",
-    "date_publication": "05/11/2026",
-    "objet_ao": "أشغال تهيئة وصيانة المدرسة الإبتدائية التحرير",
-    "dernier_delai": "07/12/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261100331",
-    "acheteur_public": "Commissariat Régional au Développement Agricole de Médenine",
-    "date_publication": "05/11/2026",
+    "numero_ao": "",
+    "acheteur_public": "",
+    "date_publication": "",
     "objet_ao": "إحداث شبكة نقاط ري بمياه التحلية ببنيري معتمدية بن قردان",
     "dernier_delai": "08/12/2026 10:00",
     "categorie": "avis_ao"
@@ -5224,7 +5528,31 @@
     "categorie": "avis_ao"
   },
   {
-    "numero_ao": "",
+    "numero_ao": "20261100228",
+    "acheteur_public": "Ministère des finances",
+    "date_publication": "04/11/2026",
+    "objet_ao": "Acquisition de matériel informatique",
+    "dernier_delai": "07/12/2026 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261100133",
+    "acheteur_public": "Ministère de la Défense Nationale",
+    "date_publication": "04/11/2026",
+    "objet_ao": "L'acquisition des chemins de câble avec couvercle usage extérieur.",
+    "dernier_delai": "04/12/2026 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261100152",
+    "acheteur_public": "Commissariat Régional au Développement Agricole de Béja",
+    "date_publication": "04/11/2026",
+    "objet_ao": "Travaux de restauration : Travaux de fixation des dunes littorales dans la région de Nefza au gouvernorat de Béja",
+    "dernier_delai": "08/12/2026 10:00",
+    "categorie": "avis_ao"
+  },
+  {
+    "numero_ao": "20261100150",
     "acheteur_public": "Commissariat régional de l’éducation de Kébili",
     "date_publication": "04/11/2026",
     "objet_ao": "اقتناء مواد مكتبية و مستلزمات الاعلامية لفائدة المندوبية الجهوية للتربية بقبلي لسنة 2027",
@@ -6288,43 +6616,11 @@
     "categorie": "avis_ao"
   },
   {
-    "numero_ao": "20261002802",
-    "acheteur_public": "Commissariat régional de l’éducation de Zaghouan",
-    "date_publication": "28/10/2026",
-    "objet_ao": "construction des salles prescolaires aux ecoles primaires au gouvernorat dezaghouan AO 43/2026",
-    "dernier_delai": "27/11/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
     "numero_ao": "20261002801",
     "acheteur_public": "Commissariat régional de l’éducation de Zaghouan",
     "date_publication": "28/10/2026",
     "objet_ao": "projet d'entretien des ecoles primaires au gouvernorat de zaghouan pg 2023-2025 AO 47/2026",
     "dernier_delai": "30/11/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261002798",
-    "acheteur_public": "Commissariat régional de la femme, de la famille et de l’enfance et des personnes âgées de Kairouan",
-    "date_publication": "28/10/2026",
-    "objet_ao": "Acquisition d'équipements de cuisine, de pâtisserie, d'épicerie et de boucherie",
-    "dernier_delai": "27/11/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261002799",
-    "acheteur_public": "Direction Régionale de l’Equipement, de l’Habitat et de l’Aménagement du Territoire de Tozeur",
-    "date_publication": "28/10/2026",
-    "objet_ao": "TRAVAUX D’ENTRETIEN DU RESEAU ROUTIER AU GOUVERNORAT DE TOZEUR 2026 2 EME FOIS",
-    "dernier_delai": "27/11/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261002701",
-    "acheteur_public": "Ministère de l’Equipement, l’habitat et l’aménagement du territoire",
-    "date_publication": "28/10/2026",
-    "objet_ao": "Travaux de consolidation et mise en sécurité des ouvrages de protection contre les inondations réparti en 03 lots .",
-    "dernier_delai": "27/11/2026 09:00",
     "categorie": "avis_ao"
   },
   {
@@ -6384,14 +6680,6 @@
     "categorie": "avis_ao"
   },
   {
-    "numero_ao": "20261002785",
-    "acheteur_public": "Commissariat Régional au Développement Agricole de Zaghouan",
-    "date_publication": "28/10/2026",
-    "objet_ao": "Construction d'un local de l'UGP du projet de développement et de promotion des filières agricole de Zaghouan",
-    "dernier_delai": "27/11/2026 10:03",
-    "categorie": "avis_ao"
-  },
-  {
     "numero_ao": "20261002783",
     "acheteur_public": "Caisse Nationale de Retraite et de Prévoyance Sociale",
     "date_publication": "28/10/2026",
@@ -6405,14 +6693,6 @@
     "date_publication": "28/10/2026",
     "objet_ao": "تهيئة و صيانة بعض المعاهد بالمنستير",
     "dernier_delai": "30/11/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261002774",
-    "acheteur_public": "Régie Nationale des Tabacs et des Allumettes",
-    "date_publication": "28/10/2026",
-    "objet_ao": "Acquisition de Rubans Adhésifs",
-    "dernier_delai": "27/11/2026 10:00",
     "categorie": "avis_ao"
   },
   {
@@ -6488,30 +6768,6 @@
     "categorie": "avis_ao"
   },
   {
-    "numero_ao": "20261002740",
-    "acheteur_public": "Conseil régional de Sidi Bouzid",
-    "date_publication": "28/10/2026",
-    "objet_ao": "تزويد مطعم الفوج الجهوي لحفظ النظام بسيدي بوزيد بالمواد الغذائية العامةخلال سنة 2027",
-    "dernier_delai": "27/11/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261002741",
-    "acheteur_public": "Ministère de la Jeunesse et des Sports",
-    "date_publication": "28/10/2026",
-    "objet_ao": "fournitue et pose des équipements de cuisine pour le restaurant du complexe sportif de Borj Cedria",
-    "dernier_delai": "27/11/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261002739",
-    "acheteur_public": "Commissariat régional de l’éducation de Béja",
-    "date_publication": "28/10/2026",
-    "objet_ao": "AO N°09/2026 2 EME FOIS lot 03 PROJET DE CONSTRUCTION D’UNE SALLE PREPARATOIRE ET REAMENAGEMENT A L’ECOLE PRIMAIRE OULIJA NEFZA",
-    "dernier_delai": "27/11/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
     "numero_ao": "20261002479",
     "acheteur_public": "Hôpital Habib Bourguiba Sfax",
     "date_publication": "28/10/2026",
@@ -6533,22 +6789,6 @@
     "date_publication": "28/10/2026",
     "objet_ao": "Modernisation des routes commune sejnene",
     "dernier_delai": "02/12/2026 10:30",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261002731",
-    "acheteur_public": "Commune de la Marsa",
-    "date_publication": "27/10/2026",
-    "objet_ao": "LA SOUSCRIPTION DES CONTRATS D’ASSURANCE DURANT LA PERIODE : 2027-2028-2029",
-    "dernier_delai": "27/11/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261002711",
-    "acheteur_public": "Commune de Sousse",
-    "date_publication": "27/10/2026",
-    "objet_ao": "Marché cadre de nettoiement de la ville de Sousse",
-    "dernier_delai": "26/11/2026 14:00",
     "categorie": "avis_ao"
   },
   {
@@ -6597,22 +6837,6 @@
     "date_publication": "27/10/2026",
     "objet_ao": "ACQUISITION DES DISPOSITIFS MEDICAUX POUR DIVERS SERVICES",
     "dernier_delai": "02/12/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261002673",
-    "acheteur_public": "Commissariat régional de l’éducation de Siliana",
-    "date_publication": "27/10/2026",
-    "objet_ao": "اقتناء أكسية العملة لسنة المالية 2026",
-    "dernier_delai": "27/11/2026 09:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261002507",
-    "acheteur_public": "Commissariat régional de l’éducation de Sidi Bouzid",
-    "date_publication": "27/10/2026",
-    "objet_ao": "Construction d'une cuisine et un réfectoire a l'école préparatoire OKBA IBN NAFAA - A MEZZOUNA",
-    "dernier_delai": "27/11/2026 09:30",
     "categorie": "avis_ao"
   },
   {
@@ -6720,22 +6944,6 @@
     "categorie": "avis_ao"
   },
   {
-    "numero_ao": "20261002618",
-    "acheteur_public": "Société Régionale de Transport Gouvernorat du Kef",
-    "date_publication": "27/10/2026",
-    "objet_ao": "acquisition de portique de lavage",
-    "dernier_delai": "27/11/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261002615",
-    "acheteur_public": "Agence Nationale d evaluation des Risques ANER",
-    "date_publication": "27/10/2026",
-    "objet_ao": "LA SOUSCRIPTION PAR L’AGENCE NATIONALE D’EVALUATION DES RISQUES(ANER) DES CONTRATS D’ASSURANCES POUR LES ANNÉES 2027-2028-2029",
-    "dernier_delai": "26/11/2026 11:00",
-    "categorie": "avis_ao"
-  },
-  {
     "numero_ao": "20261002509",
     "acheteur_public": "Hopital de circonscription de REGUEB",
     "date_publication": "27/10/2026",
@@ -6768,35 +6976,11 @@
     "categorie": "avis_ao"
   },
   {
-    "numero_ao": "20261002607",
-    "acheteur_public": "Société d’Exploitation du Canal et des Adductions des Eaux du Nord",
-    "date_publication": "26/10/2026",
-    "objet_ao": "TRAVAUX DE REMISE EN ÉTAT DES ATELIERS ET DES LOCAUX ANNEXES SITUÉS À NAASSEN ET À SIDI BARRAK",
-    "dernier_delai": "27/11/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261002604",
-    "acheteur_public": "Agence Foncière Industrielle",
-    "date_publication": "26/10/2026",
-    "objet_ao": "Etude complémentaire d’aménagement de la zone industrielle Mghira 5",
-    "dernier_delai": "27/11/2026 09:00",
-    "categorie": "avis_ao"
-  },
-  {
     "numero_ao": "20261002600",
     "acheteur_public": "Commune d’El Kram",
     "date_publication": "26/10/2026",
     "objet_ao": "Souscription de contrats d’assurance au profit de la commune du kram",
     "dernier_delai": "27/11/2026 11:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261002592",
-    "acheteur_public": "Caisse Nationale de Retraite et de Prévoyance Sociale",
-    "date_publication": "26/10/2026",
-    "objet_ao": "TRAVAUX D'ENTRETIEN ET DE PEINTURE DE LA CITE LOCATIVE DE LA CNRPS ( MENZAH 6)",
-    "dernier_delai": "27/11/2026 09:00",
     "categorie": "avis_ao"
   },
   {
@@ -6812,31 +6996,7 @@
     "acheteur_public": "Groupe Chimique Tunisien",
     "date_publication": "26/10/2026",
     "objet_ao": "Prestations de Service pour les Opérations de Dédouanement, Enlèvement et Acheminement des Marchandises (Hors Matières Premières) Importées ou Exportées à Travers les Ports et les Aéroports Tunisiens et les ventes locales pour les Besoins des Usines du Groupe Chimique Tunisien en trois (03) lots pour une (01) année renouvelable deux (02) fois",
-    "dernier_delai": "27/11/2026 08:30",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261002570",
-    "acheteur_public": "Commune de Menzel Temime",
-    "date_publication": "26/10/2026",
-    "objet_ao": "إنجاز أشــغــال تـأهـيـل الـمـسـلـخ اـلبـلـدي بمـنزل تـمـيـم",
-    "dernier_delai": "27/11/2026 10:30",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261002567",
-    "acheteur_public": "Commune de Menzel Temime",
-    "date_publication": "26/10/2026",
-    "objet_ao": "إنجاز أشغال بناء محطة لمعالجة المياه المستعملة بالمسلخ البلدي بمنزل تميم",
-    "dernier_delai": "27/11/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261002560",
-    "acheteur_public": "Hôpital universitaire TAHAR SFAR Mahdia",
-    "date_publication": "26/10/2026",
-    "objet_ao": "اقتناء مستلزمات طبية لفائدة المستشفى الجامعي الطاهر صفر بالمهدية Dispositifs médicaux Produits spécifiques",
-    "dernier_delai": "27/11/2026 10:00",
+    "dernier_delai": "09/12/2026 08:30",
     "categorie": "avis_ao"
   },
   {
@@ -6845,14 +7005,6 @@
     "date_publication": "26/10/2026",
     "objet_ao": "Projet de réparation des dégradations a l’institut supérieure de biotechnologie de Monastir",
     "dernier_delai": "03/12/2026 11:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261002539",
-    "acheteur_public": "Hôpital Régional Mohamed Ben Sassi - Gabes",
-    "date_publication": "26/10/2026",
-    "objet_ao": "Appel d’Offres N° :03 /2027PourL’acquisition Et La Livraison Des Accessoires et Réactifs Médicaux pour service Laboratoire à l’hôpital universitaire de Gabés 2027",
-    "dernier_delai": "26/11/2026 11:00",
     "categorie": "avis_ao"
   },
   {
@@ -6880,43 +7032,11 @@
     "categorie": "avis_ao"
   },
   {
-    "numero_ao": "20261002492",
-    "acheteur_public": "Agence Nationale de Certification Electronique",
-    "date_publication": "26/10/2026",
-    "objet_ao": "APPEL D’OFFRES N°08/2026 portant sur la conclusion d’un marché cadre sur trois ans pour la fourniture de services de maintenance préventive, curative des solutions, logiciels et équipements mis en exploitation au niveau de l’ANCE",
-    "dernier_delai": "27/11/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261002418",
-    "acheteur_public": "Le Centre national du registre des entreprises",
-    "date_publication": "26/10/2026",
-    "objet_ao": "Maintenance Data Center RNE",
-    "dernier_delai": "27/11/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261002398",
-    "acheteur_public": "Conseil régional de siliana",
-    "date_publication": "23/10/2026",
-    "objet_ao": "إتمام أشغال تهيئة وتعبيد 5.4 كلم من المسالك الريفية مسلك الصنوبرين بمعتمدية سليانة الجنوبية ومسلك أولاد فرج بمعتمدية برقو قسط عدد 01 ضمن البرنامج الجهوي للتنمية",
-    "dernier_delai": "27/11/2026 09:00",
-    "categorie": "avis_ao"
-  },
-  {
     "numero_ao": "20261002348",
     "acheteur_public": "Office de l’Aviation Civile et des Aéroports",
     "date_publication": "23/10/2026",
     "objet_ao": "Fourniture, installation et mise en service De deux Systèmes d'Atterrissage aux Instruments (ILS) de catégorie de performance II et de deux dispositifs UHF de mesure de distance (DME)",
     "dernier_delai": "10/12/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261002205",
-    "acheteur_public": "Hôpital militaire universitaire sfax",
-    "date_publication": "23/10/2026",
-    "objet_ao": "اقتناء وسائل نقل",
-    "dernier_delai": "26/11/2026 12:00",
     "categorie": "avis_ao"
   },
   {
@@ -6949,14 +7069,6 @@
     "date_publication": "23/10/2026",
     "objet_ao": "AO 49/2026 pour la Réalisation d’une centrale photovoltaïque de 200 kWc raccordée au réseau électrique moyenne tension au niveau du CENTRE DE FORMATION INTEGRE DE LA SONEDE A MORNAGUIA (Gouvernorat De TUNIS)",
     "dernier_delai": "09/12/2026 09:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261002330",
-    "acheteur_public": "Commune d’Ezzahra",
-    "date_publication": "23/10/2026",
-    "objet_ao": "Acquisition de matériel de nettoyage au profit de la municipalité d'Ez-zahra",
-    "dernier_delai": "27/11/2026 10:00",
     "categorie": "avis_ao"
   },
   {
@@ -7045,14 +7157,6 @@
     "date_publication": "21/10/2026",
     "objet_ao": "la réalisation des travaux d'exécution des réseaux primaires d’assainissement en eaux usées de la ville de Soukra dans le gouvernorat de l’Ariana- Tranche 1 : Fourniture, transport et pose de conduites, génie civil et équipement des stations de pompage.",
     "dernier_delai": "08/12/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261002158",
-    "acheteur_public": "Conseil regional de ben arous",
-    "date_publication": "21/10/2026",
-    "objet_ao": "انجاز مشروع اقتناء وتركيز مولد كهربائي بمقر ثكنة الأمن الوطني حي المزوغي بن عروس",
-    "dernier_delai": "27/11/2026 10:00",
     "categorie": "avis_ao"
   },
   {
@@ -7208,14 +7312,6 @@
     "categorie": "avis_ao"
   },
   {
-    "numero_ao": "20261001278",
-    "acheteur_public": "Groupe Chimique Tunisien",
-    "date_publication": "14/10/2026",
-    "objet_ao": "خدمات شحن و نقل المواد الصلبة داخل المعامل و بين المعامل و الموانئ لفائدة المجمع الكيميائي التونسي لمدة سنة قابلة للتجديد مرتين.",
-    "dernier_delai": "27/11/2026 08:30",
-    "categorie": "avis_ao"
-  },
-  {
     "numero_ao": "20261001275",
     "acheteur_public": "Manufacture des Tabacs de Kairouan",
     "date_publication": "14/10/2026",
@@ -7272,14 +7368,6 @@
     "categorie": "avis_ao"
   },
   {
-    "numero_ao": "20261000920",
-    "acheteur_public": "Centre de Traumatologie et des Grands Brûles",
-    "date_publication": "10/10/2026",
-    "objet_ao": "Acquisition de Réactifs et Accessoires de Laboratoire – 2éme fois",
-    "dernier_delai": "27/11/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
     "numero_ao": "20261000952",
     "acheteur_public": "Société Tunisienne d’Electricité et de Gaz",
     "date_publication": "09/10/2026",
@@ -7309,14 +7397,6 @@
     "date_publication": "08/10/2026",
     "objet_ao": "l’acquisition d’une matrice vidéo 128x128 pour le centre NODAL",
     "dernier_delai": "04/12/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20261000787",
-    "acheteur_public": "Société d’Exploitation du Canal et des Adductions des Eaux du Nord",
-    "date_publication": "07/10/2026",
-    "objet_ao": "Portefeuille assurance 2027-2028-2029",
-    "dernier_delai": "27/11/2026 10:00",
     "categorie": "avis_ao"
   },
   {
@@ -7373,86 +7453,6 @@
     "date_publication": "29/09/2026",
     "objet_ao": "المناظرة الوطنية قسم الهندسة المدنية مبيت محمود المسعدي",
     "dernier_delai": "30/11/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20260902095",
-    "acheteur_public": "Hôpital Régional Mohamed Ben Sassi - Gabes",
-    "date_publication": "28/09/2026",
-    "objet_ao": "تزويد مطبخ المستشفى الجامعي بقابس بالمواد الغذائية لسنة 2027",
-    "dernier_delai": "26/11/2026 11:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20260901869",
-    "acheteur_public": "Société Nationale de Distribution de Pétrole",
-    "date_publication": "22/09/2026",
-    "objet_ao": "Fourniture de pièces de rechange industriels pour les centres emplisseurs GPL de GABES, RADES et BIZERTE de la SNDP en trois (03) lots séparés .",
-    "dernier_delai": "09/12/2026 09:30",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20260901812",
-    "acheteur_public": "Société des Services Nationaux et des Résidences",
-    "date_publication": "21/09/2026",
-    "objet_ao": "Fourniture de tapis en soie destinés à l'équipement des résidences",
-    "dernier_delai": "31/12/2026 10:16",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20260901807",
-    "acheteur_public": "Société Promosport",
-    "date_publication": "21/09/2026",
-    "objet_ao": "l'acquisition d'une plateforme multicanaux d'organisation des jeux de hasard et de paris sportifs",
-    "dernier_delai": "01/12/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20260901582",
-    "acheteur_public": "Office de la Marine Marchande et des Ports",
-    "date_publication": "18/09/2026",
-    "objet_ao": "TRAVAUX DE DRAGAGE AU PORT DE ZARZIS",
-    "dernier_delai": "27/11/2026 10:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20260901353",
-    "acheteur_public": "Groupe Chimique Tunisien",
-    "date_publication": "16/09/2026",
-    "objet_ao": "Fourniture de 15 lots de pompes et Motopompes centrifuges pour eaux et condensats pour les usines à Gabès, Skhira et M’dhilla du Groupe Chimique Tunisien",
-    "dernier_delai": "09/12/2026 08:30",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20260901331",
-    "acheteur_public": "Groupe Chimique Tunisien",
-    "date_publication": "14/09/2026",
-    "objet_ao": "GFI2610058 Fourniture de pièces de rechange pour ventilateur de l'aérocondenseur pour l'usine Ammonitrate du GCT à Gbaès",
-    "dernier_delai": "08/12/2026 08:30",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20260901319",
-    "acheteur_public": "Groupe Chimique Tunisien",
-    "date_publication": "14/09/2026",
-    "objet_ao": "GFI2610062 Fourniture de trois lots de pièces de rechange pour les échangeurs thermiques des usines du GCT à Gabès",
-    "dernier_delai": "08/12/2026 08:30",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20260901011",
-    "acheteur_public": "Société Tunisienne des Indsutries de Raffinage",
-    "date_publication": "09/09/2026",
-    "objet_ao": "Acquisition d’un camion hydrocureur de capacité 12 M3",
-    "dernier_delai": "09/12/2026 09:00",
-    "categorie": "avis_ao"
-  },
-  {
-    "numero_ao": "20260900996",
-    "acheteur_public": "Office National de l’Assainissement",
-    "date_publication": "08/09/2026",
-    "objet_ao": "l’acquisition de matériels de sécurité et d’intervention",
-    "dernier_delai": "01/12/2026 10:00",
     "categorie": "avis_ao"
   }
 ]
